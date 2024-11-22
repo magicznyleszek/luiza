@@ -1,0 +1,13 @@
+# site configuration
+safe: true
+quiet: false
+future: true
+encoding: utf-8
+markdown: kramdown
+timezone: Europe/Warsaw
+port: 2038
+
+exclude:
+  - node_modules
+  - LICENSE
+  - README.md
