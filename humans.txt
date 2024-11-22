@@ -1,0 +1,12 @@
+## TEAM
+
+Everything: Zefir Efemera
+Site: zefirefemera.xyz
+Email: zefirefemera@proton.me
+Location: CET Timezone
+
+## SITE
+
+Last update: 2024/11
+Language: Polski
+Software: Visual Studio Code
