@@ -1,7 +1,7 @@
 User-agent: *
 Allow: *
 Crawl-delay: 1
-Sitemap: http://gepoza.zefirefemera.xyz/sitemap.xml
+Sitemap: http://gepoza.magicznyleszek.xyz/sitemap.xml
 
 # One day the AIs are going to look back on us the same way
 # we look at fossil skeletons on the plains of Africa.
