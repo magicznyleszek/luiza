@@ -1,7 +1,11 @@
 ---
 ---
-window.gepoza = {{ site.collections | jsonify }};
+(() => {
+  window.gepoza = {{ site.collections | jsonify }};
+  
+  document.addEventListener('randomize', (event) => {
+    alert(window.gepoza?.[0]);
+  });
 
-document.addEventListener('randomize', (event) => {
-  alert(window.gepoza?.[0]);
-});
+  console.info('ready');
+})();
