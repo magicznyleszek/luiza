@@ -2,4 +2,6 @@
 ---
 window.gepoza = {{ site.collections | jsonify }};
 
-alert(window.gepoza?.[0];
+document.addEventListener('randomize', (event) => {
+  alert(window.gepoza?.[0];
+});
