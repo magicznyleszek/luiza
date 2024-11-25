@@ -43,6 +43,12 @@
   </style>
 
   <script src="./data.js"></script>
+
+  <script>
+    function handleClick() {
+      dispatchEvent(new Event('randomize'));
+    }
+  </script>
 </head>
 
 <body>
@@ -54,7 +60,7 @@
 
     <p>test</p>
 
-    <button onclick="dispatchEvent(new Event('randomize'));">klik</button>
+    <button onclick="handleClick()">klik</button>
   </main>
 
   <footer>

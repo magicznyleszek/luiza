@@ -1,0 +1,25 @@
+{
+  "name": "gepoza",
+  "private": true,
+  "version": "1.2.3",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gepoza/biz.git"
+  },
+  "author": "Leszek Pietrzak",
+  "license": "CC0 1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/gepoza/biz/issues",
+    "email": "zefirefemera@proton.me"
+  },
+  "homepage": "https://gepoza.magicznyleszek.xyz",
+  "scripts": {
+    "serve": "npm run jekyll-serve",
+    "jekyll-build": "jekyll build",
+    "jekyll-serve": "jekyll serve --watch --baseurl ''"
+  },
+  "devDependencies": {
+    "jekyll": "^3.0.0-beta1"
+  }
+}
