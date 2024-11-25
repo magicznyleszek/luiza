@@ -1,9 +1,9 @@
 ---
 ---
 (() => {
-  window.gepoza = {{ site.data.collections | jsonify }};
+  window.gepoza = {{ site.data.zawody | jsonify }};
   
-  document.addEventListener('randomize', (event) => {
+  window.addEventListener('randomize', (event) => {
     alert(window.gepoza?.[0]);
   });
 
