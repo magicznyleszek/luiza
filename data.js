@@ -8,7 +8,7 @@
     console.log(randomItem);
     const out = document.getElementById('out');
     if (out) {
-      out.innerHTML = JSON.stringify(randomItem);
+      out.innerHTML = JSON.stringify(randomItem, null, "  ");
     }
   }
 
@@ -16,6 +16,8 @@
     console.info('randomize');
     renderRandomIdea();
   });
+
+  window.addEventListener('load', renderRandomIdea);
 
   console.info('ready');
 })();
