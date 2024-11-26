@@ -5,10 +5,11 @@
   
   function renderRandomIdea() {
     const randomItem = window.gepoza[Math.floor(Math.random() * window.gepoza.length)];
-    console.log(randomItem);
-    const out = document.getElementById('out');
-    if (out) {
-      out.innerHTML = JSON.stringify(randomItem, null, "  ");
+    const nameEl = document.getElementById('js-name');
+    const descriptionEl = document.getElementById('js-description');
+    if (nameEl && descriptionEl) {
+      nameEl.innerText = randomItem.name.join('/');
+      descriptionEl.innerText = randomItem.description;
     }
   }
 

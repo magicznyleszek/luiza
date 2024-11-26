@@ -22,14 +22,18 @@
 
 <body>
   <main>
-    <header>
-      <h1>GePoZa</h1>
-      <h2>Generator Pomysłów Zabaw</h2>
+    <header class="name">
+      <button class="randomize-button" onclick="handleClick()">randomizuj</button>
+
+      <h1 class="name-main">GePoZa</h1>
+
+      <h2 class="name-secondary">Generator Pomysłów Zabaw</h2>
     </header>
 
-    <pre id="out"></pre>
-
-    <button onclick="handleClick()">randomizuj</button>
+    <section class="idea">
+      <h3 class="idea-name" id="js-name"></h3>
+      <p class="idea-description" id="js-description"></p>
+    </section>
   </main>
 
   <footer>
