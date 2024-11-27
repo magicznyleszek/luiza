@@ -15,6 +15,14 @@
   margin: 0;
 }
 
+:focus {
+  outline: 0;
+}
+
+:focus-visible {
+  outline: 0.25rem solid salmon;
+}
+
 a {
   color: inherit;
   text-decoration-style: dotted;
