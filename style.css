@@ -3,11 +3,19 @@
  */
 
 :root {
-  background-color: lightsalmon;
-  color: darkslateblue;
+  background-color: var(--bg-color-primary);
+  background-image: linear-gradient( -20deg, var(--bg-color-primary), var(--bg-color-secondary));
+  box-shadow: 2rem 1rem 10rem 1rem var(--bg-color-tertiary) inset;
+  color: var(--main-color);
   font-size: 20px;
   line-height: 1.5rem;
   font-family: sans-serif;
+
+  --main-color: darkslateblue;
+  --bg-color-primary: palegoldenrod;
+  --bg-color-secondary: peachpuff;
+  --bg-color-tertiary: bisque;
+  --focus-color: lightsalmon;
 }
 
 * {
@@ -20,15 +28,16 @@
 }
 
 :focus-visible {
-  outline: 0.25rem solid salmon;
+  outline: 0.25rem solid var(--focus-color);
 }
 
 a {
   color: inherit;
   text-decoration-style: dotted;
+  border-radius: 0.25rem;
 }
 
-a:href {
+a:hover {
   text-decoration-style: solid;
 }
 
@@ -48,71 +57,55 @@ main {
 }
 
 .name,
-.idea {
+.idea,
+.footer {
   width: 100%;
   max-width: 25rem;
   margin: 2rem auto;
-}
-
-.name-main {
-  font-size: 1.25rem;
-  font-weight: 900;
-}
-
-.name-secondary {
-  font-size: 0.75rem;
-  font-weight: 400;
-}
-
-.name-secondary::before {
-  content: "(";
-}
-
-.name-secondary::after {
-  content: ")";
 }
 
 .randomize-button {
   appearance: none;
   cursor: pointer;
   text-decoration: none;
-  color: lightsalmon;
-  background-color: darkslateblue;
+  color: currentcolor;
+  background-color: transparent;
   height: auto;
   margin: 0;
-  border: 0.08rem solid lightsalmon;
-  box-shadow: 0 0.4rem 0 -0.05rem darkslateblue;
-  padding: 0.5rem;
+  border: 1.5px solid currentcolor;
+  box-shadow: 0 0.4rem 0 0 currentcolor;
+  padding: 0.5rem 1rem;
   border-radius: 0.5rem;
-  float: right;
   font-weight: 600;
 }
 
 .randomize-button:hover {
-  background-color: slateblue;
-  box-shadow: 0 0.4rem 0 -0.05rem slateblue;
+  background-color: var(--focus-color);
 }
 
 .randomize-button:active {
-  transform: translateY(1px);
+  /* Makes it look pressed down */
+  transform: translateY(0.125rem);
+  box-shadow: 0 calc(0.4rem - 0.125rem) 0 0 currentcolor;
 }
 
 .idea {
   padding: 2rem;
-  border: 0.25rem dotted currentColor;
+  border: 2.5px dotted currentColor;
   border-radius: 1rem;
 }
 
 .idea-name {
   font-size: 1.5rem;
   font-weight: 600;
-  margin: 0 auto 1rem;
-}
-
-.idea-description {
   margin: 0 auto;
 }
 
-footer {
+.idea-description:not(:empty) {
+  margin: 1rem auto 0;
+}
+
+.footer {
   font-size: 0.666rem;
+  margin-bottom: 0;
 }
