@@ -103,6 +103,11 @@ main {
   margin: 0 auto;
 }
 
+.idea-name,
+.idea-description {
+  overflow-wrap: break-word;
+}
+
 .idea-description:not(:empty) {
   margin: 1rem auto 0;
 }
