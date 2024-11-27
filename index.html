@@ -1,3 +1,5 @@
+---
+---
 <html lang="pl-PL">
 <head>
   <meta charset="utf-8">
@@ -11,13 +13,16 @@
 
   <link href="./style.css" rel="stylesheet" />
 
-  <script src="./data.js"></script>
-
   <script>
     function handleClick() {
       dispatchEvent(new Event('randomize'));
     }
+
+    // This line is Jekyll x JS code:
+    window.gepoza = {{ site.data.zawody | jsonify }} || [];
   </script>
+
+  <script async src="./data.js"></script>
 </head>
 
 <body>
