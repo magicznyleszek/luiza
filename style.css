@@ -72,11 +72,13 @@ main {
   background-color: transparent;
   height: auto;
   margin: 0;
+  font: inherit;
   border: 1.5px solid currentcolor;
   box-shadow: 0 0.4rem 0 0 currentcolor;
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
   font-weight: 600;
+  overflow-wrap: break-word;
 }
 
 .randomize-button:hover {
