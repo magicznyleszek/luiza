@@ -16,7 +16,7 @@
     if (nameEl && descriptionEl) {
       let fullName = idea.name_m;
       if (idea.name_f) {
-        fullName += `/${idea.name_f}`;
+        fullName += ` / ${idea.name_f}`;
       }
       nameEl.innerText = fullName;
       descriptionEl.innerText = idea.description;
