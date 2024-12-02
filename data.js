@@ -16,8 +16,12 @@
     if (nameEl && descriptionEl) {
       // Display random name (m or f), because some names are too long to 
       // display both of them at the same time.
-      const names = [idea.name_m, idea.name_f];
+      const names = [];
+      if (idea.name_m) {names.push(idea.name_m);}
+      if (idea.name_f) {names.push(idea.name_f);}
+      if (names.length === 0) {names.push('przepraszam, ale jest błąd!');}
       const randomName = names[Math.floor(Math.random()*names.length)];
+      
       nameEl.innerText = randomName;
       descriptionEl.innerText = idea.description;
     }
