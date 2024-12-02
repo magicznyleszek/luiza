@@ -14,11 +14,11 @@
     const nameEl = document.getElementById('js-name');
     const descriptionEl = document.getElementById('js-description');
     if (nameEl && descriptionEl) {
-      let fullName = idea.name_m;
-      if (idea.name_f) {
-        fullName += ` / ${idea.name_f}`;
-      }
-      nameEl.innerText = fullName;
+      // Display random name (m or f), because some names are too long to 
+      // display both of them at the same time.
+      const names = [idea.name_m, idea.name_f];
+      const randomName = names[Math.floor(Math.random()*names.length)];
+      nameEl.innerText = randomName;
       descriptionEl.innerText = idea.description;
     }
   }
