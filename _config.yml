@@ -8,6 +8,14 @@ timezone: Europe/Warsaw
 port: 2038
 
 exclude:
-  - node_modules
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
   - LICENSE
   - README.md
+  - "*.code-workspace"
+  - package-lock.json
+  - package.json
