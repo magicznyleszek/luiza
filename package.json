@@ -1,19 +1,19 @@
 {
-  "name": "gepoza",
+  "name": "luiza",
   "private": true,
   "version": "1.2.3",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gepoza/biz.git"
+    "url": "https://github.com/luiza/biz.git"
   },
   "author": "Leszek Pietrzak",
   "license": "CC0 1.0 Universal",
   "bugs": {
-    "url": "https://github.com/gepoza/biz/issues",
+    "url": "https://github.com/luiza/biz/issues",
     "email": "zefirefemera@proton.me"
   },
-  "homepage": "https://gepoza.magicznyleszek.xyz",
+  "homepage": "https://luiza.magicznyleszek.xyz",
   "scripts": {
     "serve": "npm run jekyll-serve",
     "jekyll-build": "jekyll build",
