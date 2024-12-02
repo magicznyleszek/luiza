@@ -1,94 +1,73 @@
 name_m,name_f,description,source
-Adwokat,,,Urząd Pracy
-agent ubezpieczeniowy,,,Urząd Pracy
-agrochemik,,,Urząd Pracy
-agronom miejski,agronomczyni miejska,zajmuje się uprawą roślin na dachach budynków i innych obszarach nad ziemią i dbałością o jakość powietrza i wód w mieście,Nietypowe zawody
-akrobata,,,Urząd Pracy
-aktor,,,Urząd Pracy
-aktor cyrkowy,,,Urząd Pracy
-aktor lalkarz,,,Urząd Pracy
-akupunkturzysta,,,Urząd Pracy
-akwizytor,,,Urząd Pracy
-alchemik,alchemiczka,,Harry Potter
-alpinista przemysłowy,,,Urząd Pracy
-andragog,,,Urząd Pracy
-animator kultury,,,Urząd Pracy
-animator rekreacji i organizacji czasu wolnego,,,Urząd Pracy
-ankieter,,,Urząd Pracy
-antykwariusz,,,Urząd Pracy
-aptekarz,,,Warhammer FRP
-arborysta,arborystka,specjalista w kwestii pielęgnacji drzew,Nietypowe zawody
-archeolog,,,Urząd Pracy
-architekt,,,Urząd Pracy
-architekt krajobrazu,,,Urząd Pracy
-architekt wnętrz,,,Urząd Pracy
-architekt zieleni wewnątrz budynków,,,Urząd Pracy
-archiwista,,,Urząd Pracy
-arcymag,,,Warhammer FRP
-arkadownik,,,Urząd Pracy
-arteterapeuta,,,Urząd Pracy
+adwokat,adwokatka,"zajmuje się poradnictwem prawnym, sporządzaniem aktów prawnych oraz obroną i reprezentowaniem podczas rozpraw sądowych",Urząd Pracy
+agronom miejski,agronomka miejska,zajmuje się uprawą roślin na dachach budynków i innych obszarach nad ziemią i dbałością o jakość powietrza i wód w mieście,Nietypowe zawody
+akrobata,akrobatka,"osoba, która potrafi wykonać skomplikowane figury gimnastyczne - samodzielnie lub z rekwizytami",Urząd Pracy
+aktor,aktorka,"odgrywa za pomocą szczególnego zachowania, technik cielesnych i głosowych rolę w serialu, teatrze, filmie, etc.",Urząd Pracy
+aktor lalkarz,aktorka lalkarka,animuje lalki podczas przedstawień w teatrze lalek,Urząd Pracy
+aktuariusz,aktuariuszka,oblicza ryzyko i wartości projektów finansowych,Nietypowe zawody
+akupunkturzysta,akupunkturzystka,ocenia stan energetyczny ludzkiego organizmu i eliminuje zaburzenia zmyślnie nakłuwając igłami,Urząd Pracy
+akwizytor,akwizytorka,zajmuje się sprzedażą chodząc po domach klientów,Urząd Pracy
+alchemik,alchemiczka,"poszukuje rozwiązań tajemnic przy pomocy eliksirów i symboli - m. in. chce odkryć metodę transmutacji ołowiu w złoto (kamień filozoficzny), lekarstwa na wszelkie choroby (panaceum) i eliksiru nieśmiertelności",Harry Potter
+alpinista przemysłowy,alpinistka przemysłowa,wykonuje różne prace w trudno dostępnych miejscach,Urząd Pracy
+ankieter,ankieterka,"zajmuje się zadawaniem pytań i odnotowaniem odpowiedzi, przeprowadza wywiady na potrzeby badań",Urząd Pracy
+antykwariusz,antykwariuszka,skupuje i sprzedaje antyki w antykwariacie,Urząd Pracy
+aptekarz,aptekarka,"dba o aptekę, o przechowywanie leków, udziela porad pacjentom na temat leków i ich stosowania",Warhammer FRP
+arborysta,arborystka,"zajmuje się pielęgnacją drzew metodą wspinaczkową lub przy pomocy podnośnika koszowego, opiekuje się drzewami od fazy nasadzeń, aż do kresu ich życia",Nietypowe zawody
+archeolog,archeolożka,"prowadzi prace wykopaliskowe oraz bada, analizuje i dokumentuje zdobyty materiał",Urząd Pracy
+architekt,architektka,przygotowuje projekt budynku zgodny wytycznymi i przepisami prawa oraz czuwa nad przebiegiem budowy,Urząd Pracy
+architekt krajobrazu,architektka krajobrazu,"projektuje wygląd ogrodów, parków, skwerów i terenów zielonych ogólnie dostępnych oraz czuwa nad przebiegiem budowy",Urząd Pracy
+architekt wnętrz,architektka wnętrz,projektuje pomieszczenia zgodnie z ich przeznaczeniem i oczekiwaniami klienta,Urząd Pracy
+archiwista,archiwistka,przechowywuje i zarządza dokumentami w uporządkowanych zbiorach na jakiś temat,Urząd Pracy
+arteterapeuta,arteterapeutka,"leczy pacjentów poprzez sztukę, pomaga w rozwoju psychicznym",Urząd Pracy
 artysta bonsai,artystka bonsai,umie miniaturyzować drzewka i wyginać i układać jego gałęzie w oryginalne wzory,Nietypowe zawody
-artysta fotografik,,,Urząd Pracy
-artysta grafik,,,Urząd Pracy
-artysta malarz,,,Urząd Pracy
-artysta rzeźbiarz,,,Urząd Pracy
-astrofizyk,,,Urząd Pracy
+artysta fotografik,artystka fotograficzka,"zajmuje się robieniem artystycznych zdjęć, przekazując innym swoją wizję świata bądź dokumentując zastaną rzeczywistość",Urząd Pracy
+artysta grafik,artystka graficzka,"projektuje i tworzy artystyczne kompozycje plastyczne - plakaty, ilustracje, reklamy itp.",Urząd Pracy
+artysta malarz,artystka malarka,tworzy malowany obraz lub inne dzieło na płótnie oraz innych materiałach,Urząd Pracy
+artysta rzeźbiarz,artystka rzeźbiarka,tworzy artystyczne rzeźby,Urząd Pracy
 astrogórnik,astrogórniczka,"wydobywa zasoby z powierzchni księżyców, asteroid i innych ciał niebieskich",Nietypowe zawody
-astrolog,,,Urząd Pracy
-astronom,astronomka,,Harry Potter
-asystentka kobiety w czasie ciąży i porodu (doula),,,Urząd Pracy
-asystentka stomatologiczna,,,Urząd Pracy
-audiofonolog,,"przeprowadza testy audiometryczne w celu oceny zakresu słuchu pacjenta, identyfikację przyczyn utraty słuchu ",Urząd Pracy
-autor tekstów i sloganów reklamowych (copywriter),,,Urząd Pracy
-bagażowy,,,Urząd Pracy
-bagienny zbieracz,,,Warhammer FRP
-bajarz,,,Warhammer FRP
-balsamista,,,Warhammer FRP
-bandażysta ortopedyczny,,,Urząd Pracy
+astrolog,astrolożka,bada wpływ poszczególnych planet układu słonecznego i gwiazd stałych na środowisko ziemskie,Urząd Pracy
+astronom,astronomka,"bada obiekty znajdujące się poza ziemską atmosferą - analizuje ich ruchy, bada budowę oraz przewidywuje przyszłe zdarzenia kosmiczne",Harry Potter
+asystent stomatologiczny,asystentka stomatologiczna,jest odpowiedzialna za organizację pracy gabinetu stomatologicznego i pomoc lekarzowi stomatologowi podczas zabiegów,Urząd Pracy
+audiofonolog,audiofonolożka,przeprowadza testy audiometryczne w celu oceny zakresu słuchu pacjenta i identyfikacji przyczyn utraty słuchu ,Urząd Pracy
+bagażowy,bagażowa,"przenosi bagaż we wskazane miejsce - w hotelach, na lotniskach i dworcach",Urząd Pracy
+bagienny zbieracz,bagienna zbieraczka,łowi żaby i ślimaki na bagnach,Warhammer FRP
+bandażysta ortopedyczny,bandażystka ortopedyczna,"wytwarza części protez kończyn dolnych i górnych, naprawia protezy",Urząd Pracy
 bankowiec,bankowczyni,"przyjmuje i wypłaca pieniądze, udziela kredytów",
-bard,,,Warhammer FRP
-barista,,zajmuje się kawą i wszystkim co z nią związane,Urząd Pracy
-barman,,miesza drinki,Urząd Pracy
-bednarz,,"wytwarza i naprawia przedmioty z drewna, takie jak beczki, meble czy narzędzia",Urząd Pracy
-betoniarz,,,Urząd Pracy
-bibliotekarz,bibliotekarka,,Urząd Pracy
-bieliźniarz,,,Urząd Pracy
-bieliźniarz-kołdrzarz,,,Urząd Pracy
-bileter,,,Urząd Pracy
-biochemik,,,Urząd Pracy
-bioenergoterapeuta,,,Urząd Pracy
-biofizyk,,,Urząd Pracy
-bioinformatyk,,,Urząd Pracy
-bioinżynier,,,Urząd Pracy
-biolog,,,Urząd Pracy
-biomasażysta,,,Urząd Pracy
-biotechnolog,,,Urząd Pracy
-blacharz,,,Urząd Pracy
-bosman,,,Warhammer FRP
-botanik,,,Urząd Pracy
-brązownik,,,Urząd Pracy
-brukarz,,,Urząd Pracy
-budowniczy,,,Warhammer FRP
-bukieciarz,,,Urząd Pracy
+barista,baristka,zajmuje się kawą i wszystkim co z nią związane,Urząd Pracy
+barman,barmanka,miesza drinki,Urząd Pracy
+bednarz,bednarka,"wytwarza i naprawia przedmioty z drewna, takie jak beczki, meble czy narzędzia",Urząd Pracy
+betoniarz,betoniarka,zajmuje się przygotowaniem i wylewaniem betonu,Urząd Pracy
+bibliotekarz,bibliotekarka,"zajmuje się wypożyczaniem książek z bibliotecznego zbioru, rejestracją czytelników, wydawaniem kart bibliotecznych, prowadzeniu bazy danych książek (katalog książek) i ich archiwizacją",Urząd Pracy
+bileter,bileterka,zajmuje się sprzedażą lub kontrolowaniem biletów wstępu i wejściówek na konkretnym wydarzeniu,Urząd Pracy
+biochemik,biochemiczka,"bada, obserwuje i poznaje chemiczną budowę żywych organizmów i zachodzące w nich procesy biochemiczne",Urząd Pracy
+bioenergoterapeuta,bioenergoterapeutka,"ocenia stan energetyczny organizmu człowieka oraz eliminuje jego zaburzenia - koryguje stan bioplazmy i biopola, hipnotyzuje, przekazuje potencjał energetyczny…",Urząd Pracy
+biofizyk,biofizyczka,bada fizyczne i fizykochemiczne podstawy procesów życiowych oraz wpływ zewnętrznych czynników fizycznych na te procesy,Urząd Pracy
+bioinformatyk,bioinformatyczka,"tworzy bazy danych DNA ludzi, roślin i zwierząt, pisze algorytmy analizujące i porównujące DNA",Urząd Pracy
+bioinżynier,bioinżynierka,"tworzy biomateriały, sztuczne narządy, protezy, czasem manipuluje kodem DNA by projektować organizmy o konkretnych cechach",Urząd Pracy
+biolog,biolożka,zajmuje się badaniem organizmów żywych oraz ich środowiska,Urząd Pracy
+biomasażysta,biomasażystka,"wykonuje precyzyjny masaż ciała za pomocą specjalnych narzędzi, takich jak kulki, rolki lub wałki",Urząd Pracy
+biotechnolog,biotechnolożka,"modyfikuje organizmy żywe, tak, aby uzyskać nowe, przydatne dla człowieka produkty - leki, żywność, biopaliwa, itp.",Urząd Pracy
+blacharz,blacharka,zajmuje się naprawą i wymianą elementów karoserii samochodowej wykonanych z blachy,Urząd Pracy
+bosman,bosmanka,"odpowiada za stan techniczny statku, organizuje i nadzoruje prace związane z manewrowaniem statkami w portach",Warhammer FRP
+botanik,botaniczka,"dokumentuje, przeprowadza doświadczenia i bada rośliny",Urząd Pracy
+brązownik,brązowniczka,"zajmuje się odlewaniem dużych przedmiotów użytkowych z brązu, mosiądzu lub miedzi",Urząd Pracy
+brukarz,brukarka,"zajmuje się układaniem kostki brukowej, kamieni, płyt chodnikowych i innych materiałów brukarskich, tworząc estetyczne i trwałe nawierzchnie",Urząd Pracy
+bukieciarz,bukieciarka,zajmuje się aranżowaniem i projektowaniem kwiatowych bukietów oraz dekoracji z kwiatów,Urząd Pracy
 bursztyniarz,bursztyniarka,"ocenia, klasyfikuje i przygotowuje bursztyn do produkcji ręcznej albo mechanicznej",Nietypowe zawody
-charakteryzator,,,Urząd Pracy
-chemik,,,Urząd Pracy
-chiropraktyk,,"leczy i zapobiega zaburzeniom narządu ruchu, zwłaszcza kręgosłupa",Urząd Pracy
-chirurg pielęgniarz drzew,,,Urząd Pracy
-cholewkarz,,wykonuje wierzchnie części obuwia,Urząd Pracy
-choreograf,,,Urząd Pracy
-chórzysta,,,Warhammer FRP
-ciągacz rur,,,Urząd Pracy
-cykliniarz,,,Urząd Pracy
-cyrkowiec,,,Warhammer FRP
-czarnoksiężnik,,,Warhammer FRP
-czarownik,,,Warhammer FRP
-czyściciel basenów pływackich,,,Urząd Pracy
-czyściciel butów,,,Urząd Pracy
-czyściciel dywanów,,,Urząd Pracy
-czyściciel elewacji budowlanych,,,Urząd Pracy
-czyściciel pojazdów,,,Urząd Pracy
-dekarz,,pokrywa i naprawia dachy materiałami dekarskimi,Urząd Pracy
+charakteryzator,charakteryzatorka,"zajmuje się tworzeniem makijażu oraz wykonywaniem różnego typu zabiegów, których celem jest dostosowanie twarzy aktora lub innego artysty do postaci, w którą ma się wcielić",Urząd Pracy
+chemik,chemiczka,zajmuje się badaniem i analizowaniem składów chemicznych substancji organicznych oraz nieorganicznych; przeprowadza badania laboratoryjne i opracowuje teorie naukowe,Urząd Pracy
+chiropraktyk,chiropraktyczka,"leczy i zapobiega zaburzeniom narządu ruchu, zwłaszcza kręgosłupa",Urząd Pracy
+cholewkarz,cholewkarka,wykonuje wierzchnie części obuwia,Urząd Pracy
+choreograf,choreografka,zajmuje się tworzeniem układów ruchowych i tanecznych do wykonania przez tancerzy,Urząd Pracy
+chórzysta,chórzystka,"dba o i rozwija swój głos, by śpiewać równocześnie z innymi chórzystami w chórze",Warhammer FRP
+copywriter,copywriterka,autor tekstów i sloganów reklamowych,Urząd Pracy
+cykliniarz,cykliniarka,"szlifuje, poleruje i wygładza drewniane podłogi i schody",Urząd Pracy
+czyściciel basenów,czyścicielka basenów,czyści baseny ręcznym lub automatycznym sprzętem,Urząd Pracy
+czyściciel butów,czyścicielka butów,czyści i poleruje obuwie na nogach klientów lub obuwie dostarczone do czyszczenia,Urząd Pracy
+czyściciel dywanów,czyścicielka dywanów,pierze i czyści dywany oraz wykładziny podłogowe - u klienta lub w pralni; dobiera odpowiednie środki czyszczące i sposób czyszczenia,Urząd Pracy
+czyściciel elewacji,czyścicielka elewacji,"czyści elewacje budynków przy zastosowaniu środków myjących, sprężonego powietrza, materiałów ściernych itp. oraz odpowiednich narzędzi, urządzeń i maszyn",Urząd Pracy
+czyściciel pojazdów,czyścicielka pojazdów,"czyści ręcznie karoserie i elementy zewnętrzne pojazdów osobowych, dostawczych, ciężarowych i innych; sprząta wnętrza",Urząd Pracy
+dekarz,dekarka,pokrywa i naprawia dachy materiałami dekarskimi,Urząd Pracy
 dekorator wnętrz,,,Urząd Pracy
 dekorator wyrobów cukierniczych,,,Urząd Pracy
 demonstrator wyrobów,,,Urząd Pracy
@@ -110,7 +89,7 @@ dziennikarz,,,Urząd Pracy
 dziewiarz,,,Urząd Pracy
 dźwigowy (windziarz),,,Urząd Pracy
 edukator ekologiczny,edukatorka ekologiczna,"szkoli, udziela porad w kwestii działań na rzecz ziemi różnym grupom",Nietypowe zawody
-egzaminator osób ubiegających się o uprawnienia do kierowania pojazdem,,,Urząd Pracy
+egzaminator prawa jazdy,,,Urząd Pracy
 egzorcysta,,,Warhammer FRP
 ekolog,,,Urząd Pracy
 ekspedient pocztowy,,,Urząd Pracy
@@ -120,14 +99,13 @@ elektryk,,,Urząd Pracy
 epidemiolog,,,Urząd Pracy
 etnograf,,,Urząd Pracy
 fałszerz,,,Warhammer FRP
-farmaceuta,,,Urząd Pracy
+farmaceuta,farmaceutka,"przygotowuje, sprawdza jakość i wydaje leki pacjentom; może też pracować w fabryce leków lub prowadzić badania naukowe leków",Urząd Pracy
 farmer,,,Warhammer FRP
 filozof,,,Urząd Pracy
 fizjolog,,,Urząd Pracy
 fizjoterapeuta,,,Urząd Pracy
 fizyk,,,Urząd Pracy
 flisak,,,Warhammer FRP
-flisak - retman,,,Urząd Pracy
 florysta,,,Urząd Pracy
 fotograf,,,Urząd Pracy
 fotoreporter,,,Urząd Pracy
@@ -140,6 +118,7 @@ genetyk,,,Urząd Pracy
 geofizyk,,,Urząd Pracy
 geograf,,,Urząd Pracy
 geolog,,,Urząd Pracy
+giloszer,giloszerka,"wykonuje linie, znaki i mikrodruki na banknotach",
 gleboznawca,,,Urząd Pracy
 goniec,,,Warhammer FRP
 górnik,,,Warhammer FRP
@@ -1220,7 +1199,7 @@ technik księgarstwa,,,Urząd Pracy
 technik leśnik,,,Urząd Pracy
 technik logistyk,,,Urząd Pracy
 technik lotniskowych służb operacyjnych,,,Urząd Pracy
-technik masażysta,,,Urząd Pracy
+technik masażysta,techniczka masażystka,wykonuje masaż ciała za pomocą własnych rąk,Urząd Pracy
 technik mechanik,,,Urząd Pracy
 technik mechanik budowy środków transportu,,,Urząd Pracy
 technik mechanik eksploatacji środków transportu,,,Urząd Pracy
@@ -1437,6 +1416,7 @@ zawiadowca stacji,,,Urząd Pracy
 zawodnik dyscypliny sportu,,,Urząd Pracy
 "zbieracz owoców, ziół i innych roślin",,,Urząd Pracy
 zbieracz piłek golfowych,zbieraczka piłek golfowych,znajduje zagubione piłki na rozległych polach golfowych,Nietypowe zawody
+zbieracz szyszek,zbieraczka szyszek,zajmuje się podnoszeniem szyszek z ziemi i wspinaniu się na drzewa by ukręcać nie otwarte jeszcze szyszki,Nietypowe zawody
 zbrojarz,,,Urząd Pracy
 zdobnik ceramiki,,,Urząd Pracy
 zdobnik szkła,,,Urząd Pracy
