@@ -18,6 +18,17 @@
   --focus-color: lightsalmon;
 }
 
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-color: lavender;
+    --bg-color-primary: darkslategray;
+    --bg-color-secondary: saddlebrown;
+    --bg-color-tertiary: darkslateblue;
+    --focus-color: salmon;
+  }
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
