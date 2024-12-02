@@ -11,6 +11,9 @@
   line-height: 1.5rem;
   font-family: sans-serif;
 
+  color-scheme: light dark;
+
+  /* Light mode colors */
   --main-color: darkslateblue;
   --bg-color-primary: palegoldenrod;
   --bg-color-secondary: peachpuff;
@@ -18,9 +21,9 @@
   --focus-color: lightsalmon;
 }
 
-/* Dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
+    /* Dark mode colors */
     --main-color: lavender;
     --bg-color-primary: darkslategray;
     --bg-color-secondary: saddlebrown;
