@@ -4,6 +4,18 @@
     console.error('definitely not ready');
     throw new Error('Did you forgot to add a mandatory header row in your CSV file? Yes, you did!');
   }
+
+  // Check how much data is ready
+  let countReady = 0;
+  if (window.luiza) {
+    window.luiza.forEach((item) => {
+      if (item.description) {
+        countReady++;
+      }
+    });
+    const percentageReady = Math.round((countReady / window.luiza.length) * 100);
+    console.warn(`data ready: ${percentageReady}%`);
+  }
   
   /**
    * Fetches random item from the big list of ideas, and then renders it in UI.
