@@ -13,8 +13,13 @@
         countReady++;
       }
     });
-    const percentageReady = Math.round((countReady / window.luiza.length) * 100);
-    console.warn(`data ready: ${percentageReady}%`);
+
+    if (countReady === window.luiza.length) {
+      console.info('data ready: 100%')
+    } else {
+      const percentageReady = Math.round((countReady / window.luiza.length) * 100);
+      console.warn(`data ready: ${percentageReady}%`);
+    }
   }
   
   /**
