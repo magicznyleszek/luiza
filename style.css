@@ -72,15 +72,15 @@ main {
   flex: 1;
 }
 
-.name,
+.action,
 .idea,
 .footer {
   width: 100%;
-  max-width: 25rem;
+  max-width: 36rem;
   margin: 0 auto;
 }
 
-.name,
+.action,
 .idea {
   margin-bottom: 2rem;
 }
@@ -96,10 +96,13 @@ main {
   font: inherit;
   border: 1.5px solid currentcolor;
   box-shadow: 0 0.4rem 0 0 currentcolor;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  font-weight: 600;
+  padding: 0.75rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: 400;
   overflow-wrap: break-word;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .randomize-button:hover {
@@ -110,6 +113,16 @@ main {
   /* Makes it look pressed down */
   transform: translateY(0.125rem);
   box-shadow: 0 calc(0.4rem - 0.125rem) 0 0 currentcolor;
+}
+
+.randomize-button svg {
+  fill: currentcolor;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.randomize-button label {
+  cursor: inherit;
 }
 
 .idea {
@@ -146,7 +159,7 @@ main {
     padding: 1.5rem;
   }
   
-  .name,
+  .action,
   .idea {
     margin-bottom: 1.5rem;
   }
