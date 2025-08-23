@@ -1,7 +1,7 @@
 name_m,name_f,description,source
-adwokat,adwokatka,"zajmuje się poradnictwem prawnym, sporządzaniem aktów prawnych oraz obroną i reprezentowaniem podczas rozpraw sądowych",Urząd Pracy
-agronom miejski,agronomka miejska,zajmuje się uprawą roślin na dachach budynków i innych obszarach nad ziemią i dbałością o jakość powietrza i wód w mieście,Nietypowe zawody
-akrobata,akrobatka,"osoba, która potrafi wykonać skomplikowane figury gimnastyczne - samodzielnie lub z rekwizytami",Urząd Pracy
+adwokat,adwokatka,"prawnik, który pomaga ludziom w sądzie, reprezentuje ich i doradza w sprawach prawnych",Urząd Pracy
+agronom miejski,agronomka miejska,zajmuje się uprawą roślin na dachach budynków i innych obszarach nad ziemią i dbaniem o jakość powietrza i wód w mieście,Nietypowe zawody
+akrobata,akrobatka,"osoba, która potrafi wykonać skomplikowane figury gimnastyczne - samodzielnie lub z rekwizytami, często w cyrku",Urząd Pracy
 aktor,aktorka,"odgrywa za pomocą szczególnego zachowania, technik cielesnych i głosowych rolę w serialu, teatrze, filmie, etc.",Urząd Pracy
 aktor lalkarz,aktorka lalkarka,animuje lalki podczas przedstawień w teatrze lalek,Urząd Pracy
 aktuariusz,aktuariuszka,oblicza ryzyko i wartości projektów finansowych,Nietypowe zawody
@@ -92,604 +92,597 @@ egzaminator prawa jazdy,egzaminatorka prawa jazdy,"przeprowadza egzamin państwo
 egzorcysta,egzorcystka,"sprawuje egzorcyzm, czyli magiczny obrzęd wypędzania złego ducha bądź demona, bądź też niszczenia jego wpływów",Warhammer FRP
 ekolog,ekolożka,"bada środowisko przyrodnicze, wskazuje zagrożenia, działa na rzecz ochrony przyrody i zrównoważonego rozwoju; studiuje interakcje między organizmami i ich środowiskiem",Urząd Pracy
 ekspedient pocztowy,ekspedientka pocztowa,"gromadzi przesyłki pocztowe, przygotowuje do wyekspediowania, załadowuje i wyładowuje ze środka transportu, transportuje i ochrania oraz opracowuje w miejscu docelowym",Urząd Pracy
-ekspedient wypożyczalni,ekspedientka wypożyczalni,odpłatnue wypożycza artykuły użytkowe różnego rodzaju,Urząd Pracy
+ekspedient wypożyczalni,ekspedientka wypożyczalni,odpłatnie wypożycza artykuły użytkowe różnego rodzaju,Urząd Pracy
 elektromechanik,elektromechaniczka,"specjalista od naprawy, konserwacji i obsługi urządzeń elektrycznych oraz mechanicznych (np. małe AGD, lodówki)",Urząd Pracy
 elektryk,elektryczka,"montuje, diagnozuje i naprawia instalacje oraz urządzenia elektryczne; dobiera zabezpieczenia instalacji, urządzeń i maszyn elektrycznych",Urząd Pracy
 epidemiolog,epidemiolożka,"wykrywa, rozpoznaje i ewidencjonuje choroby o znaczeniu społecznym; planuje i organizuje działania zapobiegające występowaniu i szerzeniu się tych chorób; współdziała z innymi specjalistami i organizacjami w zwalczaniu epidemii i poprawie warunków sanitarno-higienicznych społeczeństwa",Urząd Pracy
 etnograf,etnografka,"prowadzi badania i opisuje ginące formy kultury ludowej; zabezpiecza, kultywuje i popularyzuje twórczość ludową: literaturę, muzykę, zwyczaje, obrzędy oraz sztukę",Urząd Pracy
 fałszerz,fałszerka,"tworzy fałszywe kopie wartościowych przedmiotów, dokumentów, pieniędzy, itd.",Warhammer FRP
 farmaceuta,farmaceutka,"przygotowuje, sprawdza jakość i wydaje leki pacjentom; może też pracować w fabryce leków lub prowadzić badania naukowe leków",Urząd Pracy
-filozof,filozofka,,Urząd Pracy
-fizjolog,fizjolożka,,Urząd Pracy
-fizjoterapeuta,fizjoterapeutka,,Urząd Pracy
-fizyk,fizyczka,,Urząd Pracy
-flisak,flisaczka,,Warhammer FRP
-florysta,florystka,,Urząd Pracy
-fotograf,fotografka,,Urząd Pracy
-fotoreporter,fotoreporterka,,Urząd Pracy
-fryzjer,fryzjerka,,Urząd Pracy
-fryzjer - barber,fryzjerka - barberka,,Urząd Pracy
-fryzjer zwierząt (groomer),fryzjerka zwierząt (groomerka),,Urząd Pracy
-garncarz,garncarka,,Urząd Pracy
+filozof,filozofka,"wykorzystuje umiejętności krytycznego myślenia do badania tematów takich jak sens życia, moralność i ludzka natura; może badać takie obszary jak etyka, logika czy estetyka",Urząd Pracy
+fizjolog,fizjolożka,"przeprowadza badania dotyczące funkcjonowania różnych żywych organizmów, ich części oraz ich interakcji. Analizuje, w jaki sposób systemy życia reagują na czynniki takie jak: choroby, aktywność fizyczną i stres, wykorzystują te informacje do opracowywania metod i rozwiązań terapeutycznych",Urząd Pracy
+fizjoterapeuta,fizjoterapeutka,"bada i leczy pacjentów z zaburzeniami neuromięśniowymi, mięśniowo-szkieletowymi oraz sercowo-naczyniowymi i oddechowymi",Urząd Pracy
+fizyk,fizyczka,"bada teoretycznie i doświadczalnie właściwości materii, zjawiskami w niej zachodzące; ustala prawa, którym te zjawiska podlegają, tworzy teorie ogólne; wykorzystuje wiedzę fizyczną w nauce, technice, medycynie i innych dziedzinach ",Urząd Pracy
+flisak,flisaczka,spławia drewno rzeką na specjalnych tratwach,Warhammer FRP
+florysta,florystka,układa piękne bukiety i dekoracje z kwiatów na różne okazje,Urząd Pracy
+fotograf,fotografka,"robi zdjęcia, często na uroczystościach, ale też artystyczne lub dokumentujące ważne chwile",Urząd Pracy
+fotoreporter,fotoreporterka,"robi zdjęcia do gazet lub wiadomości, często w miejscach, gdzie dzieją się ważne wydarzenia",Urząd Pracy
+fryzjer,fryzjerka,"strzyże, farbuje i układa włosy, pomagając ludziom zmienić swój wygląd",Urząd Pracy
+fryzjer - barber,fryzjerka - barberka,specjalizuje się w strzyżeniu i pielęgowaniu męskich bród i fryzur,Urząd Pracy
+fryzjer zwierząt (groomer),fryzjerka zwierząt (groomerka),"zajmuje się pielęgnacją sierści, pazurów i zębów zwierząt, najczęściej psów i kotów",Urząd Pracy
+garncarz,garncarka,"z gliny tworzy naczynia, misy i inne przedmioty, często na kole garncarskim",Urząd Pracy
 gemmolog,gemmolożka,sprawdza jakość kamieni jubilerskich i je wycenia,Nietypowe zawody
-genetyk,genetyczka,,Urząd Pracy
-geofizyk,geofizyczka,,Urząd Pracy
-geograf,geografka,,Urząd Pracy
-geolog,geolożka,,Urząd Pracy
+genetyk,genetyczka,"bada geny i dziedziczność, czyli to, jak cechy przekazujemy z rodziców na dzieci",Urząd Pracy
+geofizyk,geofizyczka,"zajmuje się Ziemią, ale nie tylko jej powierzchnią; bada też to, co dzieje się głęboko pod ziemią, np. trzęsienia ziemi czy wulkany",Urząd Pracy
+geograf,geografka,"bada Ziemię, jej powierzchnię, klimaty, rośliny, zwierzęta, a także to, jak ludzie żyją w różnych miejscach i jak wpływają na środowisko",Urząd Pracy
+geolog,geolożka,"bada skały, minerały i historię Ziemi zapisaną w kamieniach; pomaga zrozumieć, jak powstała nasza planeta",Urząd Pracy
 giloszer,giloszerka,"wykonuje linie, znaki i mikrodruki na banknotach",
-gleboznawca,gleboznawczyni,,Urząd Pracy
-goniec,gończyni,,Warhammer FRP
-górnik,górniczka,,Warhammer FRP
-gospodarz,gospodyni,,Urząd Pracy
-grafik komputerowy,graficzka komputerowa,,Urząd Pracy
-grafolog,grafolożka,,Urząd Pracy
-grzyboznawca,grzyboznawczyni,,Urząd Pracy
-hafciarz,hafciarka,,Urząd Pracy
-herold,heroldka,,Warhammer FRP
-historyk,historyczka,,Urząd Pracy
-historyk sztuki,historyczka sztuki,,Urząd Pracy
-hodowca zwierząt,hodowczyni zwierząt,,Urząd Pracy
-homeopata,homeopatka,,Urząd Pracy
-hydraulik,hydrauliczka,,Urząd Pracy
-hydrograf morski,hydrografka morska,,Urząd Pracy
-hydrolog,hydrolożka,,Urząd Pracy
-hydrometeorolog,hydrometeorolożka,,Urząd Pracy
-ilustrator,ilustratorka,,Urząd Pracy
-iluzjonista,iluzjonistka,,Urząd Pracy
-imitator efektów dźwiękowych,imitatorka efektów dźwiękowych,,Urząd Pracy
-informatyk,informatyczka,,Urząd Pracy
-inspicjent,inspicjentka,,Urząd Pracy
-instruktor nauki jazdy,instruktorka nauki jazdy,,Urząd Pracy
-instrumentalista,instrumentalistka,,Urząd Pracy
-introligator,introligatorka,,Urząd Pracy
-introligator galanteryjny,introligatorka galanteryjna,,Urząd Pracy
-inwentaryzator,inwetaryzatorka,,Urząd Pracy
-inżynier budownictwa - wyburzanie obiektów,inżynierka budownictwa - wyburzanie obiektów,,Urząd Pracy
-inżynier budowy mostów,inżynierka budowy mostów,,Urząd Pracy
-kaletnik,kaletniczka,,Urząd Pracy
-kamieniarz,kamieniarka,,Urząd Pracy
-kapelusznik-czapnik,kapeluszniczka-czapniczka,,Urząd Pracy
-kapitan portu,kapitanka portu,,Urząd Pracy
-kapitan statku,kapitanka statku,,Urząd Pracy
-karczmarz,karczmarka,,Warhammer FRP
-kartograf,kartografka,,Warhammer FRP
-kaskader filmowy,kaskaderka filmowa,,Urząd Pracy
-kelner,kelnerka,,Urząd Pracy
-kierowca autobusu,kierowczyni autobusu,,Urząd Pracy
+gleboznawca,gleboznawczyni,"bada różne rodzaje gleby, jej skład i właściwości, co jest ważne np. dla rolnictwa",Urząd Pracy
+goniec,gończyni,szybko dostarcza ważne wiadomości lub przesyłki z jednego miejsca do drugiego,Warhammer FRP
+górnik,górniczka,"wydobywa z ziemi cenne surowce, takie jak węgiel, rudy metali czy sól, pracując często głęboko pod powierzchnią",Warhammer FRP
+gospodarz,gospodyni,"zazwyczaj właściciel lub zarządca miejsca, np. domu, gospodarstwa rolnego czy karczmy, dbający o gości lub o prowadzenie działalności",Urząd Pracy
+grafik komputerowy,graficzka komputerowa,"tworzy obrazy, animacje, projekty stron internetowych i inne wizualizacje za pomocą komputera i specjalistycznych programów",Urząd Pracy
+grafolog,grafolożka,"bada pismo ręczne, analizując jego styl i cechy, aby dowiedzieć się czegoś o osobie piszącej",Urząd Pracy
+grzyboznawca,grzyboznawczyni,"używając eksperckiej wiedzy o grzybach, rozróżnia gatunki, w tym te jadalne od trujących",Urząd Pracy
+hafciarz,hafciarka,"ozdabia materiały, ubrania czy obrazy za pomocą igły i nici, tworząc wzory z haftu",Urząd Pracy
+herold,heroldka,"ogłasza ważne wiadomości i rozkazy władcy (np. króla), a także zajmuje się herbami i rodowodami szlacheckimi",Warhammer FRP
+historyk,historyczka,"bada przeszłość ludzkości, analizuje dawne wydarzenia, dokumenty i pisze o nich książki lub artykuły",Urząd Pracy
+historyk sztuki,historyczka sztuki,"zajmuje się przeszłością sztuki, analizuje dzieła, artystów i różne epoki, pisząc o tym książki i artykuły",Urząd Pracy
+hodowca zwierząt,hodowczyni zwierząt,"zajmuje się rozmnażaniem, wychowywaniem i pielęgnacją zwierząt, np. bydła, owiec, drobiu czy zwierząt domowych",Urząd Pracy
+hydraulik,hydrauliczka,"zajmuje się instalacjami wodnymi, kanalizacyjnymi i grzewczymi w budynkach, naprawiając rury, krany i bojlery",Urząd Pracy
+hydrograf morski,hydrografka morska,"bada i nanosi na mapy dno mórz i oceanów, prądy morskie i inne zjawiska związane z wodami, co jest ważne np. dla żeglugi",Urząd Pracy
+hydrolog,hydrolożka,"bada wodę - rzeki, jeziora, wody gruntowe, opady - i zjawiska z nią związane, np. powodzie czy susze",Urząd Pracy
+hydrometeorolog,hydrometeorolożka,"zajmuje się pogodą i wodą jednocześnie, badając np. jak opady wpływają na rzeki i jeziora",Urząd Pracy
+ilustrator,ilustratorka,"tworzy rysunki i obrazy do książek, czasopism, reklam czy gier, pomagając lepiej zrozumieć tekst lub przekaz",Urząd Pracy
+iluzjonista,iluzjonistka,"wykonuje magiczne sztuczki, sprawiając wrażenie, że dzieją się rzeczy niemożliwe, aby zabawić i zaskoczyć publiczność",Urząd Pracy
+imitator efektów dźwiękowych,imitatorka efektów dźwiękowych,"naśladuje różne dźwięki - np. odgłosy zwierząt, maszyn czy zjawisk przyrody - często na potrzeby radia, telewizji czy filmów",Urząd Pracy
+informatyk,informatyczka,"zajmuje się programowaniem, tworzeniem stron internetowych, zarządzaniem sieciami i rozwiązywaniem problemów związanych z techniką",Urząd Pracy
+inspicjent,inspicjentka,"w teatrze czuwa nad przebiegiem spektaklu za kulisami, dając sygnały aktorom i technikom",Urząd Pracy
+instruktor nauki jazdy,instruktorka nauki jazdy,"uczy innych, jak bezpiecznie i zgodnie z przepisami prowadzić samochód",Urząd Pracy
+instrumentalista,instrumentalistka,"gra na konkretnym instrumencie, np. na pianinie, skrzypcach czy perkusji",Urząd Pracy
+introligator,introligatorka,"zajmuje się oprawianiem książek, dokumentów i innych materiałów, tworząc dla nich trwałe i estetyczne okładki",Urząd Pracy
+introligator galanteryjny,introligatorka galanteryjna,"specjalizuje się w oprawianiu przedmiotów z galanterii skórzanej, np. portfeli, notesów czy etui",Urząd Pracy
+inwentaryzator,inwetaryzatorka,"zajmuje się spisywaniem i porządkowaniem przedmiotów, np. w magazynie czy sklepie, aby wiedzieć, co dokładnie się posiada",Urząd Pracy
+inżynier budownictwa - wyburzanie obiektów,inżynierka budownictwa - wyburzanie obiektów,"specjalizuje się w wyburzaniu, planuje i nadzoruje bezpieczne rozbieranie starych budynków i konstrukcji",Urząd Pracy
+inżynier budowy mostów,inżynierka budowy mostów,"projektuje i nadzoruje wznoszenie mostów, dbając o ich trwałość i bezpieczeństwo",Urząd Pracy
+kaletnik,kaletniczka,"pracuje ze skórą, szyjąc i naprawiając przedmioty takie jak torby, paski, portfele czy obuwie",Urząd Pracy
+kamieniarz,kamieniarka,"obrabia kamień, tworząc z niego np. nagrobki, elementy budynków, rzeźby czy blaty kuchenne",Urząd Pracy
+kapelusznik-czapnik,kapeluszniczka-czapniczka,"projektuje, szyje i sprzedaje kapelusze i czapki",Urząd Pracy
+kapitan portu,kapitanka portu,"zarządza ruchem statków w porcie, dba o bezpieczeństwo i porządek na wodach portowych",Urząd Pracy
+kapitan statku,kapitanka statku,"najważniejsza osoba na statku, odpowiedzialna za jego prowadzenie, bezpieczeństwo załogi i ładunku",Urząd Pracy
+karczmarz,karczmarka,"posiada lub zarządza karczmą - miejscem, gdzie podróżni mogą zjeść, napić się i przenocować",Warhammer FRP
+kartograf,kartografka,"tworzy mapy Ziemi, miast, regionów czy nawet kosmosu, zbierając i przetwarzając dane geograficzne",Warhammer FRP
+kaskader filmowy,kaskaderka filmowa,"wykonuje niebezpieczne sceny w filmach, np. skoki, upadki czy walki, zastępując aktorów; robi to w możliwie bezpieczny sposób wykorzystując ochronne ubrania i kaskaderskie umiejętności",Urząd Pracy
+kelner,kelnerka,"obsługuje gości w restauracji, przyjmuje zamówienia i podaje jedzenie i napoje",Urząd Pracy
+kierowca autobusu,kierowczyni autobusu,"przewozi pasażerów autobusem, zazwyczaj po określonych trasach w mieście lub między miastami",Urząd Pracy
 motorniczy,motornicza,kieruje tramwajem i dba o bezpieczeństwo pasażerów; czasami sprzedaje również bilety,Urząd Pracy
-kinooperator,kinooperatorka,,Urząd Pracy
-kioskarz,kioskarka,,Urząd Pracy
-klasyfikator dziczyzny i ptactwa,,,Urząd Pracy
-klasyfikator gruntów,,,Urząd Pracy
-klasyfikator grzybów,,,Urząd Pracy
-"klasyfikator jaj, drobiu i pierza",,,Urząd Pracy
-klasyfikator ryb,,,Urząd Pracy
-klasyfikator skór,,,Urząd Pracy
-klasyfikator wyrobów przemysłowych,,,Urząd Pracy
-klaun (clown),,,Urząd Pracy
-klimatolog,klimatolożka,,Urząd Pracy
-kodowacz (koder),kodowaczka (koderka),,Urząd Pracy
-kołodziej,kołodziejka,,Urząd Pracy
-kolporter,kolporterka,,Urząd Pracy
-kombajnista,kombajnistka,,Urząd Pracy
-komendant policji,komendantka policji,,Urząd Pracy
-komendant straży pożarnej,komendantka straży pożarnej,,Urząd Pracy
-komentator sportowy,komentatorka sportowa,,Urząd Pracy
-komik,komiczka,,Urząd Pracy
-kominiarz,kominiarka,,Urząd Pracy
-komornik sądowy,komorniczka sądowa,,Urząd Pracy
-kompozytor,kompozytorka,,Urząd Pracy
-komputerowy składacz tekstu,,,Urząd Pracy
-konduktor,konduktorka,,Urząd Pracy
-konduktor kolei linowej,konduktorka kolei linowej,,Urząd Pracy
-konfekcjoner wyrobów gumowych,konfekcjonerka wyrobów gumowych,,Urząd Pracy
-konferansjer,konferansjerka,,Urząd Pracy
-konserwator budynków,konserwatorka budynków,,Urząd Pracy
-konserwator sprzętu,,,Urząd Pracy
-konserwator dzieł sztuki,konserwatorka dzieł sztuki,,Urząd Pracy
-konserwator sieci i systemów komputerowych,,,Urząd Pracy
-konserwator skór surowych,,,Urząd Pracy
-konserwator zabytków architektury,,,Urząd Pracy
-konstruktor form wtryskowych,,,Urząd Pracy
-konstruktor odzieży,,,Urząd Pracy
-konstruktor rozkładów jazdy,,,Urząd Pracy
-konsultant / agent sprzedaży bezpośredniej,,,Urząd Pracy
-konsultant do spraw kariery,,,Urząd Pracy
-konsultant do spraw systemów teleinformatycznych,,,Urząd Pracy
-konsultant ds. snu,konsultantka ds. snu,pomaga w wyrobieniu sobie właściwych nawyków i identyfikowaniu problemów ze snem,Nietypowe zawody
-konsultant komitetu technicznego,,,Urząd Pracy
-kontroler (sterowniczy) procesów przeróbki ropy naftowej i gazu,,,Urząd Pracy
-kontroler (sterowniczy) procesów w produkcji nawozów sztucznych,,,Urząd Pracy
-kontroler (sterowniczy) reaktorów chemicznych,,,Urząd Pracy
-kontroler (sterowniczy) robotów przemysłowych,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń destylacyjnych i rektyfikacyjnych,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń do ciągnienia i tłoczenia metali,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń do obróbki cieplnej chemikaliów,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń do produkcji papieru,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń do wytopu metali,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń filtrujących i oddzielających,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń koksowniczych,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń obróbki cieplnej metali,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń odlewniczych,,,Urząd Pracy
-kontroler (sterowniczy) urządzeń walcowniczych,,,Urząd Pracy
-kontroler biletów,,,Urząd Pracy
-kontroler finansowy,,,Urząd Pracy
-kontroler higieny mięsa,,,Urząd Pracy
-kontroler jakości połączeń spawanych,,,Urząd Pracy
-kontroler jakości produktów spożywczych,,,Urząd Pracy
-kontroler jakości wyrobów przemysłowych,,,Urząd Pracy
-kontroler kolejowy,,,Urząd Pracy
-kontroler państwowy,,,Urząd Pracy
-kontroler pocztowy,,,Urząd Pracy
-kontroler rozliczeń pieniężnych,,,Urząd Pracy
-kontroler rozliczeń podatkowych,,,Urząd Pracy
-kontroler ruchu lotniczego,,,Urząd Pracy
-kontroler stanu technicznego pojazdów,,,Urząd Pracy
-konwojent (konduktor) wagonów specjalnych,,,Urząd Pracy
-koordynator badań klinicznych,,,Urząd Pracy
-koordynator pobierania i przeszczepiania tkanek i narządów,,,Urząd Pracy
-koordynator projektów unijnych,,,Urząd Pracy
-koordynator rodzinnej pieczy zastępczej,,,Urząd Pracy
-kopacz,kopaczka,,Urząd Pracy
-korektor (naprawiacz) instrumentów muzycznych,,,Urząd Pracy
-korektor i stroiciel instrumentów muzycznych,,,Urząd Pracy
-korektor tekstu,,,Urząd Pracy
-korepetytor,,,Urząd Pracy
-koronkarz,koronkarka,,Urząd Pracy
-kosmetolog,kosmetolożka,,Urząd Pracy
-kosmetyk,kosmetyczka,,Urząd Pracy
-kostiumograf,kostiumografka,,Urząd Pracy
-kosztorysant budowlany,kosztorysantka budowlana,,Urząd Pracy
-koszykarz-plecionkarz,koszykarka-plecionkarka,,Urząd Pracy
-kowal,kowalka,,Urząd Pracy
-kowal wyrobów zdobniczych,kowalka wyrobów zdobniczych,,Urząd Pracy
-kożusznik,kożuszniczka,,Urząd Pracy
-krajacz materiałów budowlanych,krajaczka materiałów budowlanych,,Urząd Pracy
-krajacz szkła,krajaczka szkła,,Urząd Pracy
-krawiec,krawcowa,,Urząd Pracy
-kremator,krematorka,,Urząd Pracy
-krojczy,krojczyni,,Urząd Pracy
-krupier,krupierka,,Urząd Pracy
-kryminolog,kryminolożka,,Urząd Pracy
-krytyk artystyczny,krytyczka artystyczna,,Urząd Pracy
-krytyk kulinarny,krytyczka kulinarna,,Urząd Pracy
-księgowy,księgowa,,Urząd Pracy
-kucharz,kucharka,,Urząd Pracy
-kulturoznawca,kulturoznawczyni,,Urząd Pracy
-kurator sądowy,kuratorka sądowa,,Urząd Pracy
-kurier,kurierka,,Urząd Pracy
-kuśnierz,kuśnierka,,Urząd Pracy
-kynoterapeuta (dogoterapeuta),kynoterapeutka,,Urząd Pracy
-laborant biochemiczny,,,Urząd Pracy
-laborant budowlany,,,Urząd Pracy
-laborant chemiczny,,,Urząd Pracy
-laborant mikrobiologiczny,,,Urząd Pracy
-laborant nasiennictwa,,,Urząd Pracy
-laborant w hodowli roślin,,,Urząd Pracy
-laborant w hodowli zwierząt,,,Urząd Pracy
-laborant weterynaryjny,,,Urząd Pracy
-ładowacz,,,Urząd Pracy
-ładowacz nieczystości płynnych,,,Urząd Pracy
-ładowacz nieczystości stałych,,,Urząd Pracy
-lagowacz,,,Urząd Pracy
-lakiernik,,,Urząd Pracy
-lakiernik proszkowy,,,Urząd Pracy
-lakiernik samochodowy,,,Urząd Pracy
-lakiernik tworzyw sztucznych,,,Urząd Pracy
-lakiernik wyrobów drzewnych,,,Urząd Pracy
-latarnik,latarniczka,,Urząd Pracy
-łazienkowy,łazienkowa,,Urząd Pracy
-legalizator,legalizatorka,,Urząd Pracy
-legislator,legislatorka,,Urząd Pracy
-lekarz,lekarka,,Urząd Pracy
-lekarz alergolog,lekarka alergolożka,,Urząd Pracy
-lekarz anastezjolog,lekarka anastezjolożka,,Urząd Pracy
-lekarz angiolog,lekarka angiolożka,,Urząd Pracy
-lekarz audiolog/foniatra,lekarka audiolożka/foniatrka,,Urząd Pracy
-lekarz balneolog,lekarka balneolożka,,Urząd Pracy
-lekarz chirurg,lekarka chirurżka,,Urząd Pracy
-lekarz dermatolog/wenerolog,,,Urząd Pracy
-lekarz diabetolog,,,Urząd Pracy
-lekarz diagnostyk laboratoryjny,,,Urząd Pracy
-lekarz endokrynolog,,,Urząd Pracy
-lekarz epidemiolog,,,Urząd Pracy
-lekarz farmakolog,,,Urząd Pracy
-lekarz gastroenterolog,,,Urząd Pracy
-lekarz genetyk,,,Urząd Pracy
-lekarz geriatra,,,Urząd Pracy
-lekarz hematolog,,,Urząd Pracy
-lekarz hipertensjolog,,,Urząd Pracy
-lekarz immunolog,,,Urząd Pracy
-lekarz kardiochirurg,,,Urząd Pracy
-lekarz kardiolog,,,Urząd Pracy
-lekarz – specjalista medycyny nuklearnej,,,Urząd Pracy
-lekarz nefrolog,,,Urząd Pracy
-lekarz neonatolog,,,Urząd Pracy
-lekarz neurochirurg,,,Urząd Pracy
-lekarz neurolog,,,Urząd Pracy
-lekarz neuropatolog,,,Urząd Pracy
-lekarz okulista,,,Urząd Pracy
-lekarz onkolog,,,Urząd Pracy
-lekarz ortopeda,,,Urząd Pracy
-lekarz otorynolaryngolog,,,Urząd Pracy
-lekarz patomorfolog,,,Urząd Pracy
-lekarz pediatra,,,Urząd Pracy
-lekarz perinatolog,,,Urząd Pracy
-lekarz ginekolog,,,Urząd Pracy
-lekarz psychiatra,,,Urząd Pracy
-lekarz radiolog,,,Urząd Pracy
-lekarz radioterapeuta,,,Urząd Pracy
-lekarz reumatolog,,,Urząd Pracy
-lekarz toksykolog,,,Urząd Pracy
-lekarz transfuzjolog,,,Urząd Pracy
-lekarz transplantolog,,,Urząd Pracy
-lekarz urolog,,,Urząd Pracy
-lekarz dentysta,,,Urząd Pracy
-lekarz ordynator oddziału,,,Urząd Pracy
-lekarz weterynarz,,,Urząd Pracy
-lekarz weterynarz chirurg,,,Urząd Pracy
-lekarz weterynarz ptaków,,,Urząd Pracy
-lekarz weterynarz koni,,,Urząd Pracy
-lekarz weterynarz owadów,,,Urząd Pracy
-lekarz weterynarz przeżuwaczy,,,Urząd Pracy
-lekarz weterynarz psów i kotów,,,Urząd Pracy
-lekarz weterynarz ryb,,,Urząd Pracy
-lekarz weterynarz trzody chlewnej,,,Urząd Pracy
-lekarz weterynarz zwierząt nieudomowionych,,,Urząd Pracy
-lekarz weterynarz epizootiolog,,,Urząd Pracy
-lektor dialogów filmowych i radiowych,,,Urząd Pracy
-lektor języka obcego,,,Urząd Pracy
-leśnik,,,Warhammer FRP
-leśny duch,,,Warhammer FRP
-licytator,,,Urząd Pracy
-liczarz,,,Urząd Pracy
-likwidator szkód,,,Urząd Pracy
-listonosz,,,Urząd Pracy
-lobbysta,,,Urząd Pracy
-logopeda,,,Urząd Pracy
-łubiankarz,,,Urząd Pracy
-ludwisarz,,,Urząd Pracy
-lustrzarz,,,Urząd Pracy
-lutowacz,,,Urząd Pracy
-magazynier,,,Urząd Pracy
-magazynier-logistyk,,,Urząd Pracy
-maglarz,,,Urząd Pracy
-makler giełd towarowych,,,Urząd Pracy
-makler morski,,,Urząd Pracy
-makler nadzorujący,,,Urząd Pracy
-makler papierów wartościowych,,,Urząd Pracy
-malarz budowlany,,,Urząd Pracy
-malarz-lakiernik konstrukcji i wyrobów metalowych,,,Urząd Pracy
-malarz-lakiernik samolotowy,,,Urząd Pracy
-malarz-tapeciarz,,,Urząd Pracy
-manewrowy,,,Urząd Pracy
-manewrowy metra,,,Urząd Pracy
-manikiurzystka,,,Urząd Pracy
-manipulant drewna okrągłego,,,Urząd Pracy
-marynarz motorzysta żeglugi śródlądowej,,,Urząd Pracy
-marynarz statku morskiego,,,Urząd Pracy
-marynarz żeglugi śródlądowej,,,Urząd Pracy
-maślarz,,,Urząd Pracy
-masztalerz,,,Urząd Pracy
-maszynista,,,Urząd Pracy
-maszynista agregatów prądotwórczych,,,Urząd Pracy
-maszynista chłodni,,,Urząd Pracy
-maszynista doku,,,Urząd Pracy
-maszynista górniczych maszyn wyciągowych,,,Urząd Pracy
-"maszynista kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych",,,Urząd Pracy
-maszynista kotła,,,Urząd Pracy
-maszynista maszyn fleksograficznych,,,Urząd Pracy
-maszynista maszyn offsetowych,,,Urząd Pracy
-maszynista maszyn typograficznych,,,Urząd Pracy
-maszynista maszyn wklęsłodrukowych,,,Urząd Pracy
-maszynista obsługujący urządzenia do napełniania i opróżniania zbiorników,,,Urząd Pracy
-maszynista pociągu metra,,,Urząd Pracy
-maszynista pomocniczych pojazdów kolejowych metra,,,Urząd Pracy
-maszynista specjalistycznych dźwignic kolejowych,,,Urząd Pracy
-maszynista sprężarek,,,Urząd Pracy
-maszynista turbozespołu parowego,,,Urząd Pracy
-maszynista turbozespołu wodnego,,,Urząd Pracy
-maszynista urządzeń ciepłowniczych elektrowni,,,Urząd Pracy
-maszynista urządzeń nawęglania,,,Urząd Pracy
-maszynista urządzeń odpopielania i odżużlania,,,Urząd Pracy
-maszynista urządzeń pomocniczych elektrowni,,,Urząd Pracy
-maszynista wentylatorów w kopalni,,,Urząd Pracy
-maszynowy szlifierz-polerowacz szkła,,,Urząd Pracy
-matematyk,matematyczka,,Urząd Pracy
-mechanik / konserwator urządzeń do napełniania i opróżniania zbiorników,,,Urząd Pracy
-mechanik / konserwator urządzeń dźwignicowych,,,Urząd Pracy
-mechanik autobusów,,,Urząd Pracy
-mechanik automatyki przemysłowej i urządzeń precyzyjnych,,,Urząd Pracy
-mechanik ciągników,,,Urząd Pracy
-mechanik lotniczy obsługi technicznej,,,Urząd Pracy
+kinezjolog,kinezjolożka,bada ruch ludzkiego ciała i pomaga poprawić sprawność fizyczną,Gemini
+kinooperator,kinooperatorka,"obsługuje projektor w kinie, dbając o to, żeby film był wyświetlany poprawnie na dużym ekranie",Urząd Pracy
+kioskarz,kioskarka,"pracuje w kiosku, sprzedając gazety, czasopisy, papierosy, słodycze i inne drobne rzeczy",Urząd Pracy
+klasyfikator dziczyzny i ptactwa,klasyfikatorka dziczyzny i ptactwa,"ocenia jakość mięsa dzikich zwierząt i ptaków, np. po polowaniu",Urząd Pracy
+klasyfikator gruntów,klasyfikatorka gruntów,"ocenia i przypisuje odpowiednie kategorie do różnych rodzajów ziemi, co jest ważne np. dla planowania przestrzennego czy rolnictwa",Urząd Pracy
+"klasyfikator jaj, drobiu i pierza","klasyfikatorka jaj, drobiu i pierza","ocenia jakość jaj, mięsa drobiowego i pierza",Urząd Pracy
+klasyfikator ryb,klasyfikatorka ryb,"ocenia jakość i gatunki ryb, np. po połowie",Urząd Pracy
+klasyfikator skór,klasyfikatorka skór,"ocenia jakość i rodzaje skór zwierzęcych, używanych np. do produkcji ubrań czy mebli",Urząd Pracy
+klasyfikator wyrobów przemysłowych,klasyfikatorka wyrobów przemysłowych,ocenia jakość i przypisuje kategorie do różnych produktów wytwarzanych w przemyśle,Urząd Pracy
+klaun,klaunka,"bawi publiczność, zwłaszcza dzieci, swoim wyglądem, żartami i sztuczkami, często w cyrku",Urząd Pracy
+klimatolog,klimatolożka,"bada klimat Ziemi, jego zmiany i wpływ na przyrodę oraz ludzi",Urząd Pracy
+kodowacz (koder),kodowaczka (koderka),"pisze programy komputerowe, używając specjalnych języków, żeby stworzyć aplikacje, strony internetowe czy gry",Urząd Pracy
+kołodziej,kołodziejka,zajmuje się wyrobem kół do wozów i innych pojazdów,Urząd Pracy
+kolporter,kolporterka,"rozprowadza gazety, czasopisma i inne drukowane materiały, często sprzedając je na ulicy lub w kioskach",Urząd Pracy
+kombajnista,kombajnistka,obsługuje kombajn - dużą maszynę do zbierania zboża z pola,Urząd Pracy
+komendant policji,komendantka policji,"szef jednostki policji w mieście lub regionie, odpowiedzialny za bezpieczeństwo i pracę policjantów",Urząd Pracy
+komendant straży pożarnej,komendantka straży pożarnej,"zef strażaków w danej miejscowości, który kieruje akcjami gaszenia pożarów i innymi działaniami ratowniczymi",Urząd Pracy
+komentator sportowy,komentatorka sportowa,"opowiada o meczach, zawodach i innych wydarzeniach sportowych w telewizji, radiu lub internecie",Urząd Pracy
+komik,komiczka,"bawi publiczność, opowiadając dowcipy, grając śmieszne scenki lub występując w kabarecie",Urząd Pracy
+kominiarz,kominiarka,"czyści kominy w domach, żeby były drożne i bezpieczne",Urząd Pracy
+komornik sądowy,komorniczka sądowa,"urzędnik, który na zlecenie sądu pomaga odzyskać pieniądze lub rzeczy od osób, które nie spłaciły długów",Urząd Pracy
+kompozytor,kompozytorka,układa muzykę,Urząd Pracy
+komputerowy składacz tekstu,komputerowa składaczka tekstu,"tworzy muzykę od podstaw - układa melodie, harmonie i rytmy, zapisując je w formie nut, aby inni muzycy mogli je zagrać lub zaśpiewać",Urząd Pracy
+konduktor,konduktorka,sprawdza bilety pasażerów i pomaga im w podróży - w pociągu lub autobusie,Urząd Pracy
+konduktor kolei linowej,konduktorka kolei linowej,"obsługuje wagoniki na kolejach w górach, pomagając pasażerom wsiadać i wysiadać",Urząd Pracy
+konfekcjoner wyrobów gumowych,konfekcjonerka wyrobów gumowych,"zajmuje się produkcją i naprawą przedmiotów z gumy, np. uszczelek czy węży",Urząd Pracy
+konferansjer,konferansjerka,"prowadzi imprezy, spotkania czy programy w telewizji, zapowiadając gości i dbając o dobrą atmosferę",Urząd Pracy
+konserwator budynków,konserwatorka budynków,"dba o stan budynków, naprawiając drobne usterki, malując ściany czy dbając o instalacje",Urząd Pracy
+konserwator sprzętu,konserwatorka sprzętu,zajmuje się naprawą i konserwacją różnych urządzeń i maszyn,Urząd Pracy
+konserwator dzieł sztuki,konserwatorka dzieł sztuki,"dba o stare obrazy, rzeźby i inne przedmioty o wartości artystycznej, naprawiając je i chroniąc przed zniszczeniem",Urząd Pracy
+konserwator sieci i systemów komputerowych,konserwatorka sieci i systemów komputerowych,"dba o to, żeby komputery i internet w firmie działały bez problemów; naprawia usterki i pilnuje, żeby wszystko było bezpieczne",Urząd Pracy
+konserwator skór surowych,konserwatorka skór surowych,"zajmuje się przygotowaniem świeżo zdjętych skór zwierzęcych, tak aby się nie zepsuły, zanim trafią do dalszej obróbki",Urząd Pracy
+konserwator zabytków architektury,konserwatorka zabytków architektury,"dba o stare, historyczne budynki, mosty czy pomniki; naprawia je i odnawia, żeby przetrwały w dobrym stanie dla przyszłych pokoleń",Urząd Pracy
+konstruktor form wtryskowych,konstruktorka form wtryskowych,"projektuje i tworzy specjalne narzędzia (formy), służące do produkcji przedmiotów z plastiku w procesie wtrysku",Urząd Pracy
+konstruktor odzieży,konstruktorka odzieży,"na podstawie projektu tworzy szczegółowe plany i wykroje ubrań, tak aby można je było uszyć",Urząd Pracy
+konstruktor rozkładów jazdy,konstruktorka rozkładów jazdy,"planuje i układa grafiki kursowania pociągów, autobusów czy innych środków transportu, dbając o ich punktualność, efektywność i brak kolizji",Urząd Pracy
+konsultant sprzedaży bezpośredniej,konsultantka sprzedaży bezpośredniej,"sprzedaje produkty lub usługi, często bezpośrednio spotykając się z klientami",Urząd Pracy
+konsultant do spraw kariery,konsultantka do spraw kariery,"pomaga ludziom wybrać odpowiednią ścieżkę zawodową, doradza w pisaniu CV i przygotowaniu do rozmów o pracę",Urząd Pracy
+konsultant do spraw systemów teleinformatycznych,konsultantka do spraw systemów teleinformatycznych,"doradza firmom, jakie rozwiązania komputerowe i internetowe będą dla nich najlepsze i jak je wdrożyć",Urząd Pracy
+konsultant do spraw snu,konsultantka do spraw snu,pomaga w wyrobieniu sobie właściwych nawyków i identyfikowaniu problemów ze snem,Nietypowe zawody
+konsultant komitetu technicznego,konsultantka komitetu technicznego,"doradza komitetowi technicznemu, czyli grupie ekspertów, dostarczając im specjalistycznej wiedzy, aby mogli podejmować mądre decyzje dotyczące nowych technologii czy standardów",Urząd Pracy
+kontroler procesów przeróbki ropy naftowej i gazu,kontrolerka procesów przeróbki ropy naftowej i gazu,"nadzoruje i steruje złożonymi procesami przetwarzania ropy naftowej i gazu, aby zapewnić ich bezpieczną, efektywną i zgodną z normami produkcję paliw oraz innych substancji chemicznych",Urząd Pracy
+kontroler procesów w produkcji nawozów sztucznych,kontrolerka procesów w produkcji nawozów sztucznych,"kontroluje i reguluje działanie maszyn w fabryce nawozów sztucznych, aby produkcja przebiegała bezpiecznie i sprawnie, a gotowy nawóz był wysokiej jakości",Urząd Pracy
+kontroler reaktorów chemicznych,kontrolerka reaktorów chemicznych,"kontroluje i nadzoruje pracę reaktorów chemicznych, czyli dużych maszyn, w których powstają różne substancje; dba o bezpieczeństwo i prawidłowy przebieg reakcji, aby uzyskać pożądane produkty",Urząd Pracy
+kontroler robotów przemysłowych,kontrolerka robotów przemysłowych,"kontroluje działanie robotów przemysłowych, programując je, uruchamiając i nadzorując, aby precyzyjnie i bezpiecznie wykonywały swoje zadania w fabrykach",Urząd Pracy
+kontroler urządzeń destylacyjnych i rektyfikacyjnych,kontrolerka urządzeń destylacyjnych i rektyfikacyjnych,"kontroluje urządzenia służące do oddzielania i oczyszczania płynów, takie jak destylatory i rektyfikatory, dbając o ich sprawne działanie i wysoką jakość otrzymywanych substancji",Urząd Pracy
+kontroler urządzeń do ciągnienia i tłoczenia metali,kontrolerka urządzeń do ciągnienia i tłoczenia metali,"sprawdza i nadzoruje maszyny do ciągnienia i tłoczenia metali, aby upewnić się, że działają bezawaryjnie i wytwarzają produkty o wymaganej jakości",Urząd Pracy
+kontroler urządzeń do obróbki cieplnej chemikaliów,kontrolerka urządzeń do obróbki cieplnej chemikaliów,"monitoruje i kontroluje specjalistyczne urządzenia, które podgrzewają chemikalia, dbając o bezpieczeństwo procesu i jakość otrzymywanych substancji",Urząd Pracy
+kontroler urządzeń do produkcji papieru,kontrolerka urządzeń do produkcji papieru,"kontroluje stan techniczny i prawidłowe działanie maszyn oraz urządzeń służących do produkcji papieru, dbając o ich efektywność i bezpieczeństwo",Urząd Pracy
+kontroler urządzeń do wytopu metali,kontrolerka urządzeń do wytopu metali,"kontrolować i nadzorować bezpieczne oraz prawidłowe działanie specjalistycznych urządzeń służących do wytopu metali, zapewniając, że cały proces produkcji przebiega bez zakłóceń i jest zgodny z normami",Urząd Pracy
+kontroler urządzeń filtrujących i oddzielających,kontrolerka urządzeń filtrujących i oddzielających,"monitoruje i kontroluje pracę urządzeń, które filtrują i oddzielają różne substancje, dbając o ich prawidłowe działanie oraz zgodność z normami jakości",Urząd Pracy
+kontroler urządzeń koksowniczych,kontrolerka urządzeń koksowniczych,"sprawdza i monitoruje działanie specjalistycznych maszyn w koksowni, dbając o ich bezawaryjność oraz bezpieczeństwo procesu wytwarzania koksu",Urząd Pracy
+kontroler urządzeń obróbki cieplnej metali,kontrolerka urządzeń obróbki cieplnej metali,"monitoruje i dba o to, by specjalne piece oraz inne urządzenia prawidłowo nagrzewały i chłodziły metale, nadając im pożądane właściwości, takie jak twardość czy wytrzymałość",Urząd Pracy
+kontroler urządzeń odlewniczych,kontrolerka urządzeń odlewniczych,"kontroluje sprawność i bezpieczeństwo maszyn używanych do odlewania metalu, dbając o to, by produkowane części były precyzyjne i wysokiej jakości",Urząd Pracy
+kontroler urządzeń walcowniczych,kontrolerka urządzeń walcowniczych,"kontroluje działanie potężnych maszyn, które walcują metal, upewniając się, że pracują bezpiecznie i precyzyjnie, by wytwarzać produkty najwyższej jakości",Urząd Pracy
+kontroler biletów,kontrolerka biletów,"kontroluje ważność biletów i innych dokumentów uprawniających do przejazdu w autobusach, tramwajach czy pociągach; wystawia mandaty osobom podróżującym bez ważnego biletu",Urząd Pracy
+kontroler finansowy,kontrolerka finansowy,"nadzoruje i analizuje finanse firmy; pilnuje, by pieniądze były wydawane rozsądnie, a wszystkie transakcje zgodne z prawem i wewnętrznymi regułami",Urząd Pracy
+kontroler higieny mięsa,kontrolerka higieny mięsa,"kontroluje zakłady mięsne, upewniając się, że przestrzegają surowych zasad czystości i bezpieczeństwa, by mięso, które trafia na nasze stoły, było zdrowe i wolne od zanieczyszczeń",Urząd Pracy
+kontroler jakości połączeń spawanych,kontrolerka jakości połączeń spawanych,"kontroluje jakość wykonanych połączeń spawanych, sprawdzając ich wytrzymałość, brak wad i zgodność z dokumentacją techniczną, aby zapewnić bezpieczeństwo i trwałość konstrukcji",Urząd Pracy
+kontroler jakości produktów spożywczych,kontrolerka jakości produktów spożywczych,"kontroluje proces produkcji żywności, upewniając się, że każdy produkt spożywczy, zanim trafi na sklepowe półki, jest bezpieczny, zdrowy i spełnia wszystkie normy jakościowe",Urząd Pracy
+kontroler jakości wyrobów przemysłowych,kontrolerka jakości wyrobów przemysłowych,"zapewnia, że każdy produkt opuszczający fabrykę spełnia wysokie standardy jakości, dokładnie go testując i eliminując wszelkie usterki, zanim trafi do klienta",Urząd Pracy
+kontroler kolejowy,kontrolerka kolejowy,kontroluje ważność biletów oraz uprawnienia do ulg u pasażerów w pociągach; dba o porządek i bezpieczeństwo podczas podróży,Urząd Pracy
+kontroler państwowy,kontrolerka państwowy,"sprawdza, czy publiczne pieniądze są wydawane uczciwie i zgodnie z prawem przez urzędy państwowe, pilnując, by wszystko działało sprawnie i w interesie obywateli",Urząd Pracy
+kontroler pocztowy,kontrolerka pocztowy,"kontroluje prawidłowość funkcjonowania usług pocztowych, w tym sortowania i doręczania listów oraz paczek, dbając o jakość i bezpieczeństwo przesyłek",Urząd Pracy
+kontroler rozliczeń pieniężnych,kontrolerka rozliczeń pieniężnych,"sprawdza poprawność wszystkich transakcji finansowych firmy; pilnuje, by wpływy i wydatki były zawsze dokładnie odnotowane i zgodne z przepisami, co zapobiega błędom i niejasnościom",Urząd Pracy
+kontroler rozliczeń podatkowych,kontrolerka rozliczeń podatkowych,"upewnia się, że firmy i osoby prywatne prawidłowo obliczyły i zapłaciły wszystkie należne podatki, dokładnie weryfikując ich dokumenty finansowe i zgodność z przepisami prawa",Urząd Pracy
+kontroler ruchu lotniczego,kontrolerka ruchu lotniczego,"nadzoruje ruch samolotów na ziemi i w powietrzu, wydając im precyzyjne instrukcje, aby zapewnić bezpieczeństwo i płynność każdego lotu",Urząd Pracy
+kontroler stanu technicznego pojazdów,kontrolerka stanu technicznego pojazdów,"bada dokładnie pojazdy pod kątem ich sprawności i bezpieczeństwa; wykrywa usterki oraz dba o to, by spełniały wszystkie normy techniczne i mogły bezpiecznie poruszać się po drogach",Urząd Pracy
+konwojent wagonów specjalnych,konwojentka wagonów specjalnych,"eskortuje i nadzoruje specjalne wagony kolejowe; dba o bezpieczeństwo przewożonego w nich ładunku, zapewniając jego nienaruszony transport na całej trasie",Urząd Pracy
+koordynator badań klinicznych,koordynatorka badań klinicznych,"zapewnia płynny przebieg badań klinicznych, w których testuje się nowe leki lub terapie na ludziach; dba o bezpieczeństwo pacjentów, prawidłowe zbieranie danych i przestrzeganie wszystkich procedur",Urząd Pracy
+koordynator pobierania i przeszczepiania tkanek i narządów,koordynatorka pobierania i przeszczepiania tkanek i narządów,"umożliwia ratowanie życia i zdrowia, koordynując złożony proces od identyfikacji potencjalnego dawcy, poprzez wsparcie rodziny, po logistykę pobrania i bezpiecznego dostarczenia tkanek oraz narządów do pacjentów oczekujących na przeszczep",Urząd Pracy
+koordynator projektów unijnych,koordynatorka projektów unijnych,"prowadzi projekty finansowane przez Unię Europejską, dbając o ich sprawne zrealizowanie od pomysłu do rozliczenia",Urząd Pracy
+koordynator rodzinnej pieczy zastępczej,koordynatorka rodzinnej pieczy zastępczej,"koordynuje pomoc i wsparcie dla rodzin zastępczych oraz dzieci, które w nich mieszkają, dbając o ich prawidłowy rozwój, rozwiązywanie problemów i tworzenie bezpiecznego, kochającego środowiska",Urząd Pracy
+kopacz,kopaczka,"kopie ziemię ręcznie, używając łopaty lub kilofa; głównym zadaniem jest tworzenie wykopów pod fundamenty, rury czy kable",Urząd Pracy
+korektor instrumentów muzycznych,korektorka instrumentów muzycznych,"koryguje i dostraja instrumenty muzyczne, zapewniając ich perfekcyjne brzmienie i prawidłowe działanie",Urząd Pracy
+korektor tekstu,korektorka tekstu,"weryfikuje pisemne materiały, wyłapując i poprawiając wszelkie błędy językowe – ortograficzne, gramatyczne, interpunkcyjne czy stylistyczne – aby gotowy tekst był bezbłędny i zrozumiały dla czytelnika",Urząd Pracy
+korepetytor,korepetytorka,"uczy indywidualnie lub w małych grupach, tłumacząc skomplikowane tematy i pomagając uczniom nadrobić zaległości lub osiągnąć lepsze wyniki w szkole",Urząd Pracy
+koronkarz,koronkarka,"wyplata lub haftuje z cienkich nici misternie ażurowe koronki, które służą do ozdabiania odzieży, bielizny lub wystroju wnętrz",Urząd Pracy
+kosmetolog,kosmetolożka,"wykonuje zabiegi pielęgnacyjne i upiększające na skórę twarzy oraz ciała, takie jak oczyszczanie, masaże czy makijaż; doradza również w kwestii codziennej pielęgnacji, aby klienci czuli się piękniej i pewniej",Urząd Pracy
+kosmetyk,kosmetyczka,"pielęgnuje i upiększa skórę, paznokcie oraz rzęsy, doradzając klientom, jak dbać o urodę i czuć się pewniej",Urząd Pracy
+kostiumograf,kostiumografka,"projektuje i nadzoruje wykonanie kostiumów dla aktorów w produkcjach filmowych, teatralnych i telewizyjnych; dba o to, by ubiór idealnie oddawał charakter postaci i realia epoki",Urząd Pracy
+kosztorysant budowlany,kosztorysantka budowlana,"szacuje, ile będzie kosztować budowa domu, drogi czy mostu; dokładnie analizuje plany, ceny materiałów i robocizny, aby ustalić budżet projektu",Urząd Pracy
+koszykarz-plecionkarz,koszykarka-plecionkarka,"trenuje na boisku, rzucając do kosza i doskonaląc taktykę, by następnie z precyzją i artystycznym zmysłem tworzyć unikalne plecione dzieła",Urząd Pracy
+kowal,kowalka,"kuje rozgrzany w ogniu metal, nadając mu młotem na kowadle pożądane kształty, aby tworzyć narzędzia, ozdoby i elementy użytkowe",Urząd Pracy
+kowal wyrobów zdobniczych,kowalka wyrobów zdobniczych,"tworzy unikatowe, artystyczne przedmioty z metalu, takie jak ozdobne bramy czy balustrady, kształtując rozgrzane żelazo w piękne i trwałe formy",Urząd Pracy
+kożusznik,kożuszniczka,"szył i naprawiał kożuchy, czyli grube, ciepłe płaszcze wykonane ze skóry owczej z futrem",Urząd Pracy
+krajacz materiałów budowlanych,krajaczka materiałów budowlanych,"tnie i precyzyjnie obrabia różnorodne materiały budowlane, takie jak kamień, szkło czy ceramika, aby idealnie pasowały do projektu lub konkretnego miejsca w budynku",Urząd Pracy
+krajacz szkła,krajaczka szkła,"kraje szkło z milimetrową precyzją, by nadać mu idealny kształt do produkcji okien, luster oraz wyjątkowych elementów dekoracyjnych",Urząd Pracy
+krawiec,krawcowa,"szyje i projektuje odzież, precyzyjnie dopasowując ją do sylwetki i indywidualnych upodobań klienta, a także naprawia i przerabia gotowe ubrania",Urząd Pracy
+kremator,krematorka,"kremuje ciała zmarłych w specjalistycznych piecach, nadzorując cały proces, aby godnie przekształcić je w prochy",Urząd Pracy
+krojczy,krojczyni,"kroi materiały, takie jak tkaniny czy skóra, według precyzyjnych szablonów, aby przygotować poszczególne elementy do szycia odzieży, tapicerki lub innych produktów",Urząd Pracy
+krupier,krupierka,"prowadzi gry kasynowe, takie jak ruletka czy blackjack, rozdając karty, kręcąc kołem i pilnując, aby wszyscy gracze przestrzegali zasad",Urząd Pracy
+kryminolog,kryminolożka,"bada, dlaczego ludzie popełniają przestępstwa, analizuje ich wpływ na społeczeństwo i szuka skutecznych sposobów, by im zapobiegać",Urząd Pracy
+krytyk artystyczny,krytyczka artystyczna,"ocenia i interpretuje dzieła sztuki, od obrazów po spektakle, pisząc o nich recenzje i artykuły, które pomagają publiczności zrozumieć ich sens i wartość",Urząd Pracy
+krytyk kulinarny,krytyczka kulinarna,"degustuje i ocenia potrawy, obsługę oraz atmosferę w restauracjach, aby w swoich recenzjach doradzać czytelnikom, gdzie warto zjeść",Urząd Pracy
+księgowy,księgowa,"pomaga firmom i osobom prywatnym zarządzać ich pieniędzmi, skrupulatnie rejestrując wszystkie wpływy i wydatki, a następnie tworząc raporty, które jasno pokazują ich finansową sytuację",Urząd Pracy
+kucharz,kucharka,"tworzy i gotuje różnorodne potrawy, od prostych dań po wykwintne specjały, z pasją dbając o smak, estetykę i jakość każdego posiłku",Urząd Pracy
+kulturoznawca,kulturoznawczyni,"analizuje różnorodne zjawiska kulturowe, takie jak sztuka, obyczaje czy wierzenia, aby zrozumieć, jak kształtują one społeczeństwa i jednostki",Urząd Pracy
+kurator sądowy,kuratorka sądowa,"pomaga osobom, zwłaszcza młodzieży, które znalazły się w trudnej sytuacji życiowej lub mają problemy z prawem, aby wróciły na właściwą ścieżkę; jednocześnie kontroluje, czy przestrzegają zasad ustalonych przez sąd i dba o ich dobro",Urząd Pracy
+kurier,kurierka,"dostarcza przesyłki, paczki i dokumenty z jednego miejsca do drugiego, często używając pojazdów takich jak samochód, rower czy skuter, aby dotarły na czas do odbiorcy",Urząd Pracy
+kuśnierz,kuśnierka,"tworzy odzież i akcesoria z futra; zajmuje się jego obróbką, projektowaniem, szyciem i renowacją, aby było trwałe i piękne",Urząd Pracy
+kynoterapeuta,kynoterapeutka,"prowadzi terapię z udziałem psów; pomaga w ten sposób poprawić samopoczucie, rozwój społeczny i ruchowy u dzieci i dorosłych",Urząd Pracy
+laborant biochemiczny,laborantka biochemiczna,"analizuje próbki biologiczne, takie jak krew czy tkanki, używając specjalistycznego sprzętu, aby zrozumieć procesy chemiczne zachodzące w żywych organizmach i wspierać badania naukowe lub diagnostykę medyczną",Urząd Pracy
+laborant budowlany,laborantka budowlana,"wykonuje badania laboratoryjne próbek materiałów budowlanych, takich jak beton, asfalt czy grunty, aby sprawdzić ich jakość i upewnić się, że nadają się do budowy dróg, mostów i budynków",Urząd Pracy
+laborant chemiczny,laborantka chemiczna,"przygotowuje próbki, przeprowadza eksperymenty i analizy chemiczne, a następnie interpretuje wyniki, aby zrozumieć skład i właściwości różnych substancji w laboratorium",Urząd Pracy
+laborant mikrobiologiczny,laborantka mikrobiologiczna,"bada pod mikroskopem próbki, aby zidentyfikować i analizować niewidoczne gołym okiem mikroorganizmy, takie jak bakterie, wirusy czy grzyby, co pomaga w diagnozowaniu chorób, kontrolowaniu żywności czy prowadzeniu badań naukowych",Urząd Pracy
+laborant nasiennictwa,laborantka nasiennictwa,"analizuje jakość nasion w laboratorium, sprawdzając ich czystość, zdolność kiełkowania i ogólny stan zdrowia, aby rolnicy mieli pewność, że zasieją najlepsze plony",Urząd Pracy
+laborant w hodowli roślin,laborantka w hodowli roślin,"prowadzi badania i analizy w laboratorium, by wspierać hodowlę roślin w tworzeniu nowych, lepszych odmian",Urząd Pracy
+laborant w hodowli zwierząt,laborantka w hodowli zwierząt,"wykonuje badania laboratoryjne na próbkach pobranych od zwierząt, takich jak krew czy tkanki, aby monitorować ich zdrowie, genetykę i wspierać efektywną hodowlę",Urząd Pracy
+laborant weterynaryjny,laborantka weterynaryjna,"analizuje próbki pobrane od zwierząt, takie jak krew, mocz czy tkanki, aby pomóc weterynarzom w diagnozowaniu chorób i monitorowaniu ich leczenia",Urząd Pracy
+ładowacz,,"ładuje i rozładowuje towary, materiały lub bagaż, dbając o ich bezpieczne przemieszczanie i prawidłowe ułożenie w magazynach, na placach budowy czy w środkach transportu",Urząd Pracy
+ładowacz nieczystości stałych,,"ładuje zebrane odpady z pojemników do śmieciarki, często ręcznie, dbając o to, by ulice i osiedla pozostały czyste",Urząd Pracy
+lagowacz,,"izoluje rury, zbiorniki i inne urządzenia przemysłowe specjalnymi materiałami; dba o to, by nie traciły one ciepła i były chronione przed uszkodzeniami",Urząd Pracy
+lakiernik,,"przygotowuje powierzchnie, na przykład karoserie samochodowe czy meble, do malowania; następnie nakłada na nie farby i lakiery, zapewniając estetyczne i trwałe wykończenie",Urząd Pracy
+lakiernik proszkowy,,"maluje przedmioty specjalną farbą w proszku, którą po nałożeniu utwardza w wysokiej temperaturze, tworząc trwałą i odporną na uszkodzenia powłokę ochronną i dekoracyjną",Urząd Pracy
+lakiernik samochodowy,,"odnawia i maluje karoserie samochodów, precyzyjnie przygotowując powierzchnię i dobierając idealny odcień lakieru; dba o to, by auto wyglądało jak nowe po naprawie lub odświeżeniu",Urząd Pracy
+lakiernik tworzyw sztucznych,,"przygotowuje, szlifuje i lakieruje różnorodne elementy z tworzyw sztucznych, zapewniając im idealnie gładką, trwałą i estetyczną powierzchnię",Urząd Pracy
+lakiernik wyrobów drzewnych,,"nakłada na drewniane meble, podłogi i inne wyroby specjalistyczne powłoki, takie jak lakiery, bejce czy farby; dba w ten sposób o ich estetyczny wygląd i długotrwałą ochronę",Urząd Pracy
+latarnik,latarniczka,"obsługuje i konserwuje latarnię morską, dbając o to, by jej światło nieustannie wskazywało drogę statkom i ostrzegało przed zagrożeniami na morzu",Urząd Pracy
+łazienkowy,łazienkowa,"dba o czystość i porządek w publicznych toaletach, uzupełniając mydło i papier toaletowy, a czasem również pobierając niewielką opłatę za korzystanie",Urząd Pracy
+legalizator,legalizatorka,"sprawdza i potwierdza, że wagi, liczniki oraz inne urządzenia pomiarowe działają dokładnie i zgodnie z prawem, dbając o uczciwość w handlu i usługach",Urząd Pracy
+legislator,legislatorka,"uchwala ustawy i przepisy, które regulują życie społeczne i gospodarcze w państwie; reprezentuje przy tym obywateli w parlamencie",Urząd Pracy
+lekarz,lekarka,"pomaga ludziom, gdy są chorzy lub potrzebują porady zdrowotnej - bada pacjentów, stawia diagnozy i przepisuje leki, aby każdy czuł się lepiej i był zdrowy",Urząd Pracy
+lekarz alergolog,lekarka alergolożka,"pomaga osobom cierpiącym na alergie, rozpoznając ich przyczyny i dobierając skuteczne metody leczenia, aby poprawić jakość ich życia",Urząd Pracy
+lekarz anastezjolog,lekarka anastezjolożka,"czuwa nad bezpieczeństwem i komfortem pacjenta podczas operacji, podając znieczulenie, które eliminuje ból, oraz stale monitorując jego funkcje życiowe przez cały zabieg",Urząd Pracy
+lekarz angiolog,lekarka angiolożka,"leczy choroby układu krążenia, zajmując się diagnozowaniem i terapią schorzeń tętnic, żył oraz naczyń limfatycznych, na przykład miażdżycy czy żylaków",Urząd Pracy
+lekarz audiolog/foniatra,lekarka audiolożka/foniatrka,"diagnozuje i leczy choroby oraz zaburzenia słuchu, głosu, mowy i połykania, aby pacjenci mogli swobodnie komunikować się i jeść",Urząd Pracy
+lekarz balneolog,lekarka balneolożka,"wykorzystuje naturalne metody leczenia, takie jak wody mineralne, borowiny czy specyficzny klimat, aby leczyć choroby i poprawiać kondycję pacjentów, zwłaszcza w uzdrowiskach",Urząd Pracy
+lekarz chirurg,lekarka chirurżka,"operuje pacjentów, usuwając zmiany chorobowe, naprawiając uszkodzone organy lub rekonstruując tkanki; jego praca często ratuje życie i przywraca zdrowie",Urząd Pracy
+lekarz dermatolog/wenerolog,,"pomaga ludziom z problemami skórnymi, chorobami włosów i paznokci; diagnozuje i leczy także infekcje intymne",Urząd Pracy
+lekarz diabetolog,,"leczy osoby z cukrzycą, pomagając im zrozumieć chorobę, kontrolować poziom cukru we krwi i prowadzić zdrowe życie",Urząd Pracy
+lekarz diagnostyk laboratoryjny,,"analizuje i interpretuje wyniki badań laboratoryjnych krwi, moczu czy tkanek, aby pomóc innym lekarzom w postawieniu diagnozy i wyborze skutecznego leczenia chorób",Urząd Pracy
+lekarz endokrynolog,,"leczy choroby związane z hormonami, czyli substancjami, które regulują prawie wszystko w naszym ciele – od wzrostu i energii po nastrój; zajmuje się diagnozowaniem i terapią problemów z gruczołami, które je wytwarzają",Urząd Pracy
+lekarz epidemiolog,,"analizuje występowanie i rozprzestrzenianie się chorób w populacji, identyfikując ich źródła oraz czynniki ryzyka; następnie opracowuje skuteczne strategie zapobiegania epidemiom i dba o zdrowie publiczne",Urząd Pracy
+lekarz farmakolog,,"bada, jak leki wpływają na ludzki organizm, aby dobierać najbezpieczniejsze i najskuteczniejsze terapie dla pacjentów, a także często uczestniczy w rozwoju nowych leków",Urząd Pracy
+lekarz gastroenterolog,,"zajmuje się diagnozowaniem i leczeniem wszelkich dolegliwości związanych z układem trawiennym, takich jak problemy z żołądkiem, jelitami czy wątrobą, aby pacjenci mogli jeść i czuć się dobrze",Urząd Pracy
+lekarz genetyk,,"rozpoznaje i tłumaczy, jak zmiany w genach wpływają na zdrowie, pomagając pacjentom i ich rodzinom zrozumieć choroby dziedziczne oraz znaleźć najlepsze rozwiązania",Urząd Pracy
+lekarz geriatra,,"opiekuje się zdrowiem osób starszych, diagnozując i lecząc schorzenia charakterystyczne dla podeszłego wieku, aby mogli zachować sprawność i cieszyć się życiem",Urząd Pracy
+lekarz hematolog,,"diagnozuje i leczy choroby krwi, takie jak anemia czy białaczka, a także problemy z krzepnięciem, dbając o zdrowie pacjentów",Urząd Pracy
+lekarz hipertensjolog,,"specjalizuje się w diagnozowaniu i leczeniu wysokiego ciśnienia krwi (nadciśnienia), pomagając pacjentom unikać poważnych chorób serca, nerek i udaru",Urząd Pracy
+lekarz immunolog,,"bada i leczy choroby związane z układem odpornościowym, czyli naturalnym systemem obronnym organizmu, który chroni nas przed infekcjami; pomaga także osobom cierpiącym na alergie, astmę czy choroby autoimmunologiczne, w których ciało atakuje samo siebie",Urząd Pracy
+lekarz kardiochirurg,,wykonuje bardzo trudne operacje na sercu i dużych naczyniach krwionośnych; jego celem jest naprawa poważnych problemów i ratowanie życia pacjentów,Urząd Pracy
+lekarz kardiolog,,"zajmuje się diagnozowaniem, leczeniem i zapobieganiem chorobom serca oraz naczyń krwionośnych, czyli dba o to, żeby nasze serce i krążenie działały bez zarzutu",Urząd Pracy
+lekarz – specjalista medycyny nuklearnej,,"bada i leczy choroby, podając pacjentom bezpieczne, minimalne dawki substancji radioaktywnych, które pozwalają na tworzenie szczegółowych obrazów pokazujących, jak działają ich narządy wewnętrzne",Urząd Pracy
+lekarz nefrolog,,"diagnozuje i leczy choroby nerek, czyli tych ważnych organów, które filtrują krew, aby mogły prawidłowo działać i służyć zdrowiu pacjenta",Urząd Pracy
+lekarz neonatolog,,"leczy i troszczy się o najmniejszych pacjentów – noworodki urodzone przedwcześnie lub z poważnymi problemami zdrowotnymi, zapewniając im specjalistyczną opiekę, by mogły zdrowo rosnąć",Urząd Pracy
+lekarz neurochirurg,,"wykonuje skomplikowane operacje na mózgu, kręgosłupie i układzie nerwowym, aby leczyć poważne choroby, urazy oraz wady, często ratując życie i przywracając pacjentom sprawność",Urząd Pracy
+lekarz neurolog,,"diagnozuje i leczy schorzenia układu nerwowego, czyli problemy z mózgiem, rdzeniem kręgowym i nerwami; pomaga pacjentom, gdy te dolegliwości wpływają na ich ruch, czucie czy myślenie",Urząd Pracy
+lekarz neuropatolog,,"diagnozuje i leczy chorób mózgu, rdzenia kręgowego oraz nerwów, dogłębnie badając ich przyczyny i mechanizmy, by skutecznie pomagać pacjentom z problemami neurologicznymi",Urząd Pracy
+lekarz okulista,,"diagnozuje, leczy i zapobiega chorobom oczu oraz wadom wzroku; przeprowadza operacje i dobiera odpowiednie korekcje, takie jak okulary czy soczewki",Urząd Pracy
+lekarz onkolog,,"leczy osoby chore na nowotwory; diagnozuje chorobę, planuje terapie i wspiera pacjentów w walce o zdrowie",Urząd Pracy
+lekarz ortopeda,,"pomaga pacjentom z problemami układu ruchu, diagnozując i lecząc urazy oraz choroby kości, stawów i mięśni, aby mogli wrócić do pełnej aktywności",Urząd Pracy
+lekarz otorynolaryngolog,,"diagnozuje i leczy schorzenia uszu, nosa, gardła i krtani; dba o prawidłowe funkcjonowanie słuchu, węchu, głosu oraz swobodne oddychanie",Urząd Pracy
+lekarz patomorfolog,,"bada pod mikroskopem tkanki i komórki pobrane od pacjentów, aby zdiagnozować różne choroby, w tym nowotwory, co pozwala innym lekarzom zaplanować odpowiednie leczenie",Urząd Pracy
+lekarz pediatra,,"pomaga dzieciom i młodzieży od niemowlęctwa do pełnoletności, diagnozując i lecząc ich schorzenia; wspiera także rodziców w dbaniu o zdrowy rozwój i profilaktykę ich pociech",Urząd Pracy
+lekarz perinatolog,,"zajmuje się lekarz perinatolog zdrowiem ciężarnych kobiet i ich nienarodzonych dzieci, zwłaszcza gdy ciąża jest skomplikowana lub zagrożona, aby zapewnić im bezpieczeństwo i zdrowy rozwój aż do porodu",Urząd Pracy
+lekarz ginekolog,,"opiekuje się zdrowiem intymnym i rozrodczym kobiet, doradzając w sprawach ciąży, antykoncepcji oraz diagnozując i lecząc schorzenia kobiece",Urząd Pracy
+lekarz psychiatra,,"leczy choroby i zaburzenia psychiczne, na przykład depresję czy lęki, diagnozując je i dobierając odpowiednie metody leczenia, w tym leki, aby pomóc pacjentom wrócić do zdrowia psychicznego",Urząd Pracy
+lekarz radiolog,,"analizuje i interpretuje zdjęcia rentgenowskie, tomografie komputerowe oraz rezonanse magnetyczne, aby wykrywać choroby i urazy niewidoczne gołym okiem, co umożliwia innym lekarzom postawienie trafnej diagnozy i zaplanowanie leczenia",Urząd Pracy
+lekarz radioterapeuta,,"planuje i prowadzi leczenie nowotworów, wykorzystując promieniowanie, aby precyzyjnie niszczyć komórki rakowe, jednocześnie chroniąc zdrowe tkanki pacjenta",Urząd Pracy
+lekarz reumatolog,,"leczy choroby, które atakują stawy, mięśnie i kości, powodując ból, sztywność czy obrzęki; pomaga pacjentom, na przykład z artretyzmem, odzyskać sprawność i poczuć się lepiej",Urząd Pracy
+lekarz toksykolog,,"diagnozuje i leczy osoby, które zatruły się lekami, chemikaliami, jadem lub innymi toksynami, a także doradza, jak unikać ich szkodliwego wpływu na zdrowie",Urząd Pracy
+lekarz transfuzjolog,,"leczy pacjentów, którzy potrzebują przetoczeń krwi lub jej składników, diagnozuje choroby krwi wymagające specjalistycznej terapii, a także nadzoruje bank krwi, dbając o bezpieczeństwo i dostępność cennych preparatów",Urząd Pracy
+lekarz transplantolog,,"przeszczepia choremu pacjentowi zdrowy organ od dawcy, aby uratować mu życie lub znacznie poprawić jego stan zdrowia",Urząd Pracy
+lekarz urolog,,"leczy choroby układu moczowego u kobiet i mężczyzn oraz schorzenia męskiego układu płciowego, takie jak problemy z prostatą czy jądrami",Urząd Pracy
+lekarz dentysta,,"leczy i zapobiega chorobom zębów oraz dziąseł, wykonując zabiegi takie jak plombowanie, usuwanie czy czyszczenie, a także uczy, jak prawidłowo dbać o higienę jamy ustnej, by każdy mógł cieszyć się zdrowym i pięknym uśmiechem",Urząd Pracy
+lekarz ordynator oddziału,,"zarządza całym oddziałem szpitalnym, nadzorując pracę innych lekarzy i ponosząc ostateczną odpowiedzialność za diagnozę, leczenie oraz bezpieczeństwo wszystkich pacjentów",Urząd Pracy
+lekarz weterynarz,,"leczy i zapobiega chorobom zwierząt domowych, hodowlanych oraz egzotycznych, dbając o ich zdrowie i dobre samopoczucie",Urząd Pracy
+lekarz weterynarz chirurg,,"ratuję życie i zdrowie zwierząt, wykonując precyzyjne operacje, by naprawić ich ciała po wypadkach, usunąć groźne guzy czy skorygować wady wrodzone",Urząd Pracy
+lekarz weterynarz ptaków,,"diagnozuje i leczy choroby ptaków, od papug po sowy, wykonuje operacje, podaje leki i uczy właścicieli, jak prawidłowo dbać o swoich pierzastych podopiecznych",Urząd Pracy
+lekarz weterynarz koni,,"leczy konie, diagnozując ich choroby, wykonując zabiegi i dbając o ich ogólne zdrowie, aby te majestatyczne zwierzęta były silne, zdrowe i mogły cieszyć się życiem",Urząd Pracy
+lekarz weterynarz owadów,,"pomaga owadom, gdy chorują lub zostaną ranne, diagnozując ich problemy zdrowotne i wdrażając leczenie, aby te małe stworzenia mogły zdrowo żyć",Urząd Pracy
+lekarz weterynarz przeżuwaczy,,"diagnozuje, leczy i zapobiega chorobom u zwierząt gospodarskich, takich jak krowy, owce i kozy, dbając o ich zdrowie, dobrostan i produktywność w hodowli",Urząd Pracy
+lekarz weterynarz psów i kotów,,"leczy psy i koty, diagnozując ich choroby, przeprowadzając zabiegi oraz doradzając właścicielom, jak dbać o zdrowie i dobre samopoczucie swoich pupili",Urząd Pracy
+lekarz weterynarz ryb,,"leczy i diagnozuje choroby ryb; dba o ich zdrowie, profilaktykę i dobrostan w hodowlach, akwariach oraz naturalnych zbiornikach wodnych",Urząd Pracy
+lekarz weterynarz trzody chlewnej,,"monitoruje zdrowie świń w hodowlach, diagnozuje i leczy ich choroby, a także doradza rolnikom w kwestiach profilaktyki i dobrostanu zwierząt",Urząd Pracy
+lekarz weterynarz zwierząt nieudomowionych,,"leczy dzikie zwierzęta, egzotyczne gatunki oraz te z ogrodów zoologicznych; diagnozuje ich choroby, przeprowadza operacje i dba o ich powrót do zdrowia, aby mogły wrócić do natury lub żyć komfortowo w specjalistycznych ośrodkach",Urząd Pracy
+lekarz weterynarz epizootiolog,,"zapobiega masowemu rozprzestrzenianiu się chorób wśród zwierząt, badając ich przyczyny i kontrolując ogniska, aby chronić zdrowie całych populacji",Urząd Pracy
+lektor dialogów filmowych i radiowych,,"wypowiadać dialogi w filmach i audycjach radiowych, nadając im odpowiedni ton i emocje, aby widzowie i słuchacze mogli zrozumieć fabułę i wczuć się w postacie",Urząd Pracy
+lektor języka obcego,,"uczy ludzi posługiwać się obcym językiem, przekazując im wiedzę o gramatyce, słownictwie i kulturze, by mogli swobodnie komunikować się na świecie",Urząd Pracy
+leśnik,,"opiekuje się lasem, dbając o jego zdrowie, sadząc nowe drzewa, chroniąc zwierzęta i rośliny, a także nadzorując zrównoważone pozyskiwanie drewna, by służył naturze i ludziom przez pokolenia",Warhammer FRP
+leśny duch,,"czuwa nad równowagą leśnego ekosystemu, poruszając się bezszelestnie i pozostając niemal niewidzialnym strażnikiem, by chronić dziką przyrodę",Warhammer FRP
+licytator,,"prowadzi aukcje, gdzie dynamicznie sprzedaje różnorodne przedmioty (od obrazów po samochody) osobie, która zaoferuje najwyższą kwotę, często używając szybkiego i rytmicznego sposobu mówienia, by podbić cenę",Urząd Pracy
+liczarz,liczarka,"liczy i porządkuje ogromne ilości danych liczbowych, aby odkrywać w nich ukryte znaczenia; dzięki temu pomaga firmom i instytucjom lepiej planować przyszłość",Urząd Pracy
+likwidator szkód,likwidatorka szkód,"pomaga ludziom po szkodach, na przykład po zalaniu domu czy wypadku, oceniając zniszczenia i ustalając, ile pieniędzy należy się im jako odszkodowanie",Urząd Pracy
+listonosz,listonoszka,"rozwozi listy, paczki i rachunki, przemierzając wyznaczoną trasę; dba o to, by każda przesyłka bezpiecznie dotarła do swojego adresata",Urząd Pracy
+lobbysta,,"przekonuje polityków i urzędników do podjęcia decyzji korzystnych dla firm, organizacji lub grup społecznych, które reprezentuje",Urząd Pracy
+logopeda,logopedka,"uczy, jak poprawnie wymawiać słowa i płynnie mówić; wspiera osoby w każdym wieku w pokonywaniu trudności z komunikacją, aby mogły swobodnie wyrażać swoje myśli",Urząd Pracy
+łubiankarz,łubiankarka,"wykonuje z cienkich pasków drewna lekkie, płytkie koszyki, czyli łubianki, używane głównie do pakowania i transportu delikatnych owoców lub grzybów",Urząd Pracy
+ludwisarz,ludwisarka,"wytwarza z brązu dzwony, posągi oraz inne odlewy artystyczne, wykorzystując techniki topienia i wlewania metalu do specjalnych form",Urząd Pracy
+lustrzarz,lustrzarka,"tnie, obrabia i montuje szkło oraz lustra, dopasowując je do ram okiennych, drzwiowych, mebli czy tworząc z nich elementy dekoracyjne",Urząd Pracy
+lutowacz,lutowaczka,"lutuje metalowe części za pomocą specjalnego spoiwa i wysokiej temperatury, tworząc trwałe połączenia w urządzeniach elektronicznych, instalacjach czy biżuterii",Urząd Pracy
+magazynier,magazynierka,"organizuje przestrzeń magazynową, przyjmuje dostawy, układa towary na półkach, kompletuje zamówienia i przygotowuje je do wysyłki, często obsługując wózki widłowe",Urząd Pracy
+magazynier-logistyk,,"zarządza przepływem towarów w magazynie, od przyjęcia po wysyłkę, planując ich rozmieszczenie i dbając o to, by zawsze dotarły do klienta na czas i w idealnym stanie",Urząd Pracy
+maglarz,,"obsługuje magiel, specjalną maszynę do prasowania i wygładzania dużych ilości prania, by było ono idealnie równe i bez zagnieceń",Urząd Pracy
+makler giełd towarowych,,"doradza klientom w kupowaniu i sprzedawaniu surowców, takich jak ropa, złoto czy zboże, na giełdzie, aby pomóc im zarobić pieniądze na zmianach cen",Urząd Pracy
+makler morski,,"pośredniczy w wynajmowaniu lub kupnie i sprzedaży statków, łącząc właścicieli z firmami potrzebującymi transportu morskiego i dbając o korzystne warunki transakcji",Urząd Pracy
+makler nadzorujący,,"nadzoruje pracę innych maklerów, upewniając się, że wszystkie transakcje są prowadzone uczciwie i zgodnie z przepisami, co chroni klientów i buduje zaufanie do rynku",Urząd Pracy
+makler papierów wartościowych,,"realizuje zlecenia klientów dotyczące kupna i sprzedaży akcji, obligacji oraz innych papierów wartościowych na giełdzie; działa jako pośrednik między inwestorami a rynkiem",Urząd Pracy
+malarz budowlany,,"przygotowuje i maluje powierzchnie ścian, sufitów oraz innych elementów konstrukcyjnych w budynkach; dba o estetykę i trwałość wykończenia, używając różnych technik i materiałów",Urząd Pracy
+malarz-lakiernik konstrukcji i wyrobów metalowych,,"maluje i lakieruje metalowe konstrukcje oraz wyroby, aby je chronić przed korozją i nadać im estetyczny wygląd",Urząd Pracy
+malarz-lakiernik samolotowy,,"przygotowuje i zabezpiecza powierzchnie samolotów; nakłada na nie specjalistyczne farby i lakiery, dbając o precyzję i trwałość powłok",Urząd Pracy
+malarz-tapeciarz,,"maluje i tapetuje ściany oraz sufity, wcześniej je przygotowując, aby nadać pomieszczeniom nowy, estetyczny wygląd",Urząd Pracy
+manewrowy,,"manewruje wagonami na torach, łącząc je w nowe składy pociągów lub rozłączając te przybyłe; dba o to, by każdy wagon trafił na właściwe miejsce na stacji kolejowej",Urząd Pracy
+manewrowy metra,,"kieruje pociągami metra po torach technicznych i w zajezdniach, aby je przestawiać, naprawiać lub szykować do jazdy z pasażerami",Urząd Pracy
+manikiurzysta,manikiurzystka,"upiększa dłonie i paznokcie, wykonując zabiegi pielęgnacyjne; stylizuje je, maluje, a nawet przedłuża, aby wyglądały zdrowo i estetycznie",Urząd Pracy
+manipulant drewna okrągłego,manipulantka drewna okrągłego,"steruje specjalistycznymi maszynami, aby przemieszczać, układać i sortować ścięte pnie drzew, czyli drewno okrągłe, przygotowując je do dalszej obróbki w tartaku lub na składzie drewna",Urząd Pracy
+marynarz motorzysta żeglugi śródlądowej,,"dba o sprawne działanie silników i innych maszyn na statkach pływających po rzekach i kanałach, a także pomaga w obsłudze pokładu i cumowaniu",Urząd Pracy
+marynarz statku morskiego,,"obsługuje statek morski, wykonując różnorodne prace na jego pokładzie, aby bezpiecznie transportować towary lub pasażerów przez morza i oceany",Urząd Pracy
+marynarz żeglugi śródlądowej,,"pomaga w obsłudze statków, barek i promów poruszających się po rzekach, kanałach oraz jeziorach, wykonując codzienne prace pokładowe i dbając o bezpieczny transport ładunków lub pasażerów",Urząd Pracy
+maślarz,maślarka,"wyrabia masło z mleka lub śmietany, używając do tego specjalnych maszyn i dbając o jego jakość",Urząd Pracy
+masztalerz,masztalerka,"opiekuje się końmi w stajni, dbając o ich zdrowie, karmienie, czystość i ogólne samopoczucie",Urząd Pracy
+maszynista,maszynistka,"kieruje pociągiem, transportując pasażerów lub towary, i jest odpowiedzialny za bezpieczne oraz punktualne dotarcie do stacji docelowej",Urząd Pracy
+maszynista agregatów prądotwórczych,,"obsługuje i monitoruje agregaty prądotwórcze, czyli specjalne maszyny wytwarzające prąd, aby zapewnić zasilanie w miejscach bez stałego dostępu do energii elektrycznej",Urząd Pracy
+maszynista chłodni,,"kontroluje i konserwuje duże urządzenia chłodnicze; dba o to, by w magazynach czy fabrykach zawsze panowała odpowiednio niska temperatura, niezbędna do przechowywania żywności i innych wrażliwych produktów",Urząd Pracy
+maszynista doku,,"obsługuje potężne maszyny portowe, takie jak żurawie, suwnice czy wózki widłowe, aby sprawnie ładować i rozładowywać statki, przenosząc kontenery oraz inne ładunki",Urząd Pracy
+maszynista górniczych maszyn wyciągowych,,"steruje potężnymi maszynami wyciągowymi w kopalni, zapewniając bezpieczny i płynny transport górników, sprzętu oraz wydobytych surowców w pionowych szybach",Urząd Pracy
+"maszynista kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych",,"obsługuje i nadzoruje technicznie koleje linowe, wyciągi narciarskie oraz zjeżdżalnie grawitacyjne, odpowiadając za ich bezpieczne i sprawne działanie",Urząd Pracy
+maszynista kotła,,"steruje i monitoruje pracę potężnych kotłów, które produkują parę lub gorącą wodę do ogrzewania czy zasilania maszyn, zapewniając ich bezpieczne i wydajne funkcjonowanie",Urząd Pracy
+maszynista maszyn fleksograficznych,,"ustawia i nadzoruje pracę maszyn drukarskich, które nanoszą trwałe wzory i teksty na opakowania; dba o jakość i poprawność druku na foliach, etykietach i kartonach",Urząd Pracy
+maszynista maszyn offsetowych,,"ustawia i nadzoruje skomplikowane maszyny offsetowe, które z precyzją drukują na papierze książki, gazety, plakaty czy ulotki, dbając o idealne kolory i ostrość detali",Urząd Pracy
+maszynista maszyn typograficznych,,"obsługuje i nadzoruje skomplikowane maszyny drukarskie; dba o precyzyjne nanoszenie tekstu i obrazów na papier, aby powstawały książki, gazety i inne materiały drukowane",Urząd Pracy
+maszynista maszyn wklęsłodrukowych,,"obsługuje i ustawia zaawansowane maszyny wklęsłodrukowe; dba o to, by precyzyjnie drukowały na dużą skalę, tworząc np. magazyny, opakowania czy tapety, zawsze w idealnej jakości",Urząd Pracy
+maszynista obsługujący urządzenia do napełniania i opróżniania zbiorników,,steruje maszynami i systemami odpowiedzialnymi za precyzyjne napełnianie oraz bezpieczne opróżnianie zbiorników z różnymi substancjami,Urząd Pracy
+maszynista pociągu metra,,"prowadzi pociąg metra, bezpiecznie przewożąc pasażerów pod ziemią zgodnie z rozkładem; monitoruje systemy pokładowe i dba o sprawność pojazdu",Urząd Pracy
+maszynista pomocniczych pojazdów kolejowych metra,,"prowadzi specjalne pociągi i maszyny, które poruszają się po torach metra w celu wykonywania prac technicznych, takich jak naprawy, konserwacja czy budowa, zamiast przewozić pasażerów",Urząd Pracy
+maszynista specjalistycznych dźwignic kolejowych,,"manewruje ogromnymi, specjalistycznymi maszynami na torach kolejowych, aby precyzyjnie podnosić, przenosić i układać ciężkie elementy, takie jak szyny czy fragmenty mostów, niezbędne do budowy i naprawy linii kolejowych",Urząd Pracy
+maszynista sprężarek,,"obsługuje, konserwuje i nadzoruje pracę sprężarek, czyli maszyn wytwarzających sprężone powietrze lub gazy; dba o ich bezpieczne i efektywne funkcjonowanie, aby zapewnić ciągłość dostaw dla różnych procesów przemysłowych",Urząd Pracy
+maszynista turbozespołu parowego,,"kieruje pracą potężnych turbin parowych w elektrowni, dbając o ich prawidłowe działanie, by bezpiecznie i efektywnie produkować energię elektryczną",Urząd Pracy
+maszynista turbozespołu wodnego,,"steruje i nadzoruje pracą kluczowych urządzeń w elektrowni wodnej, jakimi są turbozespoły wodne, zamieniające siłę wody w prąd elektryczny; odpowiada za ich bezpieczne i wydajne funkcjonowanie",Urząd Pracy
+maszynista urządzeń ciepłowniczych elektrowni,,"steruje skomplikowanymi urządzeniami takimi jak kotły i turbiny w elektrowni, aby bezpiecznie i efektywnie wytwarzać prąd oraz ciepło dla domów i przemysłu",Urząd Pracy
+maszynista urządzeń nawęglania,,"obsługuje skomplikowane urządzenia, takie jak taśmociągi czy ładowarki, które służą do przemieszczania i dostarczania węgla do kotłów elektrowni lub innych instalacji przemysłowych",Urząd Pracy
+maszynista urządzeń odpopielania i odżużlania,,"obsługuje specjalistyczne urządzenia do odpopielania i odżużlania, czyli usuwania popiołu i żużlu – odpadów powstających po spaleniu paliw; dba w ten sposób o efektywną pracę pieców i bezpieczeństwo instalacji przemysłowych",Urząd Pracy
+maszynista urządzeń pomocniczych elektrowni,,"obsługuje i nadzoruje wszystkie systemy pomocnicze w elektrowni, takie jak pompy, wentylatory czy układy chłodzenia, które są niezbędne do ciągłej i bezpiecznej produkcji prądu",Urząd Pracy
+maszynista wentylatorów w kopalni,,"obsługuje i nadzoruje potężne wentylatory w kopalni, dbając o stały dopływ świeżego powietrza i usuwanie szkodliwych gazów, co jest kluczowe dla bezpieczeństwa pracujących pod ziemią górników",Urząd Pracy
+matematyk,matematyczka,"rozwiązuje abstrakcyjne zagadki, tworzy nowe teorie i modele, aby zrozumieć świat oraz znaleźć rozwiązania dla złożonych problemów w nauce, technice i życiu codziennym",Urząd Pracy
+mechanik autobusów,,"zapewnia, że autobusy są zawsze sprawne i bezpieczne dla pasażerów; diagnozuje i naprawia usterki, przeprowadza przeglądy oraz konserwuje pojazdy",Urząd Pracy
+mechanik automatyki przemysłowej i urządzeń precyzyjnych,,"instaluje, konserwuje i naprawia zaawansowane roboty, automatyczne linie produkcyjne oraz precyzyjne urządzenia, aby zapewnić ich bezbłędne i wydajne działanie w nowoczesnych fabrykach",Urząd Pracy
+mechanik ciągników,,"rozwiązuje problemy techniczne, naprawia i konserwuje ciągniki oraz inne skomplikowane maszyny rolnicze, zapewniając ich niezawodną pracę na polu",Urząd Pracy
+mechanik lotniczy obsługi technicznej,,"zapewnia, że samoloty i helikoptery są bezpieczne i gotowe do lotu; kontroluje ich stan techniczny, usuwa usterki i przeprowadza regularne przeglądy",Urząd Pracy
 mechanik maszyn i urządzeń budowlanych i melioracyjnych,,,Urząd Pracy
 mechanik maszyn i urządzeń do obróbki metali,,,Urząd Pracy
-mechanik maszyn i urządzeń drogowych,,,Urząd Pracy
-mechanik maszyn i urządzeń górnictwa odkrywkowego,,,Urząd Pracy
-mechanik maszyn i urządzeń górnictwa podziemnego,,,Urząd Pracy
-mechanik maszyn i urządzeń przemysłowych,,,Urząd Pracy
-mechanik maszyn rolniczych,,,Urząd Pracy
-mechanik maszyn szwalniczych,,,Urząd Pracy
-mechanik motocyklowy,,,Urząd Pracy
-mechanik okrętowy,,,Urząd Pracy
-mechanik płatowców,,,Urząd Pracy
-mechanik pojazdów kolejowych,,,Urząd Pracy
-mechanik pojazdów samochodowych,,,Urząd Pracy
-mechanik pokładowy,,,Urząd Pracy
-mechanik precyzyjny,,,Urząd Pracy
-mechanik samochodów ciężarowych,,,Urząd Pracy
-mechanik samochodów osobowych,,,Urząd Pracy
-mechanik silników lotniczych,,,Urząd Pracy
-mechanik silników spalinowych,,,Urząd Pracy
-mechanik statkowy żeglugi śródlądowej,,,Urząd Pracy
-mechanik taboru kolejowego,,,Urząd Pracy
-mechanik urządzeń chłodniczych,,,Urząd Pracy
-mechanik urządzeń klimatyzacyjnych,,,Urząd Pracy
-mechanik wyposażenia lotniczego statków powietrznych,,,Urząd Pracy
-mechanik-monter maszyn i urządzeń,,,Urząd Pracy
-mechanik-operator maszyn do produkcji drzewnej,,,Urząd Pracy
-mechanik-operator pojazdów i maszyn rolniczych,,,Urząd Pracy
-mechatronik,,,Urząd Pracy
-mediator,,,Urząd Pracy
-mediator sądowy,,,Urząd Pracy
-medyk,,,Warhammer FRP
+mechanik maszyn i urządzeń drogowych,,"naprawia, konserwuje i dba o sprawność koparek, spychaczy, walców oraz innych maszyn używanych do budowy i utrzymania dróg",Urząd Pracy
+mechanik maszyn i urządzeń górnictwa odkrywkowego,,"diagnozuje, naprawia i konserwuje potężne maszyny oraz urządzenia, takie jak koparki czy wywrotki, używane do wydobywania surowców w kopalniach odkrywkowych, gwarantując ich niezawodne działanie",Urząd Pracy
+mechanik maszyn i urządzeń górnictwa podziemnego,,"diagnozuje, naprawia i konserwuje specjalistyczne maszyny oraz urządzenia pracujące w trudnych warunkach podziemnych kopalń, aby zapewnić ciągłość wydobycia i bezpieczeństwo załogi",Urząd Pracy
+mechanik maszyn i urządzeń przemysłowych,,"utrzymuje w pełnej sprawności technicznej, montuje i naprawia skomplikowane maszyny oraz urządzenia, które napędzają produkcję w fabrykach i zakładach przemysłowych",Urząd Pracy
+mechanik maszyn rolniczych,,"diagnozuje, naprawia i konserwuje ciągniki, kombajny oraz inne maszyny rolnicze, aby zapewnić ich sprawną pracę w gospodarstwach",Urząd Pracy
+mechanik maszyn szwalniczych,,"utrzymuje w pełnej sprawności technicznej skomplikowane maszyny szwalnicze, które szyją ubrania i inne wyroby tekstylne, diagnozując usterki i przeprowadzając naprawy, aby produkcja w szwalniach nigdy się nie zatrzymała",Urząd Pracy
+mechanik motocyklowy,,"serwisuje, naprawia i diagnozuje usterki w motocyklach, dbając o ich sprawność techniczną i bezpieczeństwo, aby każdy mógł cieszyć się płynną jazdą",Urząd Pracy
+mechanik okrętowy,,"odpowiada za montaż, konserwację i naprawę silników oraz wszelkich systemów mechanicznych i napędowych na statkach, dbając o ich sprawne i bezpieczne funkcjonowanie",Urząd Pracy
+mechanik płatowców,,"dba o sprawność techniczną samolotów, dokładnie kontrolując, naprawiając i konserwując ich konstrukcję, skrzydła, podwozie oraz wszystkie systemy, by zapewnić bezpieczeństwo każdego lotu",Urząd Pracy
+mechanik pojazdów kolejowych,,"naprawia, konserwuje i sprawdza pociągi, lokomotywy oraz wagony, dbając o ich bezpieczeństwo i prawidłowe działanie na torach",Urząd Pracy
+mechanik pojazdów samochodowych,,"naprawia uszkodzone samochody, diagnozuje usterki oraz dba o ich regularną konserwację, aby były sprawne i bezpieczne na drodze",Urząd Pracy
+mechanik pokładowy,,"nadzoruje i obsługuje złożone systemy sametolotowe podczas lotu, zapewniając bezpieczeństwo załogi i pasażerów poprzez szybką reakcję na wszelkie usterki",Urząd Pracy
+mechanik precyzyjny,,"montuje i naprawia skomplikowane mechanizmy oraz urządzenia, często bardzo małe; dba o ich mikroskopijną precyzję, używając specjalistycznych narzędzi i technik pomiarowych",Urząd Pracy
+mechanik samochodów ciężarowych,,"diagnozuje, naprawia i serwisuje skomplikowane układy mechaniczne, elektryczne oraz elektroniczne dużych pojazdów, takich jak ciężarówki i autobusy, aby zapewnić ich bezpieczne i sprawne funkcjonowanie na drodze",Urząd Pracy
+mechanik samochodów osobowych,,"zajmuje się diagnozowaniem usterek, naprawianiem i konserwacją samochodów osobowych, aby zapewnić ich bezpieczne i sprawne działanie na drodze",Urząd Pracy
+mechanik silników lotniczych,,"serwisuje, naprawia i kontroluje silniki samolotów; dba o ich niezawodne działanie i bezpieczeństwo lotów",Urząd Pracy
+mechanik silników spalinowych,,"diagnozuje, naprawia i serwisuje silniki spalinowe w pojazdach takich jak samochody, motocykle czy ciężarówki, aby działały sprawnie i bezpiecznie",Urząd Pracy
+mechanik statkowy żeglugi śródlądowej,,"serwisuje i naprawia silniki oraz wszystkie urządzenia techniczne na statkach rzecznych i jeziornych; dba o to, by zawsze były gotowe do bezpiecznej podróży",Urząd Pracy
+mechanik taboru kolejowego,,"naprawia, konserwuje i diagnozuje usterki w lokomotywach, wagonach oraz innych pojazdach szynowych, dbając o ich bezpieczeństwo i sprawność",Urząd Pracy
+mechanik urządzeń chłodniczych,,"instaluje, konserwuje i naprawia wszelkie urządzenia chłodnicze, od domowych lodówek po duże systemy klimatyzacji i przemysłowe chłodnie, zapewniając ich sprawne działanie i utrzymanie niskich temperatur",Urząd Pracy
+mechanik urządzeń klimatyzacyjnych,,"instaluje, serwisuje i naprawia urządzenia klimatyzacyjne, zapewniając komfortową temperaturę oraz czyste powietrze w domach, biurach i pojazdach",Urząd Pracy
+mechanik wyposażenia lotniczego statków powietrznych,,"kontroluje, naprawia i montuje wszelkie urządzenia oraz systemy pokładowe samolotów, od nawigacji po systemy bezpieczeństwa, zapewniając ich sprawne działanie i bezpieczeństwo pasażerów",Urząd Pracy
+mechanik-monter maszyn i urządzeń,,"diagnozuje usterki, naprawia, montuje i konserwuje różnorodne maszyny oraz urządzenia, zapewniając ich sprawne i bezpieczne działanie",Urząd Pracy
+mechanik-operator maszyn do produkcji drzewnej,,"obsługuje i programuje zaawansowane maszyny, które tną, frezują i obrabiają drewno, tworząc z niego deski, meble i inne produkty; jednocześnie dba o ich konserwację i usuwa awarie",Urząd Pracy
+mechanik-operator pojazdów i maszyn rolniczych,,"zajmuje się obsługą, konserwacją i naprawą różnorodnych pojazdów oraz maszyn rolniczych, dbając o ich sprawność podczas prac w polu",Urząd Pracy
+mechatronik,mechatroniczka,"łączy wiedzę z mechaniki, elektroniki i informatyki, aby projektować, budować, programować i serwisować inteligentne maszyny oraz systemy automatyki",Urząd Pracy
+mediator,mediatorka,"pomaga osobom w konflikcie porozumieć się, prowadząc ich przez rozmowę, aby wspólnie znalazły satysfakcjonujące rozwiązanie",Urząd Pracy
+mediator sądowy,mediatorka sądowa,"prowadzi neutralne rozmowy między osobami, które mają spór w sądzie, aby pomóc im samodzielnie znaleźć wspólne i satysfakcjonujące rozwiązanie, zamiast czekać na wyrok sędziego",Urząd Pracy
 megafonista,megafonistka,przekazuje informacje przez megafon na stacjach PKP,Nietypowe zawody
-meliorant,meliorantka,,Urząd Pracy
-menedżer artystyczny,,,Urząd Pracy
-menedżer dyscypliny sportu,,,Urząd Pracy
-menedżer imprez sportowych,,,Urząd Pracy
-menedżer klubu muzycznego,,,Urząd Pracy
-menedżer marki (brand manager),,,Urząd Pracy
-menedżer produktu.(product manager),,,Urząd Pracy
-menedżer sportu,,,Urząd Pracy
-menedżer zawartości serwisów internetowych,,,Urząd Pracy
-metaloplastyk,,,Urząd Pracy
-meteorolog,,,Urząd Pracy
-metodyk edukacji na odległość,,,Urząd Pracy
-metodyk technologii informacyjnych i komunikacyjnych,,,Urząd Pracy
-metrolog,,,Urząd Pracy
-mikrobiolog,,,Urząd Pracy
-mikser dźwięku,,,Urząd Pracy
-mikser obrazu,,,Urząd Pracy
-mim,,,Urząd Pracy
-młynarz,,,Urząd Pracy
-modelarz odlewniczy,,,Urząd Pracy
-modelarz odlewnik gipsowych form roboczych,,,Urząd Pracy
-modelarz wyrobów plecionkarskich,,,Urząd Pracy
-modelka / model,,,Urząd Pracy
-modystka,,,Urząd Pracy
-moletownik,,,Urząd Pracy
-montażysta dekoracji,,,Urząd Pracy
-montażysta dźwięku,,,Urząd Pracy
-montażysta obrazu,,,Urząd Pracy
-montażysta reprodukcyjny,,,Urząd Pracy
-monter / konserwator instalacji wentylacyjnych i klimatyzacyjnych,,,Urząd Pracy
-"monter / konserwator kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych",,,Urząd Pracy
-monter / konserwator urządzeń przeciwpożarowych,,,Urząd Pracy
-monter / konserwator urządzeń zabezpieczeń technicznych osób i mienia,,,Urząd Pracy
-monter / składacz okien,,,Urząd Pracy
-monter aparatów i przyrządów optycznych,,,Urząd Pracy
-monter aparatury i urządzeń chemicznych,,,Urząd Pracy
-monter aparatury i urządzeń techniki jądrowej,,,Urząd Pracy
-monter aparatury rozdzielczej i kontrolnej energii elektrycznej,,,Urząd Pracy
-monter bram,,,Urząd Pracy
-monter budownictwa wodnego,,,Urząd Pracy
-monter elektronicznego wyposażenia maszyn i urządzeń,,,Urząd Pracy
-monter elektroniki samochodowej,,,Urząd Pracy
-monter elektrycznego sprzętu gospodarstwa domowego,,,Urząd Pracy
-monter elektrycznych przyrządów pomiarowych,,,Urząd Pracy
-monter fasad,,,Urząd Pracy
-monter fortepianów i pianin,,,Urząd Pracy
-monter instalacji fotowoltaicznych,,,Urząd Pracy
-monter instalacji gazów medycznych,,,Urząd Pracy
-monter instalacji gazowych,,,Urząd Pracy
-monter instalacji i urządzeń sanitarnych,,,Urząd Pracy
-monter instalacji i urządzeń telekomunikacyjnych (telemonter),,,Urząd Pracy
-monter instrumentów muzycznych,,,Urząd Pracy
-monter izolacji budowlanych,,,Urząd Pracy
-monter izolacji chemoodpornych i antykorozyjnych,,,Urząd Pracy
-monter izolacji przemysłowych,,,Urząd Pracy
-monter jachtów i łodzi,,,Urząd Pracy
-monter kadłubów i jednostek pływających,,,Urząd Pracy
-monter kadłubów okrętowych,,,Urząd Pracy
-monter kamiennych elementów budowlanych,,,Urząd Pracy
-monter konstrukcji aluminiowych,,,Urząd Pracy
-monter konstrukcji budowlanych,,,Urząd Pracy
-monter konstrukcji linowych stałych,,,Urząd Pracy
-monter konstrukcji stalowych,,,Urząd Pracy
-monter konstrukcji targowo-wystawienniczej,,,Urząd Pracy
-monter kotłów i armatury kotłowej,,,Urząd Pracy
-monter maszyn elektrycznych,,,Urząd Pracy
-monter maszyn i urządzeń okrętowych,,,Urząd Pracy
-monter maszyn i urządzeń przemysłowych,,,Urząd Pracy
-monter mebli,,,Urząd Pracy
-monter mechanizmów i przyrządów precyzyjnych,,,Urząd Pracy
-monter mechatronik,,,Urząd Pracy
-monter nawierzchni kolejowej,,,Urząd Pracy
-monter obrabiarek,,,Urząd Pracy
-monter ociepleń budynków,,,Urząd Pracy
-monter ogrodzeń,,,Urząd Pracy
-monter osprzętu elektrotechnicznego,,,Urząd Pracy
-monter płatowców i śmigłowców,,,Urząd Pracy
-monter płyt kartonowo-gipsowych,,,Urząd Pracy
-monter podzespołów i zespołów elektronicznych,,,Urząd Pracy
-monter pojazdów i urządzeń transportowych,,,Urząd Pracy
-monter reklam,,,Urząd Pracy
-monter rurociągów górniczych,,,Urząd Pracy
-monter rurociągów okrętowych,,,Urząd Pracy
-monter rurociągów przemysłowych,,,Urząd Pracy
-monter rusztowań,,,Urząd Pracy
-monter samochodowej instalacji gazowej (lpg),,,Urząd Pracy
-monter sieci cieplnych,,,Urząd Pracy
-monter sieci deszczownianych,,,Urząd Pracy
-monter sieci gazowych,,,Urząd Pracy
-monter sieci i instalacji sanitarnych,,,Urząd Pracy
-monter sieci i urządzeń telekomunikacyjnych,,,Urząd Pracy
-monter sieci telekomunikacyjnych,,,Urząd Pracy
-monter sieci wodnych i kanalizacyjnych,,,Urząd Pracy
-"monter sieci, instalacji i urządzeń sanitarnych",,,Urząd Pracy
-monter silników spalinowych,,,Urząd Pracy
-monter sprzętu gospodarstwa domowego,,,Urząd Pracy
-monter sprzętu oświetleniowego i lamp elektrycznych,,,Urząd Pracy
-monter sprzętu radiowego i telewizyjnego,,,Urząd Pracy
-monter stolarki budowlanej,,,Urząd Pracy
-monter systemów rurociągowych,,,Urząd Pracy
-monter systemów suchej zabudowy,,,Urząd Pracy
-monter szkła budowlanego,,,Urząd Pracy
-monter taboru szynowego,,,Urząd Pracy
-monter układów hydraulicznych i pneumatycznych,,,Urząd Pracy
-monter urządzeń chłodniczych i gastronomicznych,,,Urząd Pracy
-monter urządzeń energetyki odnawialnej,,,Urząd Pracy
-monter urządzeń laserowych,,,Urząd Pracy
-monter urządzeń medycznych,,,Urząd Pracy
-monter urządzeń sterowania ruchem kolejowym,,,Urząd Pracy
-monter urządzeń sterowania ruchem pociągów metra,,,Urząd Pracy
-monter urządzeń zdalnego sterowania i kontroli dyspozytorskiej metra,,,Urząd Pracy
-monter wiązek elektrycznych,,,Urząd Pracy
-monter wiertni,,,Urząd Pracy
-"monter wyrobów tekstylnych, z tektury i pokrewnych materiałów",,,Urząd Pracy
-monter wyrobów z drewna,,,Urząd Pracy
-monter wyrobów z tworzyw sztucznych,,,Urząd Pracy
-monter zabudowy i robót wykończeniowych w budownictwie,,,Urząd Pracy
-monter żaluzji,,,Urząd Pracy
-monter zestrajacz urządzeń elektronicznych,,,Urząd Pracy
-monter znaków nawigacyjnych,,,Urząd Pracy
-monter-elektronik,,,Urząd Pracy
-monter-elektronik – aparatura medyczna,,,Urząd Pracy
-monter-elektronik – aparatura pomiarowa,,,Urząd Pracy
-monter-elektronik – elektroniczne instrumenty muzyczne,,,Urząd Pracy
-monter-elektronik – elektroniczny sprzęt sygnalizacyjny i systemy sygnalizacyjne,,,Urząd Pracy
-monter-elektronik – instalacja anten,,,Urząd Pracy
-monter-elektronik – naprawa sprzętu audiowizualnego,,,Urząd Pracy
-monter-elektronik – sprzęt komputerowy,,,Urząd Pracy
-monter-elektronik – układy elektroniczne automatyki przemysłowej,,,Urząd Pracy
-monter-elektronik – urządzenia radiokomunikacyjne,,,Urząd Pracy
-monter-elektronik – urządzenia radiowo-telewizyjne,,,Urząd Pracy
-monter-instalator urządzeń technicznych w budownictwie wiejskim,,,Urząd Pracy
-monter-mechanik rowerów / wózków,,,Urząd Pracy
-mostowniczy,,,Urząd Pracy
-motorzysta wachtowy,,,Urząd Pracy
-murarz,,,Urząd Pracy
-murarz-tynkarz,,,Urząd Pracy
-muzealnik,,,Urząd Pracy
-muzyk,,,Urząd Pracy
-muzykolog,,,Urząd Pracy
+meliorant,meliorantka,"projektuje, buduje i nadzoruje systemy, które regulują poziom wody w glebie, takie jak rowy i kanały, aby poprawić warunki uprawy roślin i chronić tereny przed zalaniem",Urząd Pracy
+menedżer artystyczny,,"koordynuje wszystkie aspekty kariery artysty, od planowania występów i negocjowania umów po promocję, aby mógł on skupić się na swojej pasji",Urząd Pracy
+menedżer dyscypliny sportu,,"zarządza i nadzoruje wszystkie aspekty funkcjonowania konkretnej dyscypliny sportowej, dbając o jej rozwój, organizację zawodów i wsparcie dla sportowców",Urząd Pracy
+menedżer imprez sportowych,,"planuje, organizuje i nadzoruje wszystkie aspekty imprez sportowych, od logistyki po promocję; dba o to, by każde wydarzenie przebiegło sprawnie i było niezapomnianym przeżyciem dla wszystkich",Urząd Pracy
+menedżer klubu muzycznego,,"koordynuje wszystkie aspekty działalności klubu muzycznego, od wyboru artystów i organizacji koncertów, przez zarządzanie personelem i budżetem, po promocję miejsca i tworzenie niezapomnianych wrażeń dla odwiedzających",Urząd Pracy
+menedżer marki (brand manager),,"zarządza wizerunkiem i strategią produktu lub usługi, aby był on rozpoznawalny, lubiany i chętnie wybierany przez klientów",Urząd Pracy
+menedżer produktu.(product manager),,"kieruje całym procesem tworzenia lub ulepszania produktu, od pomysłu, przez projektowanie i budowanie, aż po wprowadzenie na rynek, dbając o to, by był on wartościowy dla użytkowników i przynosił korzyści firmie",Urząd Pracy
+menedżer sportu,,"zarządza karierami sportowców, budżetami klubów i organizacją wydarzeń sportowych; dba o ich wizerunek, pozyskuje sponsorów i planuje strategię rozwoju",Urząd Pracy
+menedżer zawartości serwisów internetowych,,"dba o to, żeby na stronach internetowych zawsze pojawiały się ciekawe artykuły, zdjęcia i filmy, które przyciągną ludzi i sprawią, że będą chcieli wrócić",Urząd Pracy
+metaloplastyk,metaloplastyczka,"kształtuje metal w artystyczne formy, tworząc unikatowe rzeźby, biżuterię czy elementy dekoracyjne, posługując się różnymi narzędziami i technikami",Urząd Pracy
+meteorolog,meteorolożka,"bada atmosferę Ziemi, aby rozumieć mechanizmy powstawania pogody i tworzyć prognozy; ostrzega też przed groźnymi zjawiskami atmosferycznymi",Urząd Pracy
+metodyk edukacji na odległość,,"tworzy i usprawnia metody oraz narzędzia do nauki online, dbając o to, by była ona ciekawa, zrozumiała i skuteczna dla każdego ucznia",Urząd Pracy
+metodyk technologii informacyjnych i komunikacyjnych,,"opracowuje i usprawnia metody pracy z technologiami informacyjnymi i komunikacyjnymi (czyli np. z aplikacjami, systemami czy internetem), aby ich tworzenie i używanie było prostsze, szybsze i bardziej efektywne dla każdego",Urząd Pracy
+metrolog,metrolożka,"kontroluje i weryfikuje dokładność pomiarów; dba o to, by wszelkie wartości, od długości po czas, były zawsze precyzyjne i zgodne z obowiązującymi normami",Urząd Pracy
+mikrobiolog,mikrobiolożka,"bada niewidoczne gołym okiem mikroorganizmy, takie jak bakterie, wirusy i grzyby, aby zrozumieć ich wpływ na zdrowie, środowisko i technologię, oraz znaleźć sposoby na ich wykorzystanie lub zwalczanie",Urząd Pracy
+mikser dźwięku,,"łączy i precyzyjnie dopasowuje dialogi, muzykę oraz efekty dźwiękowe, aby stworzyć idealnie brzmiącą, spójną ścieżkę audio do filmu, gry lub podcastu",Urząd Pracy
+mikser obrazu,,"łączyć na żywo ujęcia z wielu kamer, grafik i filmów, płynnie przełączając między nimi, by widzowie oglądali dynamiczny i spójny program",Urząd Pracy
+mim,mimka,"opowiada historie, wyraża emocje i przedstawia sytuacje, posługując się wyłącznie gestami, mimiką i ruchem ciała, bez wypowiadania ani jednego słowa",Urząd Pracy
+młynarz,młynarka,"mieli zboże na mąkę i inne produkty zbożowe, obsługując maszyny młyna i kontrolując cały proces produkcji",Urząd Pracy
+modelarz odlewniczy,,"tworzy precyzyjne modele, które są podstawą do wykonania form, w których odlewa się różnorodne elementy z metalu lub tworzyw sztucznych",Urząd Pracy
+modelarz odlewnik gipsowych form roboczych,,"tworzy precyzyjne modele, a następnie odlewa z gipsu formy robocze, które służą do powielania różnych przedmiotów",Urząd Pracy
+modelarz wyrobów plecionkarskich,,"tworzy szczegółowe formy i szablony, które służą jako wzorzec do ręcznego wyplatania koszy, mebli i innych przedmiotów z wikliny, rattanu lub słomy",Urząd Pracy
+model,modelka,"prezentuje ubrania, produkty lub idee, pozując do zdjęć i chodząc po wybiegach, by je atrakcyjnie promować",Urząd Pracy
+modysta,modystka,"projektuje i tworzy eleganckie nakrycia głowy, takie jak kapelusze, fascynatory i inne ozdoby, dopasowując je do stylu i okazji",Urząd Pracy
+moletownik,moletowniczka,"tworzy na metalowych elementach specjalne, wypukłe wzory, aby poprawić ich chwytność lub nadać im estetyczny wygląd",Urząd Pracy
+montażysta dekoracji,,"przygotowuje i ustawia dekoracje oraz całe scenografie na potrzeby filmów, spektakli, wystaw czy wydarzeń, dbając o ich bezpieczeństwo i zgodność z projektem",Urząd Pracy
+montażysta dźwięku,,"montuje i precyzyjnie edytuje dialogi, muzykę oraz efekty dźwiękowe, tworząc spójną i sugestywną ścieżkę audio dla filmów, gier czy podcastów, która wzmacnia emocje i buduje atmosferę",Urząd Pracy
+montażysta obrazu,,"tworzy finalny kształt filmu, serialu czy reklamy, selekcjonując, łącząc i dopracowując ujęcia, a także dodając dźwięk i efekty, by opowiedzieć spójną i wciągającą historię",Urząd Pracy
+montażysta reprodukcyjny,,"montuje i precyzyjnie układa elementy graficzne oraz tekstowe na specjalnych kliszach, które służą jako wzór do masowego powielania, czyli drukowania",Urząd Pracy
+monter / konserwator instalacji wentylacyjnych i klimatyzacyjnych,,"montuje, serwisuje i naprawia systemy wentylacyjne i klimatyzacyjne, dbając o to, by w budynkach zawsze było świeże powietrze i komfortowa temperatura",Urząd Pracy
+"monter / konserwator kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych",,"instaluje, konserwuje i naprawia skomplikowane systemy transportowe, takie jak koleje linowe, wyciągi narciarskie i zjeżdżalnie grawitacyjne, zapewniając ich bezpieczne i bezawaryjne działanie",Urząd Pracy
+monter / konserwator urządzeń przeciwpożarowych,,"montuje, testuje i konserwuje systemy przeciwpożarowe, takie jak czujniki dymu, alarmy i tryskacze, aby w razie pożaru zadziałały natychmiast i skutecznie, chroniąc życie i mienie",Urząd Pracy
+monter / konserwator urządzeń zabezpieczeń technicznych osób i mienia,,"instaluje i konfiguruje nowoczesne systemy bezpieczeństwa, takie jak alarmy, kamery monitoringu czy kontrola dostępu; dba również o ich sprawność, serwisując i naprawiając urządzenia chroniące ludzi i mienie",Urząd Pracy
+monter / składacz okien,,"składa poszczególne elementy okien w gotowe konstrukcje; następnie montuje je w otworach budynków, dbając o precyzję i szczelność",Urząd Pracy
+monter aparatów i przyrządów optycznych,,"montuje, reguluje i naprawia precyzyjne urządzenia optyczne, takie jak mikroskopy, teleskopy czy kamery, dbając o ich idealne działanie",Urząd Pracy
+monter aparatury i urządzeń chemicznych,,"montuje, instaluje i serwisuje złożone urządzenia oraz systemy rurociągów w przemyśle chemicznym, zapewniając ich bezpieczne i efektywne funkcjonowanie",Urząd Pracy
+monter aparatury i urządzeń techniki jądrowej,,"montuje, serwisuje i kontroluje specjalistyczne urządzenia oraz systemy związane z energią atomową, dbając o ich precyzyjne i bezpieczne funkcjonowanie",Urząd Pracy
+monter aparatury rozdzielczej i kontrolnej energii elektrycznej,,"montuje, podłącza i serwisuje urządzenia oraz systemy, które rozdzielają i kontrolują przepływ energii elektrycznej, zapewniając jej bezpieczne i efektywne dostarczanie",Urząd Pracy
+monter bram,,"montuje bramy wjazdowe, garażowe i przemysłowe; odpowiada za ich prawidłowe podłączenie do systemów automatyki i zapewnienie bezpiecznego działania",Urząd Pracy
+monter budownictwa wodnego,,"montuje i instaluje elementy konstrukcji wodnych, takich jak zapory, wały przeciwpowodziowe i kanały, by chronić tereny przed powodzią lub regulować przepływ wody",Urząd Pracy
+monter elektronicznego wyposażenia maszyn i urządzeń,,"składa, podłącza i testuje elektroniczne elementy, które są sercem maszyn i urządzeń, by działały bez zarzutu",Urząd Pracy
+monter elektroniki samochodowej,,"montuje i podłącza różnorodne urządzenia elektroniczne w samochodach, od systemów multimedialnych po zaawansowane czujniki; diagnozuje również usterki i zapewnia ich poprawne działanie",Urząd Pracy
+monter elektrycznego sprzętu gospodarstwa domowego,,"montuje i podłącza nowe pralki, lodówki czy zmywarki; diagnozuje usterki oraz naprawia zepsute elektryczne urządzenia domowe, aby działały sprawnie i bezpiecznie",Urząd Pracy
+monter elektrycznych przyrządów pomiarowych,,"montuje elektryczne przyrządy pomiarowe, precyzyjnie łączy ich komponenty zgodnie ze schematem i testuje, aby działały dokładnie, mierząc prąd, napięcie czy inne wielkości elektryczne",Urząd Pracy
+monter fasad,,"montuje zewnętrzne elementy budynków, takie jak panele szklane czy inne okładziny, aby nadać im estetyczny wygląd i chronić je przed pogodą",Urząd Pracy
+monter fortepianów i pianin,,"montuje, naprawia, stroi i konserwuje fortepiany oraz pianina, aby każdy instrument brzmiał idealnie i działał bez zarzutu",Urząd Pracy
+monter instalacji fotowoltaicznych,,"montuje i podłącza panele fotowoltaiczne na dachach lub gruncie, by skutecznie zamieniały światło słoneczne w prąd elektryczny dla domów i firm",Urząd Pracy
+monter instalacji gazów medycznych,,"instaluje i serwisuje skomplikowane systemy rurociągów oraz urządzeń w szpitalach i klinikach, zapewniając bezpieczne i precyzyjne dostarczanie tlenu, powietrza medycznego i innych gazów bezpośrednio do pacjentów",Urząd Pracy
+monter instalacji gazowych,,"instaluje, naprawia i serwisuje rury, liczniki oraz urządzenia gazowe w budynkach; dba przy tym o ich szczelność i bezpieczeństwo użytkowania",Urząd Pracy
+monter instalacji i urządzeń sanitarnych,,"montuje rury wodne, kanalizacyjne i grzewcze; instaluje urządzenia sanitarne, jak toalety, umywalki czy prysznice, dbając o sprawne funkcjonowanie całej instalacji w budynkach",Urząd Pracy
+monter instalacji i urządzeń telekomunikacyjnych (telemonter),,"montuje i naprawia instalacje oraz urządzenia telekomunikacyjne, takie jak internet, telefon czy telewizja; dba o to, by wszystko działało sprawnie i bez zakłóceń",Urząd Pracy
+monter instrumentów muzycznych,,"montuje i precyzyjnie łączy ze sobą części instrumentów muzycznych, takich jak gitary czy pianina; dba o to, by każdy z nich pięknie brzmiał i działał bez zarzutu",Urząd Pracy
+monter izolacji budowlanych,,"izoluje budynki, czyli montuje specjalne materiały na ścianach, dachach i podłogach, żeby w środku było ciepło zimą, chłodno latem i cicho",Urząd Pracy
+monter izolacji chemoodpornych i antykorozyjnych,,"instaluje specjalne materiały ochronne na różnych konstrukcjach; dba o to, by były odporne na chemikalia i nie rdzewiały",Urząd Pracy
+monter izolacji przemysłowych,,"montuje specjalne osłony i materiały na rurach, zbiornikach oraz maszynach w fabrykach, aby utrzymać ciepło lub zimno w środku i chronić przed hałasem",Urząd Pracy
+monter jachtów i łodzi,,"montuje i łączy ze sobą różne części, od silnika po meble i elektronikę, w jachtach oraz łodziach, tworząc z nich gotowe do pływania i bezpieczne jednostki wodne",Urząd Pracy
+monter kadłubów i jednostek pływających,,"montuje i łączy ze sobą elementy konstrukcyjne, aby powstawały kadłuby statków, łodzi i innych jednostek pływających, dbając o precyzję i zgodność z rysunkami technicznymi",Urząd Pracy
+monter kadłubów okrętowych,,"montuje i łączy ze sobą ogromne, metalowe części, tworząc szkielet statku, czyli jego kadłub, dbając o precyzję i wytrzymałość konstrukcji",Urząd Pracy
+monter kamiennych elementów budowlanych,,"montuje kamienne elementy budowlane, takie jak płyty elewacyjne, parapety czy stopnie schodów, precyzyjnie je dopasowując i trwale mocując w konstrukcjach budynków",Urząd Pracy
+monter konstrukcji aluminiowych,,"instaluje i precyzyjnie łączy aluminiowe elementy, tworząc okna, drzwi, fasady oraz inne lekkie konstrukcje, które widzisz w nowoczesnych budynkach",Urząd Pracy
+monter konstrukcji budowlanych,,"składa z gotowych elementów stalowych i betonowych ogromne konstrukcje, takie jak szkielety wieżowców, mostów czy hal przemysłowych, zapewniając ich stabilność i wytrzymałość",Urząd Pracy
+monter konstrukcji linowych stałych,,"montuje i serwisuje trwałe konstrukcje linowe, na przykład parki linowe, tyrolki czy systemy asekuracyjne, zapewniając bezpieczeństwo ich użytkownikom",Urząd Pracy
+monter konstrukcji stalowych,,"wznosi monumentalne konstrukcje ze stali, takie jak mosty, hale produkcyjne czy wieżowce, precyzyjnie łącząc poszczególne elementy zgodnie z projektem i zapewniając ich stabilność oraz bezpieczeństwo",Urząd Pracy
+monter konstrukcji targowo-wystawienniczej,,"montuje i demontuje różnorodne elementy, z których powstają stoiska i całe przestrzenie wystawiennicze na targach, pomagając firmom atrakcyjnie prezentować swoje produkty",Urząd Pracy
+monter kotłów i armatury kotłowej,,"montuje i instaluje kotły grzewcze oraz przemysłowe; odpowiada za prawidłowe podłączenie i bezpieczne działanie całej armatury kotłowej, takiej jak rury, zawory i urządzenia kontrolne",Urząd Pracy
+monter maszyn elektrycznych,,"składa, instaluje, testuje i naprawia różnego rodzaju maszyny elektryczne, od silników po generatory i rozdzielnice, aby działały bezpiecznie i efektywnie",Urząd Pracy
+monter maszyn i urządzeń okrętowych,,"montuje, naprawia i konserwuje maszyny oraz urządzenia, na przykład silniki czy systemy hydrauliczne, które są niezbędne do bezpiecznego i sprawnego działania statków, pracując w stoczniach lub bezpośrednio na morzu",Urząd Pracy
+monter maszyn i urządzeń przemysłowych,,"montuje i uruchamia skomplikowane maszyny oraz urządzenia przemysłowe; dba również o ich konserwację i naprawy, by zapewnić płynne działanie linii produkcyjnych w fabrykach",Urząd Pracy
+monter mebli,,"montuje meble z różnych elementów, używając narzędzi i postępując zgodnie z instrukcją, aby stworzyć gotowy i stabilny produkt",Urząd Pracy
+monter mechanizmów i przyrządów precyzyjnych,,"montuje z zegarmistrzowską precyzją skomplikowane mechanizmy i delikatne przyrządy, takie jak zegarki, mikroskopy czy sprzęt medyczny, dbając, by każda maleńka część idealnie pasowała i wszystko działało bez zarzutu",Urząd Pracy
+monter mechatronik,,"montuje, uruchamia i serwisuje zaawansowane urządzenia oraz systemy, które łączą mechanikę z elektroniką i sterowaniem komputerowym, zapewniając ich efektywną pracę",Urząd Pracy
+monter nawierzchni kolejowej,,"układa, konserwuje i naprawia elementy nawierzchni kolejowej, takie jak szyny i podkłady; dba w ten sposób o bezpieczeństwo i płynność ruchu pociągów",Urząd Pracy
+monter obrabiarek,,"montuje, instaluje i serwisuje skomplikowane maszyny, zwane obrabiarkami, które służą do precyzyjnego kształtowania metalu lub innych materiałów, dbając o ich sprawność i naprawiając awarie",Urząd Pracy
+monter ociepleń budynków,,"ociepla budynki, nakładając specjalne materiały, takie jak styropian czy wełna mineralna, na ich elewacje, dachy i fundamenty, aby były ciepłe zimą i chłodne latem, co pomaga oszczędzać energię",Urząd Pracy
+monter ogrodzeń,,"montuje, naprawia i konserwuje różnego rodzaju ogrodzenia, od prostych siatkowych po solidne panelowe, aby zabezpieczyć posesje i wyznaczyć ich granice",Urząd Pracy
+monter osprzętu elektrotechnicznego,,"montuje i instaluje różnorodne elementy oraz urządzenia elektryczne, od prostych gniazdek po skomplikowane systemy sterowania, dbając o ich prawidłowe podłączenie i bezpieczne działanie",Urząd Pracy
+monter płatowców i śmigłowców,,"montuje i łączy ze sobą różne części, takie jak skrzydła, kadłuby i silniki, aby zbudować samoloty i śmigłowce, dbając o ich precyzyjne spasowanie i bezpieczeństwo",Urząd Pracy
+monter płyt kartonowo-gipsowych,,"tworzy ściany, sufity i inne elementy wykończeniowe wnętrz, precyzyjnie montując płyty kartonowo-gipsowe na specjalnych konstrukcjach",Urząd Pracy
+monter podzespołów i zespołów elektronicznych,,"montuje precyzyjnie drobne elementy, takie jak układy scalone czy kondensatory, na płytkach drukowanych, a następnie łączy je w większe moduły, tworząc działające urządzenia elektroniczne, od telefonów po sprzęt AGD",Urząd Pracy
+monter pojazdów i urządzeń transportowych,,"montuje, instaluje, diagnozuje i naprawia różnorodne pojazdy, takie jak samochody, autobusy czy pociągi; dba również o prawidłowe działanie maszyn i urządzeń transportowych",Urząd Pracy
+monter reklam,,"montuje i mocuje w widocznych miejscach różnorodne formy reklamy, od wielkich bilbordów po świetlne szyldy; często pracuje na wysokościach i używa specjalistycznych narzędzi, dbając o trwałe i bezpieczne umieszczenie",Urząd Pracy
+monter rurociągów górniczych,,"montuje, łączy i konserwuje specjalne rurociągi pod ziemią, które są niezbędne do przesyłania wody, sprężonego powietrza lub innych substancji w kopalniach, dbając o ich szczelność i bezpieczeństwo",Urząd Pracy
+monter rurociągów okrętowych,,"montuje i spaja rurociągi na statkach, zapewniając bezpieczny przepływ wody, paliwa czy powietrza niezbędnych do ich funkcjonowania",Urząd Pracy
+monter rurociągów przemysłowych,,"montuje i łączy ze sobą rury, zawory oraz inne elementy, tworząc skomplikowane systemy rurociągów w fabrykach i elektrowniach, którymi bezpiecznie transportowane są woda, gaz, ropa czy chemikalia",Urząd Pracy
+monter rusztowań,,"montuje i demontuje różnego rodzaju rusztowania; dba o to, by były one stabilne i bezpieczne dla pracowników wykonujących prace na wysokości",Urząd Pracy
+monter samochodowej instalacji gazowej (lpg),,"instaluje w samochodach systemy zasilania gazem LPG, zapewniając ich bezpieczne i prawidłowe funkcjonowanie",Urząd Pracy
+monter sieci cieplnych,,"montuje i naprawia rurociągi, pompy oraz inne elementy miejskiej sieci cieplnej, która dostarcza ciepło do domów, szkół i biur",Urząd Pracy
+monter sieci deszczownianych,,"instaluje podziemne sieci rur, zraszaczy i sterowników, aby ogrody, parki i trawniki były zawsze pięknie nawodnione",Urząd Pracy
+monter sieci gazowych,,"montuje, naprawia i konserwuje rurociągi oraz instalacje gazowe, dbając o ich szczelność i bezpieczeństwo, aby gaz mógł bezpiecznie docierać do domów i innych budynków",Urząd Pracy
+monter sieci i instalacji sanitarnych,,"instaluje i naprawia wewnętrzne instalacje wodne, kanalizacyjne, grzewcze oraz wentylacyjne w budynkach, dbając o ich prawidłowe działanie i bezpieczeństwo użytkowników",Urząd Pracy
+monter sieci i urządzeń telekomunikacyjnych,,"montuje, podłącza i konfiguruje kable oraz urządzenia, takie jak routery czy anteny, aby zapewnić działanie internetu, telefonu i telewizji; dba również o ich sprawność i naprawia usterki",Urząd Pracy
+monter sieci telekomunikacyjnych,,"podłącza i konfiguruje kable światłowodowe oraz urządzenia, aby zapewnić szybki internet, telewizję i telefon w domach, firmach i innych miejscach",Urząd Pracy
+monter sieci wodnych i kanalizacyjnych,,"montuje, naprawia i konserwuje podziemne sieci wodociągowe, które dostarczają czystą wodę do domów, oraz kanalizacyjne, które odprowadzają ścieki",Urząd Pracy
+"monter sieci, instalacji i urządzeń sanitarnych",,"instaluje, konserwuje i naprawia wewnętrzne oraz zewnętrzne sieci i instalacje wodociągowe, kanalizacyjne, grzewcze i gazowe, a także podłącza do nich urządzenia sanitarne, takie jak toalety, umywalki czy grzejniki, zapewniając ich prawidłowe i bezpieczne działanie",Urząd Pracy
+monter silników spalinowych,,"montuje, diagnozuje, naprawia i testuje silniki spalinowe w pojazdach oraz maszynach, zapewniając ich sprawne i bezpieczne funkcjonowanie",Urząd Pracy
+monter sprzętu gospodarstwa domowego,,"montuje, instaluje i serwisuje sprzęt gospodarstwa domowego, taki jak pralki czy lodówki, a także diagnozuje i usuwa ich usterki, by działały bezawaryjnie",Urząd Pracy
+monter sprzętu oświetleniowego i lamp elektrycznych,,"montuje i podłącza lampy elektryczne oraz wszelkie urządzenia oświetleniowe; dba o ich konserwację, naprawy i bezpieczeństwo, by wszędzie było jasno i funkcjonalnie",Urząd Pracy
+monter sprzętu radiowego i telewizyjnego,,"montuje, instaluje, serwisuje i naprawia różnego rodzaju sprzęt radiowy i telewizyjny, od prostych odbiorników po zaawansowane systemy audio-wideo, dbając o ich prawidłowe i bezawaryjne działanie",Urząd Pracy
+monter stolarki budowlanej,,"osadza i uszczelnia okna, drzwi oraz inne elementy stolarki budowlanej w otworach budynków, dbając o ich prawidłowe funkcjonowanie i estetykę",Urząd Pracy
+monter systemów rurociągowych,,"montuje i łączy rury, zawory oraz inne elementy, tworząc szczelne systemy rurociągowe, które zapewniają bezpieczny transport wody, gazu czy innych substancji w budynkach i przemyśle",Urząd Pracy
+monter systemów suchej zabudowy,,"buduje lekkie ściany działowe, sufity podwieszane oraz inne elementy wnętrz, używając płyt gipsowo-kartonowych i metalowych konstrukcji, by szybko i estetycznie kształtować przestrzeń w budynkach",Urząd Pracy
+monter szkła budowlanego,,"zajmuje się precyzyjnym montażem i uszczelnianiem szklanych elementów, takich jak okna, drzwi, fasady czy balustrady, w nowych i remontowanych budynkach, dbając o ich estetykę i bezpieczeństwo",Urząd Pracy
+monter taboru szynowego,,"montuje, naprawia i konserwuje różnorodne układy oraz części pociągów, tramwajów i innych pojazdów szynowych, dbając o ich niezawodność i bezpieczeństwo na torach",Urząd Pracy
+monter układów hydraulicznych i pneumatycznych,,"montuje, serwisuje i naprawia systemy, które używają płynów pod ciśnieniem (hydraulika) lub sprężonego powietrza (pneumatyka), aby wprawiać w ruch maszyny i urządzenia, na przykład w fabrykach czy koparkach",Urząd Pracy
+monter urządzeń chłodniczych i gastronomicznych,,"instaluje, konserwuje i naprawia urządzenia chłodnicze, takie jak lodówki i zamrażarki, oraz sprzęt gastronomiczny, na przykład piece i zmywarki, zapewniając ich prawidłowe działanie w sklepach, restauracjach i innych miejscach",Urząd Pracy
+monter urządzeń energetyki odnawialnej,,"montuje, podłącza i serwisuje urządzenia takie jak panele słoneczne, turbiny wiatrowe czy pompy ciepła, aby domy i firmy mogły czerpać energię ze źródeł odnawialnych",Urząd Pracy
+monter urządzeń laserowych,,"składa i instaluje zaawansowane urządzenia laserowe, dbając o ich precyzyjne działanie i konfigurację do różnych zastosowań, od medycyny po przemysł",Urząd Pracy
+monter urządzeń medycznych,,"zapewnia prawidłowe działanie zaawansowanych urządzeń medycznych, od aparatów rentgenowskich po roboty chirurgiczne, poprzez ich montaż, instalację, regularny serwis i naprawy, co jest kluczowe dla bezpieczeństwa i skuteczności leczenia pacjentów",Urząd Pracy
+monter urządzeń sterowania ruchem kolejowym,,"sprawdza, instaluje i konserwuje urządzenia odpowiedzialne za sterowanie ruchem pociągów, dbając o to, by sygnalizacja i zwrotnice działały niezawodnie dla bezpieczeństwa na torach",Urząd Pracy
+monter urządzeń sterowania ruchem pociągów metra,,"instaluje, naprawia i konserwuje skomplikowane systemy elektroniczne oraz mechaniczne, które odpowiadają za bezpieczne i punktualne sterowanie ruchem pociągów metra",Urząd Pracy
+monter urządzeń zdalnego sterowania i kontroli dyspozytorskiej metra,,"montuje, konserwuje i naprawia specjalistyczne urządzenia, dzięki którym dyspozytorzy metra mogą zdalnie sterować ruchem pociągów i monitorować całą sieć, zapewniając bezpieczeństwo pasażerów",Urząd Pracy
+monter wiązek elektrycznych,,"montuje skomplikowane zestawy kabli i złączy, czyli wiązki elektryczne, które są jak 'nerwy' zasilające urządzenia, pojazdy i maszyny",Urząd Pracy
+monter wiertni,,"instaluje, konserwuje i naprawia duże, specjalistyczne urządzenia oraz całe konstrukcje wiertnicze, które służą do wydobywania surowców spod ziemi",Urząd Pracy
+"monter wyrobów tekstylnych, z tektury i pokrewnych materiałów",,"montuje różnorodne produkty, od ubrań i akcesoriów po opakowania i elementy wystawowe, precyzyjnie łącząc ze sobą tkaniny, tekturę oraz inne podobne materiały",Urząd Pracy
+monter wyrobów z drewna,,"montuje i precyzyjnie łączy ze sobą gotowe elementy drewniane, takie jak części mebli, okien czy drzwi, używając narzędzi i dbając o jakość końcowego wyrobu",Urząd Pracy
+monter wyrobów z tworzyw sztucznych,,"montuje ze sobą różnorodne elementy z tworzyw sztucznych, by powstawały z nich kompletne produkty, takie jak zabawki, części samochodowe czy obudowy sprzętów, często wykorzystując do tego specjalistyczne narzędzia i techniki",Urząd Pracy
+monter zabudowy i robót wykończeniowych w budownictwie,,"montuje elementy konstrukcji wewnętrznych, takie jak ścianki działowe czy sufity podwieszane; wykonuje również wszystkie prace wykończeniowe, od tynkowania i malowania po układanie podłóg i płytek, aby budynki były gotowe do użytku i estetyczne",Urząd Pracy
+monter żaluzji,,"montuje różne rodzaje żaluzji, rolet czy zasłon zewnętrznych i wewnętrznych, dbając o ich prawidłowe dopasowanie i funkcjonowanie w domach lub biurach",Urząd Pracy
+monter zestrajacz urządzeń elektronicznych,,"montuje i instaluje komponenty elektroniczne; następnie precyzyjnie kalibruje i testuje gotowe urządzenia, by zapewnić ich optymalne działanie",Urząd Pracy
+monter znaków nawigacyjnych,,"instaluje, naprawia i konserwuje boje, latarnie morskie oraz inne znaki nawigacyjne, które pomagają statkom bezpiecznie poruszać się po wodzie i unikać zagrożeń",Urząd Pracy
+monter-elektronik,,"składa, łączy i uruchamia różnorodne podzespoły elektroniczne, tworząc z nich gotowe urządzenia, które następnie testuje, by upewnić się, że działają poprawnie",Urząd Pracy
+monter-elektronik – aparatura medyczna,,"montuje i instaluje zaawansowaną aparaturę medyczną; dba o jej prawidłowe funkcjonowanie oraz naprawia usterki, aby lekarze mogli skutecznie pomagać pacjentom",Urząd Pracy
+monter-elektronik – aparatura pomiarowa,,"montuje, testuje i naprawia skomplikowane urządzenia elektroniczne, które służą do precyzyjnych pomiarów w różnych dziedzinach, zapewniając ich niezawodne i dokładne działanie",Urząd Pracy
+monter-elektronik – elektroniczne instrumenty muzyczne,,"montuje, konserwuje i naprawia elektroniczne instrumenty muzyczne, takie jak syntezatory czy gitary cyfrowe, dbając o ich idealne brzmienie i niezawodność",Urząd Pracy
+monter-elektronik – elektroniczny sprzęt sygnalizacyjny i systemy sygnalizacyjne,,"montuje, podłącza i serwisuje elektroniczny sprzęt sygnalizacyjny oraz całe systemy, które służą do przekazywania informacji, ostrzegania lub sterowania; zapewnia ich niezawodne działanie",Urząd Pracy
+monter-elektronik – instalacja anten,,"montuje anteny telewizyjne, satelitarne i internetowe na dachach czy ścianach budynków; podłącza do nich okablowanie oraz konfiguruje sprzęt elektroniczny, aby zapewnić użytkownikom stabilny i czysty odbiór sygnału",Urząd Pracy
+monter-elektronik – naprawa sprzętu audiowizualnego,,"diagnozuje i naprawia wszelkie usterki w sprzęcie audiowizualnym, od telewizorów po systemy nagłośnieniowe; wymienia uszkodzone części i przywraca urządzeniom pełną sprawność",Urząd Pracy
+monter-elektronik – sprzęt komputerowy,,"montuje, instaluje, diagnozuje i naprawia sprzęt komputerowy oraz jego podzespoły, zapewniając ich sprawne działanie",Urząd Pracy
+monter-elektronik – układy elektroniczne automatyki przemysłowej,,"montuje, instaluje i naprawia elektroniczne ""mózgi"", które sterują pracą maszyn w fabrykach, dbając o to, by cała automatyka przemysłowa działała płynnie i bezawaryjnie",Urząd Pracy
+monter-elektronik – urządzenia radiokomunikacyjne,,"montuje, testuje i serwisuje urządzenia elektroniczne, które pozwalają na bezprzewodową łączność, takie jak radia, nadajniki czy systemy komunikacji mobilnej",Urząd Pracy
+monter-elektronik – urządzenia radiowo-telewizyjne,,"instaluje, serwisuje i naprawia urządzenia radiowo-telewizyjne; dba o ich prawidłowe działanie i optymalny odbiór sygnału",Urząd Pracy
+monter-instalator urządzeń technicznych w budownictwie wiejskim,,"instaluje i montuje różnorodne urządzenia techniczne, takie jak systemy grzewcze, wodno-kanalizacyjne czy wentylacyjne, w budynkach mieszkalnych i gospodarczych na wsi",Urząd Pracy
+monter-mechanik rowerów / wózków,,"montować rowery i wózki; diagnozować, naprawiać oraz konserwować je, aby zawsze były sprawne i bezpieczne w użytkowaniu",Urząd Pracy
+mostowniczy,,"projektuje, buduje i remontuje mosty, dbając o ich bezpieczeństwo i trwałość dla podróżujących",Urząd Pracy
+motorzysta wachtowy,,"obsługuje i kontroluje silniki oraz inne urządzenia na statku w czasie swojej wachty, żeby wszystko działało bez zarzutu",Urząd Pracy
+murarz,murarka,"wznosi trwałe konstrukcje, takie jak domy, mury czy kominy, precyzyjnie układając cegły, pustaki lub kamienie i łącząc je zaprawą, co wymaga umiejętności i dbałości o szczegóły",Urząd Pracy
+murarz-tynkarz,,"wznosi konstrukcje budowlane z cegieł i bloczków, a także tynkuje ściany oraz sufity, nadając im gładkie i estetyczne wykończenie",Urząd Pracy
+muzealnik,muzealniczka,"opiekuje się zbiorami muzealnymi, bada je i przygotowuje z nich wystawy oraz programy edukacyjne, aby opowiadać zwiedzającym fascynujące historie",Urząd Pracy
+muzyk,muzyczka,"tworzy, aranżuje i wykonuje muzykę, używając głosu lub instrumentów; jego celem jest poruszanie serc słuchaczy i dzielenie się swoją artystyczną wizją",Urząd Pracy
+muzykolog,muzykolożka,"analizuje muzykę jako zjawisko kulturowe, badając jej historię, teorię, formy i wpływ na społeczeństwo, aby zrozumieć jej ewolucję i znaczenie dla człowieka",Urząd Pracy
 muzykoterapeuta,muzykoterapeutka,wykorzystuje muzykę do prowadzenia terapii wspomagającej procesy edukacji i leczenia,Nietypowe zawody
-mygłowacz,,,Urząd Pracy
-mytnik,,,Warhammer FRP
-naczelnik / kierownik wydziału,,,Urząd Pracy
-nanotechnolog (inżynier nanostruktur),,,Urząd Pracy
-napełniający zbiorniki przenośne,,,Urząd Pracy
-nastawniczy,,,Urząd Pracy
-naturopata,,,Urząd Pracy
-nauczyciel akademicki,,,Urząd Pracy
-nauczyciel bibliotekarz,,,Urząd Pracy
-nauczyciel domowy,,,Urząd Pracy
-nauczyciel doradca metodyczny,,,Urząd Pracy
-nauczyciel edukacji wczesnoszkolnej,,,Urząd Pracy
-nauczyciel innych form wychowania przedszkolnego,,,Urząd Pracy
-nauczyciel konsultant,,,Urząd Pracy
-nauczyciel logopeda,,,Urząd Pracy
-nauczyciel muzyki w placówkach pozaszkolnych,,,Urząd Pracy
-nauczyciel nauczania na odległość,,,Urząd Pracy
-"nauczyciel niedostosowanych społecznie (pedagog resocjalizacji, socjoterapeuta)",,,Urząd Pracy
-nauczyciel niesłyszących i słabosłyszących (surdopedagog),,,Urząd Pracy
-nauczyciel niewidomych i  słabowidzących (tyflopedagog),,,Urząd Pracy
-nauczyciel osób z niepełnosprawnością intelektualną (oligofrenopedagog),,,Urząd Pracy
-nauczyciel praktycznej nauki zawodu,,,Urząd Pracy
-nauczyciel przedmiotów teoretycznych zawodowych,,,Urząd Pracy
-nauczyciel przedmiotów zawodowych artystycznych,,,Urząd Pracy
-nauczyciel przedmiotu w szkole podstawowej,,,Urząd Pracy
-nauczyciel przedmiotu w szkole ponadpodstawowej,,,Urząd Pracy
-nauczyciel przedszkola,,,Urząd Pracy
-nauczyciel przewlekle chorych oraz osób z niepełnosprawnością ruchową,,,Urząd Pracy
-nauczyciel psycholog,,,Urząd Pracy
-nauczyciel specjalista terapii pedagogicznej,,,Urząd Pracy
-nauczyciel sztuki w placówkach pozaszkolnych,,,Urząd Pracy
-nauczyciel technologii informatycznych w placówkach pozaszkolnych,,,Urząd Pracy
-nauczyciel w placówkach pozaszkolnych,,,Urząd Pracy
-nawigator,,,Warhammer FRP
-nawigator lotniczy,,,Urząd Pracy
-neurologopeda,,,Urząd Pracy
-normalizator,,,Urząd Pracy
-noszowy,,,Urząd Pracy
-notariusz,,,Urząd Pracy
-numerolog,numerolożka,,Harry Potter
-nurek,,,Urząd Pracy
-obchodowy bloku,,,Urząd Pracy
-obserwator radarowy żeglugi śródlądowej,,,Urząd Pracy
-obuwnik,,,Urząd Pracy
-obuwnik miarowy,,,Urząd Pracy
-obuwnik ortopedyczny,,,Urząd Pracy
-obuwnik przemysłowy,,,Urząd Pracy
+mygłowacz,mygłowaczka,"myje głowy klientów, zapewniając im dokładne oczyszczenie i odświeżenie; często łączy to z relaksującym masażem skóry głowy",Urząd Pracy
+mytnik,mytniczka,"pobierał myto, czyli opłaty za przejazd lub przewóz towarów, od podróżnych i kupców; kontrolował ruch na drogach, mostach i przy wjazdach do miast",Warhammer FRP
+naczelnik / kierownik wydziału,,"zarządza zespołem pracowników, planuje i nadzoruje ich działania, a także odpowiada za efektywne funkcjonowanie całego wydziału i realizację jego celów",Urząd Pracy
+nanotechnolog,nanotechnolożka,"projektuje, bada i tworzy materiały oraz urządzenia na poziomie atomów i molekuł; wykorzystuje tę wiedzę do opracowywania innowacyjnych rozwiązań w medycynie, elektronice i energetyce",Urząd Pracy
+napełniający zbiorniki przenośne,napełniająca zbiorników przenośnych,"napełnia różnorodne przenośne zbiorniki, od butli gazowych po kanistry z paliwem, dbając o precyzję, bezpieczeństwo i prawidłowe przygotowanie ich do dalszego użytku czy transportu",Urząd Pracy
+nastawniczy,nastawniczka,"steruje zwrotnicami i sygnałami na stacji kolejowej, aby bezpiecznie prowadzić pociągi po wyznaczonych torach i unikać wypadków",Urząd Pracy
+naturopata,naturopatka,"doradza, jak dbać o zdrowie i wspiera organizm w powrocie do równowagi, stosując naturalne metody, takie jak odpowiednia dieta, zioła i zmiany w stylu życia",Urząd Pracy
+nauczyciel akademicki,,"uczy studentów na uczelniach wyższych, przekazując im wiedzę z konkretnej dziedziny, a także samodzielnie prowadzi badania, odkrywając nowe rzeczy i rozwijając naukę",Urząd Pracy
+nauczyciel bibliotekarz,,"kształtuje umiejętności informacyjne i czytelnicze uczniów, zarządzając jednocześnie zasobami biblioteki szkolnej i wspierając proces dydaktyczny",Urząd Pracy
+nauczyciel domowy,,"prowadzi spersonalizowane zajęcia edukacyjne dla jednego ucznia lub małej grupy, często w domu; dostosowuje metody i program nauczania do indywidualnych potrzeb i tempa rozwoju podopiecznego",Urząd Pracy
+nauczyciel doradca metodyczny,,"doradza innym nauczycielom, jak uczyć ciekawiej i skuteczniej, pomagając im w wyborze najlepszych metod pracy oraz rozwiązywaniu problemów w klasie, aby uczniowie lepiej rozumieli i chętniej się uczyli",Urząd Pracy
+nauczyciel edukacji wczesnoszkolnej,,"prowadzi najmłodszych uczniów przez pierwsze lata edukacji, ucząc ich czytać, pisać i liczyć; jednocześnie rozwija ich kreatywność, samodzielność i umiejętności społeczne",Urząd Pracy
+nauczyciel innych form wychowania przedszkolnego,,"prowadzi zajęcia edukacyjne i opiekuńcze dla małych dzieci poza tradycyjnym przedszkolem, wspierając ich wszechstronny rozwój poprzez zabawę i kreatywne aktywności",Urząd Pracy
+nauczyciel konsultant,,"pomaga nauczycielom, uczniom i rodzicom zrozumieć i pokonać trudności w nauce, oferując specjalistyczne porady i wsparcie w rozwoju edukacyjnym",Urząd Pracy
+nauczyciel logopeda,,"pomaga dzieciom i młodzieży w szkole lub przedszkolu prawidłowo mówić i komunikować się, ucząc ich poprawnej wymowy i korygując wady mowy",Urząd Pracy
+nauczyciel muzyki w placówkach pozaszkolnych,,"uczy młodych ludzi grać na instrumentach, śpiewać lub rozumieć muzykę, rozwijając ich pasje i talenty w miejscach takich jak szkoły muzyczne, domy kultury czy na prywatnych zajęciach, czyli poza regularnym systemem szkolnym",Urząd Pracy
+nauczyciel nauczania na odległość,,"uczy uczniów zdalnie, wykorzystując internet i specjalne platformy do przekazywania wiedzy, organizowania zajęć i wspierania ich rozwoju, zastępując tradycyjną szkołę wirtualnym środowiskiem nauki",Urząd Pracy
+"nauczyciel niedostosowanych społecznie (pedagog resocjalizacji, socjoterapeuta)",,"pomagać młodym ludziom i dorosłym, którzy mają trudności z zachowaniem, przestrzeganiem zasad społecznych lub radzeniem sobie z emocjami, ucząc ich, jak budować lepsze relacje i odnaleźć swoje miejsce w społeczeństwie",Urząd Pracy
+nauczyciel niesłyszących i słabosłyszących (surdopedagog),,"kształci dzieci i młodzież niesłyszącą oraz słabosłyszącą, ucząc ich komunikacji (np. języka migowego czy czytania z ust) i przedmiotów szkolnych, aby mogli rozwijać się i uczestniczyć w życiu społecznym",Urząd Pracy
+nauczyciel niewidomych i  słabowidzących (tyflopedagog),,"uczy niewidomych i słabowidzących dzieci oraz młodzież, jak poznawać świat i zdobywać wiedzę, dostosowując metody nauczania do ich specjalnych potrzeb, aby mogli rozwijać się i być samodzielni",Urząd Pracy
+nauczyciel osób z niepełnosprawnością intelektualną (oligofrenopedagog),,"uczy osoby z niepełnosprawnością intelektualną, jak radzić sobie w codziennym życiu i rozwijać swoje umiejętności, aby mogły być bardziej samodzielne i szczęśliwe",Urząd Pracy
+nauczyciel praktycznej nauki zawodu,,"przygotowuje młodzież do pracy w konkretnym zawodzie, ucząc ich praktycznych umiejętności i pokazując, jak stosować wiedzę teoretyczną w codziennych zadaniach",Urząd Pracy
+nauczyciel przedmiotów teoretycznych zawodowych,,"uczy młodzież teoretycznych podstaw i zasad działania w konkretnym zawodzie, na przykład jak programować czy naprawiać maszyny, zanim zaczną praktyczne zajęcia",Urząd Pracy
+nauczyciel przedmiotów zawodowych artystycznych,,"uczy młodzież praktycznych umiejętności artystycznych, takich jak projektowanie graficzne czy fotografia, przygotowując ich do pracy w kreatywnych zawodach",Urząd Pracy
+nauczyciel przedmiotu w szkole podstawowej,,"uczy uczniów szkoły podstawowej wybranego przedmiotu, np. matematyki czy historii, pomagając im zrozumieć świat i rozwijać swoje talenty",Urząd Pracy
+nauczyciel przedmiotu w szkole ponadpodstawowej,,"uczy młodzież w szkole ponadpodstawowej konkretnego przedmiotu, przekazując im specjalistyczną wiedzę i rozwijając kluczowe umiejętności potrzebne do zdania matury oraz dalszego rozwoju osobistego i zawodowego",Urząd Pracy
+nauczyciel przedszkola,,"uczy i wspiera małe dzieci w wieku przedszkolnym, rozwijając ich umiejętności społeczne, poznawcze i manualne poprzez zabawę oraz kreatywne zajęcia, przygotowując je do dalszej edukacji",Urząd Pracy
+nauczyciel przewlekle chorych oraz osób z niepełnosprawnością ruchową,,"uczy i wspiera rozwój dzieci oraz młodzieży przewlekle chorej i z niepełnosprawnością ruchową, dostosowując metody nauczania do ich indywidualnych potrzeb i możliwości",Urząd Pracy
+nauczyciel psycholog,,"wspiera uczniów w rozwoju emocjonalnym i społecznym poprzez zajęcia grupowe, a także indywidualnie pomaga im zrozumieć i pokonać trudności, by czuli się dobrze i sprawnie uczyli",Urząd Pracy
+nauczyciel specjalista terapii pedagogicznej,,"wspiera dzieci i młodzież, które mierzą się z trudnościami w nauce lub rozwoju, stosując specjalistyczne metody i terapie, aby mogły w pełni wykorzystać swój potencjał edukacyjny",Urząd Pracy
+nauczyciel sztuki w placówkach pozaszkolnych,,"prowadzi zajęcia z rysunku, malarstwa czy rzeźby w domach kultury i pracowniach; inspiruje młodych ludzi do rozwijania kreatywności i odkrywania talentów artystycznych poza szkolnym programem",Urząd Pracy
+nauczyciel technologii informatycznych w placówkach pozaszkolnych,,"prowadzi dla młodzieży ciekawe warsztaty i kursy z programowania, robotyki czy grafiki komputerowej, rozwijając ich cyfrowe pasje poza szkolnymi murami",Urząd Pracy
+nauczyciel w placówkach pozaszkolnych,,"wspiera młodych ludzi w odkrywaniu i rozwijaniu ich pasji oraz talentów; prowadzi inspirujące zajęcia pozalekcyjne w domach kultury, klubach czy prywatnych pracowniach",Urząd Pracy
+nawigator,nawigatorka,"planuje i prowadzi podróż statków, samolotów lub pojazdów lądowych, precyzyjnie wyznaczając trasę i czuwając nad jej przebiegiem, by bezpiecznie dotrzeć do celu",Warhammer FRP
+nawigator lotniczy,,"kieruje samolotem, precyzyjnie wyznaczając i monitorując jego trasę lotu, aby bezpiecznie i na czas dotarł do celu, wykorzystując do tego nowoczesne systemy nawigacyjne",Urząd Pracy
+neurologopeda,neurologopedka,"pomaga dzieciom i dorosłym, którzy mają trudności z mówieniem, rozumieniem, czytaniem, pisaniem lub połykaniem, wynikające z zaburzeń neurologicznych lub uszkodzeń mózgu",Urząd Pracy
+normalizator,normalizatorka,"tworzy zasady i normy, aby różne rzeczy, od zabawek po programy komputerowe, działały ze sobą bez problemów i były bezpieczne dla użytkowników",Urząd Pracy
+noszowy,noszowa,"nosi i przenosi osoby chore lub ranne na specjalnych noszach, dbając o ich bezpieczeństwo podczas transportu, na przykład w szpitalu czy podczas akcji ratunkowej",Urząd Pracy
+notariusz,notariuszka,"pomaga ludziom w załatwianiu ważnych spraw prawnych, takich jak sprzedaż mieszkania czy spisanie testamentu, potwierdzając autentyczność dokumentów i dbając o ich zgodność z prawem",Urząd Pracy
+numerolog,numerolożka,"bada ukryte znaczenie liczb, na przykład daty urodzenia czy liter w imieniu, aby odczytać cechy charakteru, talenty oraz potencjalne wyzwania i możliwości w życiu człowieka",Harry Potter
+nurek,nurkini,"nurkuje w głębinach, aby badać morskie życie, naprawiać konstrukcje podwodne, szukać zaginionych przedmiotów lub dokumentować podwodny świat",Urząd Pracy
+obchodowy bloku,obchodowa bloku,"sprawdza i kontroluje działanie maszyn oraz systemów w konkretnym bloku elektrowni lub ciepłowni, aby zapewnić jego ciągłą i bezpieczną pracę",Urząd Pracy
+obserwator radarowy żeglugi śródlądowej,,"obserwuje na ekranie radaru ruch na rzekach i kanałach, by pomagać w bezpiecznym prowadzeniu statku i unikać zderzeń z innymi jednostkami lub przeszkodami",Urząd Pracy
+obuwnik,obuwniczka,"projektuje, wykonuje i naprawia obuwie, dbając o każdy detal, aby było ono wygodne, trwałe i estetyczne",Urząd Pracy
+obuwnik miarowy,,"wykonuje ręcznie obuwie na indywidualne zamówienie, idealnie dopasowując je do kształtu i rozmiaru stopy klienta na podstawie dokładnych pomiarów",Urząd Pracy
+obuwnik ortopedyczny,,"tworzy i dopasowuje specjalne buty lub wkładki, aby korygować wady stóp, łagodzić ból i poprawiać komfort chodzenia u osób z różnymi schorzeniami",Urząd Pracy
+obuwnik przemysłowy,,"wytwarza obuwie w fabryce, obsługując maszyny do szycia, klejenia i montażu poszczególnych elementów buta w ramach masowej produkcji",Urząd Pracy
 oceanolog,oceanolożka,"bada stan oceanów, czystość wody, żyjące organizmy",Nietypowe zawody
-odkrywca,odkrywczyni,,Warhammer FRP
-ogrodnik,,,Urząd Pracy
-ogrodnik – uprawa grzybów jadalnych,,,Urząd Pracy
-ogrodnik – uprawa roślin ozdobnych,,,Urząd Pracy
-ogrodnik – uprawa warzyw polowych,,,Urząd Pracy
-ogrodnik – uprawy pod osłonami,,,Urząd Pracy
-ogrodnik producent nasion,,,Urząd Pracy
-ogrodnik szkółkarz,,,Urząd Pracy
-ogrodnik terenów zieleni,,,Urząd Pracy
+odkrywca,odkrywczyni,"bada odległe i niezbadane zakątki świata, aby odkrywać nowe lądy, kultury, gatunki czy zjawiska, poszerzając naszą wiedzę o planecie",Warhammer FRP
+ogrodnik,ogrodniczka,"tworzy i pielęgnuje ogrody, parki oraz inne tereny zielone, sadząc rośliny, przycinając krzewy i drzewa, by cieszyły oko i wspierały środowisko",Urząd Pracy
+ogrodnik – uprawa grzybów jadalnych,,"hoduje jadalne grzyby, takie jak pieczarki czy boczniaki, zapewniając im odpowiednią temperaturę, wilgotność i podłoże dla zdrowego rozwoju i obfitych zbiorów",Urząd Pracy
+ogrodnik – uprawa roślin ozdobnych,,"tworzy i utrzymuje piękne przestrzenie, sadząc, pielęgnując i hodując różnorodne rośliny ozdobne – kwiaty, krzewy i drzewa – aby upiększać ogrody, parki, balkony i wnętrza",Urząd Pracy
+ogrodnik – uprawa warzyw polowych,,"uprawia, pielęgnuje i zbiera warzywa rosnące na polach, dbając o każdy etap ich rozwoju od nasiona po dojrzały plon",Urząd Pracy
+ogrodnik – uprawy pod osłonami,,"hoduje różnorodne rośliny, od warzyw po kwiaty, w specjalnych szklarniach i tunelach; dba o ich idealne warunki, takie jak temperatura czy nawodnienie, by rosły zdrowo niezależnie od pory roku",Urząd Pracy
+ogrodnik producent nasion,,"hoduje różnorodne rośliny, starannie je selekcjonując i pielęgnując, aby pozyskać z nich zdrowe i żywotne nasiona do sprzedaży i dalszego siewu",Urząd Pracy
+ogrodnik szkółkarz,,"pielęgnuje i rozmnaża młode rośliny, takie jak drzewa, krzewy i kwiaty, w specjalnych szkółkach; dba o ich zdrowy wzrost, aby mogły trafić do ogrodów, parków lub na sprzedaż",Urząd Pracy
+ogrodnik terenów zieleni,,"zajmuje się zakładaniem i utrzymaniem w dobrej kondycji parków, skwerów i ogrodów; dba o rośliny, trawniki i ogólną estetykę zielonych przestrzeni",Urząd Pracy
 operator dronów,operatorka dronów,"steruje dronami, by wykonywały różne trudne zadania",Nietypowe zawody
-operator dźwięku,,,Urząd Pracy
-operator kamery,,,Urząd Pracy
-operator koparki,,,Urząd Pracy
-operator kserokopiarek,,,Urząd Pracy
-operator ładowarki,,,Urząd Pracy
-operator mostu zwodzonego,,,Urząd Pracy
-operator myjni,,,Urząd Pracy
-operator spalarni odpadów komunalnych,,,Urząd Pracy
-operator spycharki,,,Urząd Pracy
-operator tankowania statków powietrznych,,,Urząd Pracy
-operator żurawia,operatorka żurawia,,Urząd Pracy
-opiekun dzieci na przejściach dla pieszych,opiekunka dzieci na przejściach dla pieszych,,Urząd Pracy
-opiekun dzikich zwierząt,,,Urząd Pracy
-opiekun klienta,,,Urząd Pracy
-opiekun medyczny,,,Urząd Pracy
-opiekun osoby starszej,,,Urząd Pracy
-opiekun w domu pomocy społecznej,,,Urząd Pracy
-opiekun wycieczek kosmicznych,opiekunka wycieczek kosmicznych,,Nietypowe zawody
-opiekun zwierząt domowych,,,Urząd Pracy
-opiekunka domowa,,,Urząd Pracy
-opiekunka dzieci w drodze do szkoły,,,Urząd Pracy
-opiekunka dziecięca,,,Urząd Pracy
-opiekunka dziecięca domowa (niania),,,Urząd Pracy
-opiekunka środowiskowa,,,Urząd Pracy
-opiekunka w żłobku / klubie dziecięcym,,,Urząd Pracy
-optoelektronik,,,Urząd Pracy
-optometrysta,,,Urząd Pracy
+operator dźwięku,,"steruje sprzętem audio, takim jak mikrofony, miksery i głośniki, aby nagrać, miksować i odtwarzać dźwięk w filmach, muzyce, radiu czy na koncertach; dba o to, by jego brzmienie było czyste, zbalansowane i odpowiednio głośne",Urząd Pracy
+operator kamery,,"obsługuje kamerę, dbając o odpowiednie kadrowanie, ostrość i płynność ruchu, aby uchwycić dynamiczne sceny, emocje czy ważne momenty dla produkcji filmowych, telewizyjnych, relacji na żywo czy teledysków",Urząd Pracy
+operator koparki,,"obsługuje potężną maszynę budowlaną, koparkę; za jej pomocą wykonuje prace ziemne, takie jak kopanie fundamentów, formowanie terenu czy załadunek materiałów",Urząd Pracy
+operator kserokopiarek,,"obsługuje kserokopiarki, powielając dokumenty, zdjęcia i inne materiały, oraz dba o ich prawidłowe działanie i zaopatrzenie w papier czy tusz",Urząd Pracy
+operator ładowarki,,"obsługuje ciężką maszynę budowlaną z dużą łyżką, zwaną ładowarką; jego zadaniem jest przemieszczanie, kopanie i załadunek materiałów sypkich, takich jak ziemia, piasek czy gruz",Urząd Pracy
+operator mostu zwodzonego,,"obsługuje most zwodzony, podnosząc go, by umożliwić przepływ statków, i opuszczając, by zapewnić bezpieczny przejazd pojazdom oraz pieszym",Urząd Pracy
+operator myjni,,"kieruje pracą myjni, obsługując maszyny czyszczące i dbając, by samochody klientów były zawsze idealnie czyste i gotowe do drogi",Urząd Pracy
+operator spalarni odpadów komunalnych,,"obsługuje i monitoruje zaawansowane urządzenia w spalarni, które przetwarzają odpady komunalne w energię elektryczną lub cieplną; dba o to, by proces ten był bezpieczny, efektywny i przyjazny dla środowiska",Urząd Pracy
+operator spycharki,,"kieruje spycharką, aby przesuwać ziemię, równać teren i przygotowywać place budowy pod drogi, budynki czy inne konstrukcje",Urząd Pracy
+operator tankowania statków powietrznych,,"obsługuje specjalistyczny sprzęt do napełniania statków powietrznych paliwem, dbając o bezpieczeństwo i precyzję podczas przygotowywania maszyn do lotu",Urząd Pracy
+operator żurawia,operatorka żurawia,"obsługuje żuraw, aby z precyzją i dbałością o bezpieczeństwo podnosić oraz przenosić ciężkie ładunki na placach budowy, w portach czy magazynach",Urząd Pracy
+opiekun dzieci na przejściach dla pieszych,opiekunka dzieci na przejściach dla pieszych,"kieruje ruchem pieszych i zatrzymuje pojazdy, aby dzieci mogły bezpiecznie przejść przez ulicę w drodze do i ze szkoły",Urząd Pracy
+opiekun dzikich zwierząt,,"opiekuje się rannymi, chorymi lub osieroconymi dzikimi zwierzętami, zapewniając im leczenie i rehabilitację, by mogły bezpiecznie wrócić na wolność",Urząd Pracy
+opiekun klienta,,"rozwiązuje problemy klientów, odpowiada na ich pytania i udziela wsparcia, aby zapewnić ich satysfakcję z produktów lub usług firmy",Urząd Pracy
+opiekun medyczny,,"opiekuje się osobami chorymi, starszymi lub niepełnosprawnymi, wspierając je w codziennych czynnościach, dbając o higienę i komfort; monitoruje ich stan zdrowia i asystuje pielęgniarkom w procedurach medycznych",Urząd Pracy
+opiekun osoby starszej,,"opiekować się osobami starszymi, wspierając je w codziennych czynnościach, dbając o ich bezpieczeństwo i zapewniając im towarzystwo, to istota pracy opiekuna",Urząd Pracy
+opiekun w domu pomocy społecznej,,"opiekować się na co dzień osobami starszymi lub niepełnosprawnymi mieszkającymi w domu pomocy społecznej; wspierać ich w podstawowych czynnościach, takich jak higiena, jedzenie czy poruszanie się, dbając o ich komfort i godność",Urząd Pracy
+opiekun wycieczek kosmicznych,opiekunka wycieczek kosmicznych,"oprowadza podróżników po odległych galaktykach i stacjach kosmicznych, dzieląc się fascynującymi historiami wszechświata oraz czuwając nad ich komfortem i bezpieczeństwem podczas międzygwiezdnych przygód",Nietypowe zawody
+opiekun zwierząt domowych,,"opiekuje się zwierzętami domowymi, takimi jak psy, koty czy gryzonie, w czasie nieobecności ich właścicieli, zapewniając im jedzenie, spacery, zabawę i ogólną troskę",Urząd Pracy
+opiekun domowa,opiekunka domowa,"pomaga osobom starszym, chorym lub niepełnosprawnym w ich domach, asystując im w codziennych czynnościach takich jak higiena czy przygotowanie posiłków; zapewnia im również towarzystwo i wsparcie emocjonalne",Urząd Pracy
+opiekun dzieci w drodze do szkoły,opiekunka dzieci w drodze do szkoły,"opiekuje się dziećmi idącymi do szkoły, zapewniając im bezpieczną drogę i punktualne dotarcie na lekcje",Urząd Pracy
+opiekun dziecięcy,opiekunka dziecięca,,Urząd Pracy
+opiekun dziecięcy domowy (niania),opiekunka dziecięca domowa (niania),,Urząd Pracy
+opiekun środowiskowy,opiekunka środowiskowa,,Urząd Pracy
+opiekun w żłobku / klubie dziecięcym,opiekunka w żłobku / klubie dziecięcym,,Urząd Pracy
+optoelektronik,optoelektroniczka,,Urząd Pracy
+optometrysta,optometrystka,,Urząd Pracy
 optyk okularowy,,,Urząd Pracy
 optyk-mechanik,,,Urząd Pracy
-organista,,,Urząd Pracy
-organomistrz,,,Urząd Pracy
+organista,organistka,,Urząd Pracy
+organomistrz,organomistrzyni,,Urząd Pracy
 ortopeda mechanik,,,Urząd Pracy
-ortoptystka,,,Urząd Pracy
-osteopata,,,Urząd Pracy
+ortoptysta,ortoptystka,,Urząd Pracy
+osteopata,osteopatka,,Urząd Pracy
 oświetlacz filmowy,,,Urząd Pracy
 pakowacz ręczny,,,Urząd Pracy
-paleontolog,,,Urząd Pracy
-palowniczy,,,Urząd Pracy
-pamiątkarz,,,Urząd Pracy
-parasolnik,,,Urząd Pracy
-parkieciarz,,,Urząd Pracy
-parkingowy,,,Urząd Pracy
+paleontolog,paleontolożka,,Urząd Pracy
+palowniczy,palownicza,,Urząd Pracy
+pamiątkarz,pamiątkarka,,Urząd Pracy
+parasolnik,parasoniczka,,Urząd Pracy
+parkieciarz,parkieciarka,,Urząd Pracy
+parkingowy,parkingowa,,Urząd Pracy
 parlamentarzysta,,,Urząd Pracy
 parzelniczy drewna,,,Urząd Pracy
-pasterz,,,Warhammer FRP
+pasterz,pasterka,,Warhammer FRP
 patroszacz ryb,,,Urząd Pracy
-pedagog,,,Urząd Pracy
-pedikiurzystka,,,Urząd Pracy
-perfumiarz,,,Urząd Pracy
-perfuzjonista,,,Urząd Pracy
-perukarz,,,Urząd Pracy
-piaskarz,,,Urząd Pracy
+pedagog,pedagożka,,Urząd Pracy
+pedikiurzysta,pedikurzystka,,Urząd Pracy
+perfumiarz,perfumiarka,,Urząd Pracy
+perfuzjonista,perfuzjonistka,,Urząd Pracy
+perukarz,perukarka,,Urząd Pracy
+piaskarz,piaskarka,,Urząd Pracy
 piecowy nagrzewania wsadu w walcowni,,,Urząd Pracy
 piecowy pieca łukowego,,,Urząd Pracy
-piekarz,,,Urząd Pracy
-pielęgniarka,,,Urząd Pracy
-pilarz,,,Urząd Pracy
+piekarz,piekarka,,Urząd Pracy
+pielęgniarz,pielęgniarka,,Urząd Pracy
+pilarz,pilarka,,Urząd Pracy
 pilarz kamienia,,,Urząd Pracy
 pilot balonowy,,,Urząd Pracy
 pilot morski,,,Urząd Pracy
@@ -701,25 +694,25 @@ pilot szybowcowy,,,Urząd Pracy
 pilot wiatrakowcowy zawodowy,,,Urząd Pracy
 pilot wycieczek,,,Urząd Pracy
 pilot żeglugi śródlądowej,,,Urząd Pracy
-piosenkarz,,,Urząd Pracy
-pirotechnik,,,Urząd Pracy
+piosenkarz,piosenkarka,,Urząd Pracy
+pirotechnik,pirotechniczka,,Urząd Pracy
 pisarz,pisarka,,Urząd Pracy
 pizzer,pizzerka,,Urząd Pracy
 planetolog,planetolożka,udziela informacji o odległych planetach przed podróżą lub przeprowadzką,Nietypowe zawody
 planista produkcyjny,,,Urząd Pracy
-plastyk,,,Urząd Pracy
-płatnerz,,,Urząd Pracy
-plecionkarz,,,Urząd Pracy
+plastyk,plastyczka,,Urząd Pracy
+płatnerz,płatnerka,,Urząd Pracy
+plecionkarz,plecionkarka,,Urząd Pracy
 płetwonurek ratownik,,,Urząd Pracy
 poborca skarbowy,,,Urząd Pracy
 podiatra,,,Urząd Pracy
 podkuwacz koni,,,Urząd Pracy
-podolog,,,Urząd Pracy
+podolog,podolożka,,Urząd Pracy
 poeta,poetka,,Urząd Pracy
-pokojowa,,,Urząd Pracy
+pokojowy,pokojowa,,Urząd Pracy
 polerowacz wyrobów z drewna,,,Urząd Pracy
 policjant,policjantka,,Urząd Pracy
-politolog,,,Urząd Pracy
+politolog,politolożka,,Urząd Pracy
 położna oddziałowa,,,Urząd Pracy
 pomoc apteczna,,,Urząd Pracy
 pomoc dentystyczna,,,Urząd Pracy
@@ -734,9 +727,9 @@ pomocnik lakiernika,,,Urząd Pracy
 pomocnik mechanika,,,Urząd Pracy
 pomocnik mleczarski,,,Urząd Pracy
 pomocnik piekarza,,,Urząd Pracy
-portier,,,Urząd Pracy
+portier,portierka,,Urząd Pracy
 portrecista,portrecistka,,
-posadzkarz,,,Urząd Pracy
+posadzkarz,posadzkarka,,Urząd Pracy
 poskramiacz niedźwiedzi,,,Warhammer FRP
 posłaniec,,,Warhammer FRP
 poszukiwacz trufli,poszukiwaczka trufli,,Nietypowe zawody
@@ -745,22 +738,20 @@ pozłotnik,,,Urząd Pracy
 pracownik galerii / muzeum,,,Urząd Pracy
 pracownik lombardu,,,Urząd Pracy
 pracownik przeprowadzkowy,,,Urząd Pracy
-praczka,,,Urząd Pracy
+pracz,praczka,,Urząd Pracy
 prasowacz ceramiki elektronicznej i elektrotechnicznej,,,Urząd Pracy
 prasowaczka ręczna,,,Urząd Pracy
 preparator medyczny,,,Urząd Pracy
-preze,,,Urząd Pracy
 prezenter muzyczny (dj / didżej),,,Urząd Pracy
 prezenter telewizyjny,,,Urząd Pracy
-prezes / dyrektor sądu,,,Urząd Pracy
-probierz,,,Urząd Pracy
+probierz,probierka,,Urząd Pracy
 producent filmowy,,,Urząd Pracy
 producent i zbieracz ziół,,,Urząd Pracy
 producent muzyczny,,,Urząd Pracy
 producent teatralny,,,Urząd Pracy
 producent telewizyjny,,,Urząd Pracy
 producent żywności ekologicznej,,,Urząd Pracy
-profilaktyk,,,Urząd Pracy
+profilaktyk,profilaktyczka,,Urząd Pracy
 programista aplikacji,,,Urząd Pracy
 programista aplikacji mobilnych,,,Urząd Pracy
 projektant / architekt systemów teleinformatycznych,,,Urząd Pracy
@@ -785,30 +776,30 @@ prowadzący rodzinny dom dziecka,,,Urząd Pracy
 przedstawiciel handlowy,,,Urząd Pracy
 przedstawiciel medyczny,,,Urząd Pracy
 "przedstawiciel władzy samorządowej (marszałek, starosta, radny)",,,Urząd Pracy
-przędzarz,,,Urząd Pracy
-przemytnik,,,Warhammer FRP
+przędzarz,przędzarka,,Urząd Pracy
+przemytnik,przemytniczka,,Warhammer FRP
 przetwórca mięsa,,,Urząd Pracy
 przetwórca owoców i warzyw,,,Urząd Pracy
 przetwórca ryb,,,Urząd Pracy
 przewodnik turystyczny górski,,,Urząd Pracy
 przewodnik turystyczny miejski,,,Urząd Pracy
 przewodnik turystyczny terenowy,,,Urząd Pracy
-przewoźnik,,,Warhammer FRP
+przewoźnik,przewoźniczka,,Warhammer FRP
 przewoźnik osób,,,Urząd Pracy
 przewoźnik żeglugi śródlądowej,,,Urząd Pracy
 przygotowywacz mas ceramicznych,,,Urząd Pracy
 przygotowywacz włókna,,,Urząd Pracy
 przytulacz,przytulaczka,pomaga osobom zmagającym się z samotnością i brakiem kontaktu z drugim człowiekiem,Nietypowe zawody
-psycholog,,,Urząd Pracy
-psychoonkolog,,,Urząd Pracy
-psychoterapeuta,,,Urząd Pracy
-psychotraumatolog,,,Urząd Pracy
-pszczelarz,,,Urząd Pracy
+psycholog,psycholożka,,Urząd Pracy
+psychoonkolog,psychoonkolożka,,Urząd Pracy
+psychoterapeuta,psychoterapeutka,,Urząd Pracy
+psychotraumatolog,psychotraumatolożka,,Urząd Pracy
+pszczelarz,pszczelarka,,Urząd Pracy
 pulpitowy wielkich pieców,,,Urząd Pracy
-pustelnik,,,Warhammer FRP
+pustelnik,pustelniczka,,Warhammer FRP
 radca prawny,,,Urząd Pracy
 radca prokuratorii generalnej rzeczypospolitej polskiej,,,Urząd Pracy
-radiesteta,,,Urząd Pracy
+radiesteta,radiestetka,,Urząd Pracy
 ratownik górniczy,,,Urząd Pracy
 ratownik górski,,,Urząd Pracy
 ratownik medyczny,,,Urząd Pracy
@@ -922,7 +913,7 @@ skarbnik bankowy,,,Urząd Pracy
 składacz sprzętu spadochronowego,,,Urząd Pracy
 skoczek spadochronowy,,,Urząd Pracy
 skrawkarz,skrawkarka,"przycina i opiłowuje monety tak, by uzyskać wystarczającą ilość materiału do zrobienia nowej (fałszywej) monety",Warhammer FRP
-skryba,,,Warhammer FRP
+skryba,skrybka,,Warhammer FRP
 ślusarz,,,Urząd Pracy
 ślusarz galanterii metalowej,,,Urząd Pracy
 ślusarz narzędziowy,,,Urząd Pracy
@@ -981,9 +972,9 @@ synoptyk,,,Urząd Pracy
 szaleciarz,,,Urząd Pracy
 szatniarz,,,Urząd Pracy
 szczotkarz,,,Urząd Pracy
-szczurołap,,,Warhammer FRP
+szczurołap,szczurołapka,,Warhammer FRP
 szef kuchni (kuchmistrz),,,Urząd Pracy
-szewc,,,Urząd Pracy
+szewc,szewczyni,,Urząd Pracy
 szklarz,,,Urząd Pracy
 szklarz budowlany,,,Urząd Pracy
 szklarz pojazdów,,,Urząd Pracy
@@ -1005,20 +996,20 @@ sztukator,,,Urząd Pracy
 szwaczka maszynowa,,,Urząd Pracy
 szwaczka ręczna,,,Urząd Pracy
 szyldziarz,,,Urząd Pracy
-szyper,,,Urząd Pracy
-tajemniczy klient (mystery shopper),,,Urząd Pracy
-takielarz,,,Urząd Pracy
-taksator,,,Urząd Pracy
+szyper,szyperka,,Urząd Pracy
+tajemniczy klient (mystery shopper),tajemnicza klientka,,Urząd Pracy
+takielarz,takielarka,,Urząd Pracy
+taksator,taksatorka,,Urząd Pracy
 taksator ryzyka działalności firm,,,Urząd Pracy
-taksówkarz,,,Urząd Pracy
+taksówkarz,taksówkarka,"przewozi pasażerów samochodem osobowym na żądanie, zazwyczaj w obrębie miasta",Urząd Pracy
 tanatoprakser (balsamista),,,Urząd Pracy
-tancerz,,,Urząd Pracy
+tancerz,tancerka,,Urząd Pracy
 tancerz baletowy,,,Urząd Pracy
-tapeciarz,,,Urząd Pracy
-tapicer,,,Urząd Pracy
+tapeciarz,tapeciarka,,Urząd Pracy
+tapicer,tapicerka,,Urząd Pracy
 tapicer meblowy,,,Urząd Pracy
-tartacznik,,,Urząd Pracy
-tatuażysta,,,Urząd Pracy
+tartacznik,tartaczniczka,,Urząd Pracy
+tatuażysta,tatuażystka,,Urząd Pracy
 technik administracji,,,Urząd Pracy
 technik agrobiznesu,,,Urząd Pracy
 technik akustyk,,,Urząd Pracy
@@ -1226,7 +1217,7 @@ toksykolog,,,Urząd Pracy
 topiarz fryty,,,Urząd Pracy
 topiarz mas mineralnych,,,Urząd Pracy
 topiarz szkła,,,Urząd Pracy
-toromistrz,,,Urząd Pracy
+toromistrz,toromistrzyni,,Urząd Pracy
 towaroznawca,,,Urząd Pracy
 tragarz,,,Urząd Pracy
 traser,,,Urząd Pracy
@@ -1318,12 +1309,12 @@ zbieracz szyszek,zbieraczka szyszek,zajmuje się podnoszeniem szyszek z ziemi i
 zbrojarz,zbrojarka,,Urząd Pracy
 zdobnik ceramiki,,,Urząd Pracy
 zdobnik szkła,,,Urząd Pracy
-zegarmistrz,,,Urząd Pracy
+zegarmistrz,zegarmistrzyni,,Urząd Pracy
 zielarz-fitoterapeuta,,,Urząd Pracy
 złotnik-jubiler,,,Urząd Pracy
 zmywacz naczyń,,,Urząd Pracy
 zmywacz okien (czyściciel szyb),,,Urząd Pracy
-żongler,,,Urząd Pracy
+żongler,żonglerka,,Urząd Pracy
 zoofizjoterapeuta,zoofizjoterapeutka,pomaga zwierzętom w procesie rehabilitacji,Nietypowe zawody
-zoopsycholog,,,Urząd Pracy
+zoopsycholog,zoopsycholożka,,Urząd Pracy
 zwrotniczy,,,Urząd Pracy
